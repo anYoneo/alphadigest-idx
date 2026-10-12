@@ -1,0 +1,120 @@
+{
+  "_meta": {
+    "description": "Sector-specific LLM prompts for Pass 2 deep analysis per AGENTS.md Rule #7",
+    "version": "1.0",
+    "last_updated": "2026-08-21"
+  },
+  "Energi & Utilitas": {
+    "focus_kpis": [
+      "Kapasitas Terpasang (MW/GW)",
+      "Capacity Factor (%)",
+      "Availability Factor",
+      "Tarif Listrik/Uap (USD/kWh)",
+      "Pipeline Proyek COD",
+      "Kontrak PPA"
+    ],
+    "prompt_addendum": "Fokus analisis pada: Kapasitas Terpasang (MW/GW), Capacity Factor (%), Availability Factor, Tarif Listrik/Uap per kWh, Pipeline Proyek COD (Commercial Operation Date), status Kontrak PPA (Power Purchase Agreement) jangka panjang, dan efisiensi Heat Rate."
+  },
+  "Multifinance & Perbankan": {
+    "focus_kpis": [
+      "NPF/NPL (%)",
+      "Cost of Funds (%)",
+      "NIM (%)",
+      "CAR (%)",
+      "LDR (%)",
+      "CASA Ratio (%)",
+      "Pertumbuhan Pembiayaan",
+      "Portofolio Segmen"
+    ],
+    "prompt_addendum": "Fokus analisis pada: NPF/NPL Gross & Net, Cost of Funds, NIM (Net Interest Margin), CAR (Capital Adequacy Ratio), LDR/FDR, CASA Ratio, pertumbuhan pembiayaan/kredit YoY, breakdown portofolio per segmen."
+  },
+  "Properti & Konstruksi": {
+    "focus_kpis": [
+      "Landbank (Ha)",
+      "Presales / Marketing Sales",
+      "Progress Groundbreaking",
+      "Backlog Pendapatan",
+      "Recurring Income",
+      "Occupancy Rate (%)"
+    ],
+    "prompt_addendum": "Fokus analisis pada: Total Landbank (Ha), Marketing Sales/Presales, progress groundbreaking, backlog pendapatan kontrak, recurring income, occupancy rate, rencana akuisisi lahan."
+  },
+  "Telekomunikasi & Teknologi": {
+    "focus_kpis": [
+      "ARPU (Rp)",
+      "Coverage Fiber Optic (Km)",
+      "Tenancy Ratio",
+      "Penetrasi Pengguna",
+      "Jumlah Pelanggan"
+    ],
+    "prompt_addendum": "Fokus analisis pada: ARPU blended & per segmen, total coverage Fiber Optic (Km), Tenancy Ratio menara, penetrasi pengguna data/broadband, jumlah pelanggan aktif, pertumbuhan traffic data."
+  },
+  "Pertambangan": {
+    "focus_kpis": [
+      "Volume Produksi (ton)",
+      "Cash Cost per Unit",
+      "Average Selling Price (ASP)",
+      "Strip Ratio",
+      "Ore Reserves"
+    ],
+    "prompt_addendum": "Fokus analisis pada: Volume Produksi aktual vs target, Cash Cost per unit, ASP komoditas, Strip Ratio, cadangan bijih (Reserves & Resources), EBITDA Margin, kontrak offtake."
+  },
+  "Konsumer & Ritel": {
+    "focus_kpis": [
+      "Revenue Growth (%)",
+      "Same-Store Sales Growth (%)",
+      "Gross Margin (%)",
+      "Jumlah Outlet/Gerai",
+      "Market Share (%)"
+    ],
+    "prompt_addendum": "Fokus analisis pada: Revenue Growth YoY, Same-Store Sales Growth, Gross & Operating Margin, ekspansi outlet baru, market share per kategori, Inventory Turnover."
+  },
+  "Infrastruktur & Transportasi": {
+    "focus_kpis": [
+      "Volume Lalu Lintas",
+      "Load Factor (%)",
+      "Tarif Rata-rata",
+      "Utilisasi Armada (%)",
+      "Kontrak Konsesi"
+    ],
+    "prompt_addendum": "Fokus analisis pada: Volume lalu lintas/penumpang/kargo, Load Factor, tarif rata-rata, utilisasi armada, EBITDA Margin, masa berlaku kontrak konsesi."
+  },
+  "Kesehatan": {
+    "focus_kpis": [
+      "Jumlah Pasien",
+      "BOR (%)",
+      "Revenue per Bed",
+      "Jumlah RS/Klinik",
+      "ARPOB"
+    ],
+    "prompt_addendum": "Fokus analisis pada: Jumlah pasien, BOR (Bed Occupancy Rate), Revenue per Bed, ARPOB, jumlah RS/klinik, margin farmasi, rencana ekspansi."
+  },
+  "Manufaktur": {
+    "focus_kpis": [
+      "Utilisasi Kapasitas (%)",
+      "Volume Produksi",
+      "Harga Jual Rata-rata",
+      "Gross Margin (%)"
+    ],
+    "prompt_addendum": "Fokus analisis pada: Utilisasi kapasitas pabrik, volume produksi, harga jual rata-rata, COGS, Gross Margin, proporsi ekspor vs domestik."
+  },
+  "Agrikultur": {
+    "focus_kpis": [
+      "Luas Lahan (Ha)",
+      "Produksi TBS/CPO (ton)",
+      "Yield per Hektar",
+      "ASP CPO (Rp/ton)"
+    ],
+    "prompt_addendum": "Fokus analisis pada: Total luas lahan, volume produksi TBS & CPO, yield per hektar, ASP CPO, profil usia tanaman, proporsi nucleus vs plasma."
+  },
+  "General": {
+    "focus_kpis": [
+      "Revenue",
+      "Net Profit",
+      "EBITDA",
+      "Total Assets",
+      "Equity"
+    ],
+    "prompt_addendum": "Ekstrak semua metrik keuangan dan operasional utama: Revenue, Net Profit, EBITDA, Total Assets, Total Equity, serta informasi strategis material."
+  }
+}

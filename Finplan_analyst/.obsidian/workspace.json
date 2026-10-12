@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "74a803d7a62db916",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1594d7c63b972f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b9da558fe04607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge-base/public-exposes/POLI_Public_Expose_20261009.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POLI_Public_Expose_20261009"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ae19ede17aaff05",
+    "type": "split",
+    "children": [
+      {
+        "id": "c183966662224cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcdc1018dffa064b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9e4a31b744bf58d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cda03987b9cb2adf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.5
+  },
+  "right": {
+    "id": "cb3e784850c5c756",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc419492e2aeb5d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc355b42fce80f46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "knowledge-base/public-exposes/POLI_Public_Expose_20261009.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4634717b129e9603",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "960bc7bfe5fa7134",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63ac3828a7f55097",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "878048cd608fac2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "knowledge-base/public-exposes/POLI_Public_Expose_20261009.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "878048cd608fac2d",
+  "lastOpenFiles": [
+    "knowledge-base/public-exposes/POLI_Public_Expose_20261006.md",
+    "knowledge-base/public-exposes/POLI_Public_Expose_20260928.md",
+    "knowledge-base/public-exposes/informasi-pubex/MDLA_Public_Expose_20260914.md",
+    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261006.md",
+    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261009.md",
+    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261008.md",
+    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261007.md",
+    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261005.md",
+    "knowledge-base/daily-digests/2026-10/Weekend_Digest_20261005.md",
+    "knowledge-base/corporate-actions/rups/pemanggilan/MKPI_Pemanggilan_RUPS_20261005.md",
+    "knowledge-base/daily-digests/2026-09/Weekend_Digest_20260907.md",
+    "knowledge-base/daily-digests/2026-09/Daily_Digest_20260924.md",
+    "knowledge-base/trading-signals/2026-09/Trading_Signals_20260925.md",
+    "knowledge-base/daily-digests/2026-09/Daily_Digest_20260925.md",
+    "knowledge-base/corporate-actions/dividen/NICL_Dividen_20260924.md",
+    "knowledge-base/public-exposes/UNTD_Public_Expose_20260925.md",
+    "knowledge-base/corporate-actions/rups/pemanggilan/IBOS_Pemanggilan_RUPS_20260924.md",
+    "knowledge-base/corporate-actions/rups/hasil-rups/POOL_Hasil_RUPS_20260924.md",
+    "knowledge-base/public-exposes/MERK_Public_Expose_20260925.md",
+    "knowledge-base/corporate-actions/rups/pemanggilan/WIFI_Pemanggilan_RUPS_20260924.md",
+    "knowledge-base/corporate-actions/rups/pemanggilan/BIKE_Pemanggilan_RUPS_20260924.md",
+    "knowledge-base/financial-summaries/APII_2026_Q2_Summary.md",
+    "knowledge-base/corporate-actions/rups/hasil-rups/MGLV_Hasil_RUPS_20260924.md",
+    "knowledge-base/corporate-actions/rights-issue/HRTA_Rights_Issue_20260924.md",
+    "knowledge-base/corporate-actions/rups/hasil-rups/OILS_Hasil_RUPS_20260924.md",
+    "knowledge-base/public-exposes/CASH_Public_Expose_20260925.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "knowledge-base/trading-signals/2026-09",
+    "knowledge-base/trading-signals/2026-08",
+    "knowledge-base/daily-digests/2026-09",
+    "knowledge-base/daily-digests/2026-08",
+    "knowledge-base/daily-digests/2026-07",
+    "knowledge-base/corporate-actions/general-disclosures",
+    "knowledge-base/public-exposes/informasi-pubex",
+    "knowledge-base/public-exposes/hasil-pubex",
+    "knowledge-base/corporate-actions/rups/hasil-rups",
+    "knowledge-base/corporate-actions/rups/pemanggilan"
+  ]
+}

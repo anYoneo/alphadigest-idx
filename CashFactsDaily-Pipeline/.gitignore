@@ -1,0 +1,32 @@
+# CashFactsDaily Pipeline
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Output files (large, don't track in git)
+media/audio/
+media/avatar/
+media/thumbnails/
+media/broll/
+media/music_library/
+output/
+data/topics/
+
+# Keep directory structure
+!media/audio/.gitkeep
+!media/avatar/.gitkeep
+!media/thumbnails/.gitkeep
+!media/broll/.gitkeep
+!media/music_library/.gitkeep
+!output/drafts/.gitkeep
+!output/final/.gitkeep
+!data/topics/.gitkeep
+
+# IDE
+.vscode/
+.idea/

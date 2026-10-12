@@ -1,0 +1,110 @@
+# =============================================================
+# CashFactsDaily / FaktaCuan — Pipeline Configuration
+# =============================================================
+# Copy .env.example to .env and fill in your API keys there.
+# This file contains non-secret configuration only.
+# =============================================================
+
+# --- LLM (Script Generation) --------------------------------
+llm:
+  provider: "deepseek"                # deepseek | openai | openrouter
+  base_url: "https://api.deepseek.com"
+  model: "deepseek-chat"
+  temperature: 0.85
+  max_tokens: 1500
+
+# --- Content Strategy ----------------------------------------
+content:
+  niches:
+    - "technology_ai"
+    - "storytelling_facts"
+    - "trending_news"
+
+  pillars:
+    newsjacking:
+      weight: 0.30
+      description: "Breaking news, trending topics, industry shifts"
+    education:
+      weight: 0.30
+      description: "How-to tutorials, tips, step-by-step guides"
+    storytelling:
+      weight: 0.25
+      description: "Mind-blowing facts, deep narratives, case studies"
+    authority:
+      weight: 0.15
+      description: "Tool reviews, tier lists, comparisons, CTAs"
+
+  video_duration:
+    short: { min: 30, max: 60, label: "Quick Reel" }
+    medium: { min: 60, max: 90, label: "Deep Reel" }
+    long: { min: 90, max: 180, label: "Medium Video" }
+
+# --- Brand Configuration ------------------------------------
+brands:
+  en:
+    name: "CashFactsDaily"
+    handle: "@CashFactsDaily"
+    tone: "punchy, authoritative, mind-blowing, witty"
+    target_audience: "US/UK/Global English speakers interested in tech, AI, and surprising facts"
+    cta: "Follow @CashFactsDaily for daily mind-blowing facts"
+    language: "English"
+
+  id:
+    name: "FaktaCuan"
+    handle: "@FaktaCuan"
+    tone: "santai, gaul, relatable, bikin kaget, sedikit humor"
+    target_audience: "Anak muda Indonesia yang suka fakta unik, tech, dan konten viral"
+    cta: "Follow @FaktaCuan buat fakta mencengangkan setiap hari!"
+    language: "Bahasa Indonesia"
+
+# --- Topic Sources -------------------------------------------
+sources:
+  google_trends:
+    enabled: true
+    regions:
+      - "united_states"
+      - "indonesia"
+    categories:
+      - "technology"
+      - "science"
+      - "business"
+
+  reddit:
+    enabled: true
+    subreddits:
+      - "technology"
+      - "artificial"
+      - "todayilearned"
+      - "science"
+      - "Futurology"
+      - "MachineLearning"
+    sort: "hot"
+    limit: 10
+
+  hackernews:
+    enabled: true
+    endpoint: "https://hacker-news.firebaseio.com/v0"
+    limit: 15
+
+# --- Output Paths (relative to project root) ----------------
+paths:
+  data_topics: "data/topics"
+  scripts_pending: "scripts/pending"
+  scripts_approved: "scripts/approved"
+  scripts_published: "scripts/published"
+
+  # Phase 2+ paths
+  media_audio: "media/audio"
+  media_avatar: "media/avatar"
+  media_thumbnails: "media/thumbnails"
+  media_broll: "media/broll"
+  media_music: "media/music_library"
+  output_drafts: "output/drafts"
+  output_final: "output/final"
+
+# --- Pipeline Settings ---------------------------------------
+pipeline:
+  scripts_per_run: 4            # How many scripts to generate per run (2 EN + 2 ID)
+  topics_to_fetch: 20           # Max topics to scan per source
+  auto_approve: false           # If true, skip human review (not recommended)
+  log_level: "INFO"

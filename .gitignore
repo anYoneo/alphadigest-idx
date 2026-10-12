@@ -1,0 +1,61 @@
+# ==========================================
+# Security & Credentials (CRITICAL - NEVER COMMIT)
+# ==========================================
+.env
+**/.env
+*.env
+.env.*
+!.env.example
+!**/.env.example
+
+# ==========================================
+# Large Raw Data & Crawled PDF Files
+# ==========================================
+reports/raw/
+reports/test/
+reports/cache/
+*.pdf
+*.xlsx
+*.xls
+
+# ==========================================
+# Databases & Cache
+# ==========================================
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# ==========================================
+# Logs & System Files
+# ==========================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================================
+# Python Artifacts & Virtual Environments
+# ==========================================
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# ==========================================
+# OS & Editor Specific
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo

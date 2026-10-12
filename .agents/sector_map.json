@@ -1,0 +1,628 @@
+{
+  "_meta": {
+    "description": "Sector mapping for IDX emitens. Source of truth: Finplan_analyst/knowledge-base/. reports/summaries/ is export/backup.",
+    "last_updated": "2026-10-12T09:00:00+07:00",
+    "schema_version": "2.0",
+    "extraction_layers": {
+      "layer_1": "Core Financials — Neraca, Laba Rugi, Arus Kas (sama untuk semua sektor)",
+      "layer_2": "Sector KPIs — Angka operasional spesifik sektor (lihat sector_schemas)",
+      "layer_3": "Qualitative Intelligence — MD&A, catatan kaki, opini auditor, guidance"
+    }
+  },
+
+  "sector_schemas": {
+    "Multifinance & Perbankan": {
+      "icon": "💳",
+      "report_types": ["LKT-A", "LKT-Q", "LKS", "LKB-Bulanan"],
+      "layer_2_kpis": {
+        "kualitas_aset": [
+          "NPL Gross (%)",
+          "NPL Net (%)",
+          "Loan at Risk / LAR (%)",
+          "Coverage Ratio (%)",
+          "Cadangan Kerugian Penurunan Nilai / CKPN (Rp)"
+        ],
+        "profitabilitas_bank": [
+          "Net Interest Margin / NIM (%)",
+          "Net Interest Income / NII (Rp)",
+          "Fee Based Income (Rp)",
+          "BOPO / Cost-to-Income Ratio (%)",
+          "Cost of Funds / CoF (%)"
+        ],
+        "likuiditas_permodalan": [
+          "CASA Ratio (%)",
+          "Current Account (Rp)",
+          "Saving Account (Rp)",
+          "Loan to Deposit Ratio / LDR (%)",
+          "Loan to Funding Ratio / LFR (%)",
+          "Capital Adequacy Ratio / CAR (%)"
+        ],
+        "pertumbuhan_kredit": [
+          "Total Kredit / Pembiayaan (Rp)",
+          "Pertumbuhan Kredit YoY (%)",
+          "Kredit Segmen Korporasi (Rp)",
+          "Kredit Segmen Ritel/UKM (Rp)",
+          "Kredit Konsumer (Rp)",
+          "Dana Pihak Ketiga / DPK (Rp)"
+        ],
+        "multifinance_specific": [
+          "Non-Performing Financing / NPF (%)",
+          "Pembiayaan Baru / New Booking (Rp)",
+          "Outstanding Portofolio (Rp)",
+          "Yield on Earning Assets (%)"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor (WTP / WDP / Disclaimer)",
+        "Perubahan regulasi OJK/BI yang material",
+        "Kebijakan CKPN dan model ECL (PSAK 71)",
+        "Restrukturisasi kredit & program relaksasi",
+        "Rencana ekspansi jaringan cabang / digital banking",
+        "Catatan perkara hukum & kewajiban kontinjensi",
+        "Transaksi pihak berelasi (RPT) material",
+        "Guidance manajemen: target kredit, NIM, NPL akhir tahun",
+        "Aksi korporasi (rights issue, merger/akuisisi)",
+        "Eksposur konsentrasi kredit per sektor/debitur"
+      ]
+    },
+
+    "Energi & Utilitas": {
+      "icon": "⚡",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "kapasitas_produksi": [
+          "Kapasitas Terpasang Total (MW/GW)",
+          "Kapasitas Operasional (MW/GW)",
+          "Capacity Factor (%)",
+          "Availability Factor (%)",
+          "Volume Produksi Energi (GWh/MWh)"
+        ],
+        "revenue_drivers": [
+          "Tarif Listrik / Uap PPA (USD/kWh atau Rp/kWh)",
+          "Durasi Kontrak PPA tersisa (tahun)",
+          "Volume Penjualan Energi (GWh)",
+          "Harga Jual Gas / LNG (USD/MMBTU)",
+          "Volume Penjualan Gas (MMSCFD)"
+        ],
+        "pipeline_proyek": [
+          "Proyek dalam konstruksi (nama, kapasitas MW, COD target)",
+          "Capex plan (Rp/USD)",
+          "Status financial close proyek baru",
+          "Total pipeline proyek EBT (MW)"
+        ],
+        "efisiensi_operasional": [
+          "Heat Rate (kkal/kWh)",
+          "O&M Cost per MWh",
+          "Fuel Cost per MWh",
+          "EBITDA per MWh"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Status negosiasi / amandemen PPA dengan PLN",
+        "Risiko regulasi ESDM & tarif EBT",
+        "Kondisi sumur geothermal / reservoir (decline rate)",
+        "Risiko force majeure & bencana alam",
+        "Jaminan pemerintah / sovereign guarantee",
+        "Guidance manajemen: target COD proyek, EBITDA",
+        "Eksposur kurs (USD-denominated PPA vs. biaya Rupiah)",
+        "Transaksi RPT dengan PLN / Pertamina",
+        "Catatan pinjaman proyek (project finance covenants)"
+      ]
+    },
+
+    "Telekomunikasi & Teknologi": {
+      "icon": "📡",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "pelanggan_trafik": [
+          "Jumlah Pelanggan Aktif (juta)",
+          "Pertumbuhan Pelanggan YoY (%)",
+          "Monthly Active Users / MAU (juta)",
+          "Jumlah Pelanggan Broadband/Data (juta)"
+        ],
+        "revenue_kpi": [
+          "Average Revenue per User / ARPU (Rp/bulan)",
+          "ARPU Data (Rp/bulan)",
+          "Blended ARPU (Rp/bulan)",
+          "Revenue per Layanan (Suara, Data, SMS, Digital) (Rp)"
+        ],
+        "infrastruktur": [
+          "Jumlah BTS / Base Station (unit)",
+          "Jumlah Menara Telekomunikasi (unit)",
+          "Tenancy Ratio (x)",
+          "Coverage Fiber Optic (km)",
+          "Home Passed Fiber (unit)"
+        ],
+        "efisiensi": [
+          "EBITDA Margin (%)",
+          "Capex to Revenue (%)",
+          "Churn Rate (%)",
+          "Cost per BTS (Rp)"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Progres merger/konsolidasi operator (misal: ISAT-TRIO)",
+        "Status lisensi spektrum & biaya BHP frekuensi",
+        "Risiko regulasi Kominfo & BRTI",
+        "Strategi transformasi digital / super-app",
+        "Capex guidance & rencana roll-out 5G",
+        "Perjanjian sewa menara (sale-leaseback) material",
+        "Kewajiban Universal Service Obligation (USO)",
+        "Guidance manajemen: target pelanggan, ARPU, EBITDA",
+        "Risiko persaingan harga tarif data"
+      ]
+    },
+
+    "Properti & Konstruksi": {
+      "icon": "🏢",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "presales_marketing": [
+          "Marketing Sales / Presales (Rp)",
+          "Pertumbuhan Presales YoY (%)",
+          "Presales per Segmen (Residensial, Komersial, Industri) (Rp)",
+          "Jumlah Unit Terjual (unit)",
+          "Average Selling Price / ASP per m² (Rp)"
+        ],
+        "backlog_revenue": [
+          "Backlog Pendapatan (Rp)",
+          "Estimasi Pengakuan Revenue dari Backlog (Rp/tahun)",
+          "Take Up Rate Proyek (%)"
+        ],
+        "aset_landbank": [
+          "Total Landbank (Ha)",
+          "Landbank Siap Jual / Developable (Ha)",
+          "Lokasi Landbank Strategis",
+          "Nilai Landbank (Rp)"
+        ],
+        "konstruksi_spesifik": [
+          "Nilai Kontrak Baru (Rp) — khusus BUMN Karya",
+          "Backlog Kontrak (Rp)",
+          "Progress Penyelesaian Proyek (%)",
+          "Working Capital Ratio"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Risiko likuiditas & akses kredit (debt maturity profile)",
+        "Kebijakan pengakuan pendapatan (PSAK 72 — POC vs. full completion)",
+        "Perkembangan proyek unggulan (Pantai Indah Kapuk 2, dll.)",
+        "Risiko sengketa lahan & perizinan",
+        "Status restrukturisasi utang (khusus BUMN Karya)",
+        "Guidance manajemen: target presales, backlog",
+        "Eksposur tingkat bunga KPR & kredit konstruksi",
+        "Transaksi RPT: penjualan lahan antar entitas grup",
+        "Rencana pengembangan kawasan / master plan"
+      ]
+    },
+
+    "Pertambangan": {
+      "icon": "⛏️",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "produksi_penjualan": [
+          "Volume Produksi (ton/troy oz/lb — sesuai komoditas)",
+          "Volume Penjualan (ton/troy oz/lb)",
+          "Realisasi vs. Target Produksi (%)"
+        ],
+        "harga_biaya": [
+          "Average Selling Price / ASP (USD/ton atau USD/oz)",
+          "All-In Sustaining Cost / AISC (USD/oz) — untuk emas",
+          "Cash Cost per ton (USD/ton)",
+          "Total Cash Cost (USD)",
+          "Royalti & PNBP (Rp/USD)"
+        ],
+        "operasional": [
+          "Strip Ratio (bcm/ton batubara)",
+          "Ore Grade / Kadar Bijih (%)",
+          "Recovery Rate (%)",
+          "Umur Tambang Tersisa (tahun)",
+          "Total Ore/Coal Reserves (ton/Mton)",
+          "Total Resources (ton/Mton)"
+        ],
+        "logistik": [
+          "Biaya Pengiriman / Freight Cost (USD/ton)",
+          "Volume Ekspor vs. Domestik (%)"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Status izin usaha pertambangan (IUP/IUPK) & perpanjangan",
+        "Risiko harga komoditas global (batubara, nikel, emas, timah)",
+        "Kebijakan DMO (Domestic Market Obligation) batubara",
+        "Risiko lingkungan & kewajiban reklamasi",
+        "Status hubungan dengan pemerintah daerah & masyarakat lokal",
+        "Guidance manajemen: target produksi, ASP, capex eksplorasi",
+        "Eksposur kurs USD (pendapatan USD vs. biaya Rupiah)",
+        "Rencana hilirisasi / smelter (khusus nikel, bauksit)",
+        "Perkembangan eksplorasi & sumber daya baru"
+      ]
+    },
+
+    "Konsumer & Ritel": {
+      "icon": "🛒",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "penjualan": [
+          "Same Store Sales Growth / SSSG (%)",
+          "Volume Penjualan per Kategori Produk (unit/ton)",
+          "Net Revenue per Kategori (Rp)",
+          "Market Share Estimasi (%)"
+        ],
+        "margin_efisiensi": [
+          "Gross Margin per Kategori (%)",
+          "Inventory Turnover (x)",
+          "Days Inventory Outstanding / DIO (hari)",
+          "Sell-out Growth (%)"
+        ],
+        "jaringan_distribusi": [
+          "Jumlah Gerai / Outlet / Dealer Aktif (unit)",
+          "Pertumbuhan Gerai Neto (unit baru - tutup)",
+          "Revenue per Gerai (Rp)",
+          "Luas Gerai / Retail Area (m²)"
+        ],
+        "otomotif_spesifik": [
+          "Market Share Otomotif (%)",
+          "Volume Penjualan Kendaraan (unit)",
+          "Backlog Pesanan (unit)",
+          "ASP per Unit Kendaraan (Rp)"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Tren daya beli konsumen & inflasi harga bahan baku",
+        "Strategi penetapan harga & promo vs. kompetitor",
+        "Risiko nilai tukar (bahan baku impor)",
+        "Rencana ekspansi gerai & pasar baru",
+        "Inovasi produk & pipeline peluncuran produk baru",
+        "Risiko perubahan perilaku konsumen (shifting ke digital/online)",
+        "Guidance manajemen: target revenue, margin, jumlah gerai",
+        "Transaksi RPT: pembelian bahan baku dari afiliasi",
+        "Dampak regulasi (cukai rokok, SNI, BPOM)"
+      ]
+    },
+
+    "Infrastruktur & Transportasi": {
+      "icon": "🚧",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "volume_trafik": [
+          "Volume Trafik / Throughput (SMP/hari, penumpang, kargo-ton)",
+          "Pertumbuhan Volume Trafik YoY (%)",
+          "Load Factor / Tingkat Isian (%)",
+          "Punctuality Rate (%)"
+        ],
+        "revenue_kpi": [
+          "Revenue per km / per unit / per penumpang (Rp)",
+          "Tarif rata-rata (Rp/km atau Rp/penumpang)",
+          "Occupancy Rate (%)",
+          "Yield (Rp/km penumpang)"
+        ],
+        "aset_utilisasi": [
+          "Panjang Jalan Tol Operasional (km)",
+          "Panjang Jalan Tol dalam Konstruksi (km)",
+          "Jumlah Armada Aktif (unit)",
+          "Tingkat Utilisasi Armada (%)",
+          "Usia Rata-rata Armada (tahun)"
+        ],
+        "pipeline_capex": [
+          "Pipeline Proyek Baru (nama, nilai, target operasi)",
+          "Capex Pemeliharaan vs. Ekspansi (Rp)",
+          "Nilai Investasi Proyek Baru (Rp)"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Status konsesi/konsesi & perpanjangan (BPJT, BMKG)",
+        "Risiko penyesuaian tarif (regulasi pemerintah)",
+        "Dampak kebijakan subsidi (PSO) Kemenhub",
+        "Risiko kompetisi moda transportasi substitusi",
+        "Status proyek konstruksi & progress milestone",
+        "Guidance manajemen: target trafik, tarif, EBITDA",
+        "Profil utang & debt maturity (project finance)",
+        "Eksposur bahan bakar & lindung nilai (hedging)",
+        "Perkembangan klaim asuransi / force majeure"
+      ]
+    },
+
+    "Kesehatan": {
+      "icon": "🏥",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "operasional_rumah_sakit": [
+          "Bed Occupancy Rate / BOR (%)",
+          "Jumlah Tempat Tidur Operasional (unit)",
+          "Average Length of Stay / ALOS (hari)",
+          "Jumlah Pasien Rawat Inap (orang)",
+          "Jumlah Pasien Rawat Jalan (orang)",
+          "Average Revenue per Inpatient (Rp)",
+          "Average Revenue per Outpatient (Rp)"
+        ],
+        "profil_pendapatan": [
+          "Revenue per Layanan (Rawat Inap, Rawat Jalan, ICU, Bedah) (Rp)",
+          "Proporsi BPJS vs. Non-BPJS / Cash (%)",
+          "Revenue per Faskes / per RS (Rp)"
+        ],
+        "farmasi_spesifik": [
+          "Volume Penjualan per Kategori Obat (unit/ton)",
+          "Revenue Ethical vs. OTC (%)",
+          "Gross Margin Farmasi (%)",
+          "R&D Spending (Rp)",
+          "Pipeline Produk Baru dalam Registrasi BPOM"
+        ],
+        "ekspansi": [
+          "Jumlah Rumah Sakit / Klinik Operasional (unit)",
+          "Kapasitas Tempat Tidur Total",
+          "Rencana Ekspansi Fasilitas Baru (nama, target operasi)"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Dampak kebijakan BPJS Kesehatan (tarif INA-CBG, kenaikan iuran)",
+        "Risiko kekurangan tenaga medis spesialis",
+        "Pipeline obat/produk baru menunggu persetujuan BPOM",
+        "Risiko klaim BPJS tertunggak (piutang BPJS)",
+        "Strategi ekspansi: akuisisi RS, greenfield, JV",
+        "Guidance manajemen: target BOR, revenue, ekspansi",
+        "Risiko regulasi Kemenkes (akreditasi, perizinan)",
+        "Transaksi RPT: pembelian obat/alkes dari afiliasi",
+        "Tren pasien medical tourism & internasionalisasi"
+      ]
+    },
+
+    "Agrikultur": {
+      "icon": "🌿",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "produksi": [
+          "Luas Lahan Tertanam / Mature Area (Ha)",
+          "Luas Lahan Total (Ha)",
+          "Produksi Tandan Buah Segar / TBS (ton)",
+          "Produksi CPO (ton)",
+          "Produksi PK / Palm Kernel (ton)",
+          "Yield TBS per Ha (ton/Ha)",
+          "OER / Oil Extraction Rate (%)",
+          "KER / Kernel Extraction Rate (%)"
+        ],
+        "harga": [
+          "Average Selling Price CPO (Rp/ton atau USD/ton)",
+          "Average Selling Price PK (Rp/ton)",
+          "Harga TBS Internal (Rp/kg)",
+          "Realisasi vs. harga referensi CPO global (USD/ton)"
+        ],
+        "biaya": [
+          "Cash Cost of Production CPO (Rp/kg atau USD/ton)",
+          "Cost of Production TBS (Rp/kg)",
+          "Biaya Pemupukan (Rp/Ha)",
+          "Umur Rata-rata Tanaman (tahun)"
+        ],
+        "pabrik_pengolahan": [
+          "Kapasitas PKS / Mill (ton TBS/jam)",
+          "Utilisasi PKS (%)",
+          "Jumlah PKS Operasional (unit)"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Tren harga CPO global & faktor penggerak (El Niño, produksi Malaysia)",
+        "Kebijakan DMO minyak goreng & pungutan ekspor CPO",
+        "Risiko El Niño/La Niña terhadap produktivitas kebun",
+        "Isu keberlanjutan (RSPO, ISPO, deforestasi)",
+        "Rencana replanting & peremajaan kebun tua",
+        "Guidance manajemen: target produksi CPO, capex",
+        "Risiko tenaga kerja & produktivitas panen",
+        "Status plasma/inti rakyat & kewajiban kemitraan",
+        "Hilirisasi: rencana biodiesel, oleokimia"
+      ]
+    },
+
+    "Manufaktur": {
+      "icon": "🏭",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "produksi": [
+          "Kapasitas Produksi Terpasang (unit/ton per tahun)",
+          "Volume Produksi Aktual (unit/ton)",
+          "Utilization Rate / Tingkat Utilisasi (%)",
+          "Volume Penjualan per Produk (unit/ton)"
+        ],
+        "biaya_margin": [
+          "Raw Material Cost per unit (Rp)",
+          "Proporsi Bahan Baku Impor vs. Lokal (%)",
+          "Gross Margin per Lini Produk (%)",
+          "Biaya Energi per unit produksi (Rp)"
+        ],
+        "inventory": [
+          "Inventory Turnover (x)",
+          "Days Inventory Outstanding / DIO (hari)",
+          "Backlog / Order Book (unit/Rp)",
+          "Finished Goods Inventory (unit)"
+        ],
+        "ekspor": [
+          "Revenue Ekspor vs. Domestik (%)",
+          "Volume Ekspor (unit/ton)",
+          "Negara Tujuan Ekspor Utama"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Risiko volatilitas harga bahan baku (baja, resin, aluminium)",
+        "Eksposur kurs: bahan baku impor & penjualan ekspor",
+        "Gangguan rantai pasok global (supply chain disruption)",
+        "Rencana efisiensi & otomasi produksi",
+        "Guidance manajemen: target utilisasi, volume, margin",
+        "Dampak regulasi impor (BMAD, SNI wajib)",
+        "Rencana ekspansi kapasitas (capex pabrik baru)",
+        "Transaksi RPT: pembelian bahan baku dari afiliasi",
+        "Strategi diversifikasi produk & pasar baru"
+      ]
+    },
+
+    "General": {
+      "icon": "📄",
+      "report_types": ["LKT-A", "LKT-Q", "LKS"],
+      "layer_2_kpis": {
+        "profitabilitas_umum": [
+          "Revenue per Segmen Bisnis (Rp)",
+          "Gross Margin (%)",
+          "EBITDA (Rp)",
+          "EBITDA Margin (%)"
+        ],
+        "efisiensi_operasional": [
+          "Operating Expense Ratio / OER (%)",
+          "Revenue Growth YoY (%)",
+          "Net Profit Margin / NPM (%)"
+        ],
+        "posisi_keuangan": [
+          "Free Cash Flow (Rp)",
+          "Net Debt / (Net Cash) (Rp)"
+        ]
+      },
+      "layer_3_qualitative": [
+        "Opini auditor",
+        "Strategi bisnis & model pendapatan",
+        "Risiko konsentrasi pelanggan / pemasok",
+        "Guidance manajemen & target tahunan",
+        "Kewajiban kontinjensi & perkara hukum"
+      ]
+    }
+
+  },
+
+  "tickers": {
+    "BBCA": "Multifinance & Perbankan",
+    "BBRI": "Multifinance & Perbankan",
+    "BBNI": "Multifinance & Perbankan",
+    "BMRI": "Multifinance & Perbankan",
+    "BTPN": "Multifinance & Perbankan",
+    "BBTN": "Multifinance & Perbankan",
+    "BJBR": "Multifinance & Perbankan",
+    "BJTM": "Multifinance & Perbankan",
+    "BNGA": "Multifinance & Perbankan",
+    "BNII": "Multifinance & Perbankan",
+    "BNLI": "Multifinance & Perbankan",
+    "NOBU": "Multifinance & Perbankan",
+    "SDRA": "Multifinance & Perbankan",
+    "BRIS": "Multifinance & Perbankan",
+    "MEGA": "Multifinance & Perbankan",
+    "NISP": "Multifinance & Perbankan",
+    "BSIM": "Multifinance & Perbankan",
+    "BSWD": "Multifinance & Perbankan",
+    "BABP": "Multifinance & Perbankan",
+    "BKSW": "Multifinance & Perbankan",
+    "MCOR": "Multifinance & Perbankan",
+    "BTPS": "Multifinance & Perbankan",
+    "AGRO": "Multifinance & Perbankan",
+    "WOMF": "Multifinance & Perbankan",
+    "ADMF": "Multifinance & Perbankan",
+    "BFIN": "Multifinance & Perbankan",
+    "CFIN": "Multifinance & Perbankan",
+    "TIFA": "Multifinance & Perbankan",
+    "IBFN": "Multifinance & Perbankan",
+    "IRSX": "Multifinance & Perbankan",
+    "SMMA": "Multifinance & Perbankan",
+    "CASH": "Multifinance & Perbankan",
+    "PGEO": "Energi & Utilitas",
+    "PLTM": "Energi & Utilitas",
+    "BRPT": "Energi & Utilitas",
+    "TPIA": "Energi & Utilitas",
+    "ENRG": "Energi & Utilitas",
+    "ESSA": "Energi & Utilitas",
+    "MEDC": "Energi & Utilitas",
+    "ELSA": "Energi & Utilitas",
+    "PEGE": "Energi & Utilitas",
+    "TLKM": "Telekomunikasi & Teknologi",
+    "EXCL": "Telekomunikasi & Teknologi",
+    "ISAT": "Telekomunikasi & Teknologi",
+    "WIFI": "Telekomunikasi & Teknologi",
+    "DIGI": "Telekomunikasi & Teknologi",
+    "TOWR": "Telekomunikasi & Teknologi",
+    "TBIG": "Telekomunikasi & Teknologi",
+    "MTEL": "Telekomunikasi & Teknologi",
+    "MNCN": "Telekomunikasi & Teknologi",
+    "EMTK": "Telekomunikasi & Teknologi",
+    "DOOH": "Telekomunikasi & Teknologi",
+    "EDGE": "Telekomunikasi & Teknologi",
+    "CYBR": "Telekomunikasi & Teknologi",
+    "PANI": "Properti & Konstruksi",
+    "BSDE": "Properti & Konstruksi",
+    "CTRA": "Properti & Konstruksi",
+    "SMRA": "Properti & Konstruksi",
+    "LPKR": "Properti & Konstruksi",
+    "PWON": "Properti & Konstruksi",
+    "APLN": "Properti & Konstruksi",
+    "DMAS": "Properti & Konstruksi",
+    "ADHI": "Properti & Konstruksi",
+    "WIKA": "Properti & Konstruksi",
+    "PTPP": "Properti & Konstruksi",
+    "WSKT": "Properti & Konstruksi",
+    "WTON": "Properti & Konstruksi",
+    "WEGE": "Properti & Konstruksi",
+    "BUVA": "Properti & Konstruksi",
+    "BKDP": "Properti & Konstruksi",
+    "ANTM": "Pertambangan",
+    "INCO": "Pertambangan",
+    "TINS": "Pertambangan",
+    "MDKA": "Pertambangan",
+    "PTBA": "Pertambangan",
+    "ITMG": "Pertambangan",
+    "BUMI": "Pertambangan",
+    "DOID": "Pertambangan",
+    "HRUM": "Pertambangan",
+    "BREN": "Pertambangan",
+    "BYAN": "Pertambangan",
+    "AMMN": "Pertambangan",
+    "NCKL": "Pertambangan",
+    "DSSA": "Pertambangan",
+    "SQMI": "Pertambangan",
+    "ADRO": "Pertambangan",
+    "ASII": "Konsumer & Ritel",
+    "ICBP": "Konsumer & Ritel",
+    "INDF": "Konsumer & Ritel",
+    "UNTR": "Konsumer & Ritel",
+    "HMSP": "Konsumer & Ritel",
+    "GGRM": "Konsumer & Ritel",
+    "AUTO": "Konsumer & Ritel",
+    "SIDO": "Konsumer & Ritel",
+    "ULTJ": "Konsumer & Ritel",
+    "MAPI": "Konsumer & Ritel",
+    "AMRT": "Konsumer & Ritel",
+    "ACES": "Konsumer & Ritel",
+    "LPPF": "Konsumer & Ritel",
+    "AVIA": "Konsumer & Ritel",
+    "OILS": "Konsumer & Ritel",
+    "PRDA": "Konsumer & Ritel",
+    "JSMR": "Infrastruktur & Transportasi",
+    "GIAA": "Infrastruktur & Transportasi",
+    "BIRD": "Infrastruktur & Transportasi",
+    "CASS": "Infrastruktur & Transportasi",
+    "SHIP": "Infrastruktur & Transportasi",
+    "TRUK": "Infrastruktur & Transportasi",
+    "HELI": "Infrastruktur & Transportasi",
+    "MITI": "Infrastruktur & Transportasi",
+    "SILO": "Kesehatan",
+    "HEAL": "Kesehatan",
+    "PYFA": "Kesehatan",
+    "DVLA": "Kesehatan",
+    "KLBF": "Kesehatan",
+    "JECX": "Kesehatan",
+    "PEHA": "Kesehatan",
+    "LSIP": "Agrikultur",
+    "SIMP": "Agrikultur",
+    "SGRO": "Agrikultur",
+    "AALI": "Agrikultur",
+    "PALM": "Agrikultur",
+    "DEWI": "Agrikultur",
+    "CRAB": "Agrikultur",
+    "SSMS": "Agrikultur",
+    "BAJA": "Manufaktur",
+    "UNTD": "Manufaktur",
+    "SONA": "General",
+    "NAYZ": "General",
+    "BPII": "General",
+    "CBDK": "General",
+    "HUMI": "General"
+  }
+}

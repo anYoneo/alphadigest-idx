@@ -1,0 +1,105 @@
+/* ==========================================================================
+   ✨ PERFECT CRISP WHITE TEXT & HIGH-CONTRAST OBSIDIAN MERMAID
+   ========================================================================== */
+
+/* 1. Mermaid Outer Container & Horizontal Scrollbar */
+body .mermaid,
+div.mermaid,
+.mermaid {
+    display: block !important;
+    max-width: 100% !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    padding: 1.25em !important;
+    margin: 1.5em 0 !important;
+    background-color: #161622 !important;
+    border: 1px solid #313244 !important;
+    border-radius: 12px !important;
+}
+
+/* 2. Natural SVG Sizing */
+body .mermaid svg,
+.mermaid svg {
+    max-width: none !important;
+    width: auto !important;
+    height: auto !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+/* 3. Node Box Background & Border */
+body .mermaid svg .node rect,
+body .mermaid svg .node polygon,
+body .mermaid svg .node circle,
+body .mermaid svg g.node rect,
+body .mermaid svg g.node polygon,
+body .mermaid svg g.node circle,
+.mermaid .node rect {
+    fill: #222336 !important;
+    stroke: #b4befe !important;
+    stroke-width: 2px !important;
+    rx: 8px !important;
+    ry: 8px !important;
+}
+
+/* 4. FORCE ALL TEXT INSIDE NODES TO BE PURE BRIGHT WHITE (#FFFFFF) */
+body .mermaid svg text,
+body .mermaid svg tspan,
+body .mermaid svg foreignObject,
+body .mermaid svg foreignObject div,
+body .mermaid svg foreignObject span,
+body .mermaid svg foreignObject p,
+body .mermaid svg .node .label,
+body .mermaid svg g.node .label,
+.mermaid text,
+.mermaid tspan,
+.mermaid .node foreignObject div {
+    fill: #ffffff !important;
+    color: #ffffff !important;
+    font-family: var(--font-text, system-ui, sans-serif) !important;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    opacity: 1 !important;
+    filter: none !important;
+}
+
+/* 5. Floating Bright Arrow Text */
+body .mermaid svg .edgeLabel rect,
+body .mermaid svg g.edgeLabel rect,
+.mermaid .edgeLabel rect {
+    display: none !important;
+    fill: transparent !important;
+}
+
+body .mermaid svg .edgeLabel span,
+body .mermaid svg g.edgeLabel span,
+body .mermaid svg .edgeLabel text,
+body .mermaid svg g.edgeLabel text,
+body .mermaid svg g.edgeLabel tspan,
+body .mermaid svg g.edgeLabel p,
+body .mermaid svg g.edgeLabel div,
+.mermaid .edgeLabel span {
+    color: #89b4fa !important;
+    fill: #89b4fa !important;
+    background: transparent !important;
+    background-color: transparent !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+    text-shadow: 0 1px 4px #000000, 0 0 6px #000000 !important;
+}
+
+/* 6. Arrow Line Colors */
+body .mermaid svg .edgePath .path,
+body .mermaid svg .flowchart-link,
+.mermaid .edgePath .path {
+    stroke: #b4befe !important;
+    stroke-width: 2px !important;
+}
+
+body .mermaid svg .marker,
+body .mermaid svg #arrowhead path,
+body .mermaid svg #crosshead path,
+body .mermaid svg marker path {
+    fill: #b4befe !important;
+    stroke: #b4befe !important;
+}
