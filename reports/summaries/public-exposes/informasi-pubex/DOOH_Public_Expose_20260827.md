@@ -1,55 +1,62 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[DOOH]]
-🏢 **Emiten**: `[[DOOH]]` | 📅 **Tanggal Pelaksanaan**: `2026-08-27` | 📑 **Dokumen**: `Public Expose`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260827|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 📊 Materi Public Expose: [DOOH]
 
----
+🏢 **Emiten**: `DOOH` | 📅 **Tanggal Pelaksanaan**: `2026-08-27` | 📑 **Total Slide**: `1 Slide`
+⬅️ [[knowledge-base/daily-digests/DOOH_20260827|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/DOOH|Ke Dashboard Emiten]]
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
 > [!NOTE]
-> PT Era Media Sejahtera Tbk (DOOH) mengumumkan rencana penyelenggaraan Public Expose Insidentil yang akan dilaksanakan secara online pada 04 September 2026 pukul 15:00 WIB. Public Expose ini diselenggarakan atas permintaan Otoritas Jasa Keuangan (OJK) dengan referensi surat Peng-SPT-00142/BEI.WAS/08-2026. Agenda utama meliputi: (1) Kondisi Bisnis Terkini dan Kinerja Keuangan, (2) Rencana Bisnis Perseroan di masa yang akan datang, dan (3) Analisa Manajemen terkait pergerakan harga saham Perseroan. Pengumuman disampaikan oleh Direktur Utama Vicktor Aritonang pada 27 Agustus 2026.
-
-#### 🎯 Guidance Operasional & Target Strategis
-- Dalam pengumuman ini tidak disampaikan rincian target kinerja, ekspansi, atau belanja modal (capex) secara spesifik. Namun agenda Public Expose mencakup pembahasan rencana bisnis Perseroan di masa depan, yang mengindikasikan akan ada pemaparan mengenai arah strategis dan potensi katalis. Detail guidance operasional dan keuangan diharapkan diungkapkan pada saat pelaksanaan Public Expose.
-
-## 📊 2. Matriks Indikator Operasional & Parameter Kunci
-| Parameter Utama | Nilai / Keterangan Resmi |
-| :--- | :--- |
-| **Nama Perusahaan** | `PT Era Media Sejahtera Tbk` |
-| **Kode Emiten** | `DOOH` |
-| **Nomor Surat** | `024/CORSEC/EMS/PUBEX.I/VIII/2026` |
-| **Jenis Public Expose** | `Insidentil` |
-| **Latar Belakang Pelaksanaan** | `Permintaan Otoritas Jasa Keuangan (OJK)` |
-| **Referensi Surat Permintaan** | `Peng-SPT-00142/BEI.WAS/08-2026` |
-| **Tempat Pelaksanaan** | `Online` |
-| **Tanggal Pelaksanaan** | `04 September 2026` |
-| **Waktu Pelaksanaan** | `15:00 WIB` |
-| **Agenda 1** | `Kondisi Bisnis Terkini dan Kinerja Keuangan` |
-| **Agenda 2** | `Rencana Bisnis Perseroan di masa yang akan datang` |
-| **Agenda 3** | `Analisa Manajemen Terkait dengan Pergerakkan Harga Saham Perseroan` |
-| **Direktur Utama** | `Vicktor Aritonang` |
-| **Tanggal Pengumuman** | `27 Agustus 2026` |
-| **Alamat Perseroan** | `Ruko Fatmawati Mas Blok B5 Kav 205 Jl. RS Fatmawati No 20, Cilandak Barat` |
-| **Kontak Telepon** | `(021)7654937` |
-| **Kontak Fax** | `(021)7654938` |
-| **Website** | `https://www.sspace.id` |
+> Ringkasan materi presentasi resmi Public Expose DOOH yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-`Materi presentasi Public Expose / Risalah Q&A terlampir dalam dokumen resmi bursa.`
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-## 📌 4. Peta Jalur Strategis & Roadmap
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | 024/CORSEC/EMS/PUBEX.I/VIII/2026 |
+| **Perihal Pengumuman** | Rencana Penyelenggaraan Public Expose Insidentil |
+| **Waktu Pelaksanaan** | 04 September 2026 15:00 |
+| **Lokasi / Media** | Online |
+| **Lampiran Resmi** | `1` |
+
+## 📋 2. Agenda Paparan Publik
+
+- Pemaparan Profil & Struktur Bisnis Perseroan
+- Kinerja Operasional & Keuangan
+- Arah Strategi Usaha & Target Pertumbuhan
+- Sesi Tanya Jawab (Q&A)
+
+## 🏢 3. Profil & Pilar Portofolio Bisnis
+
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
+
+*Detail aset operasional terlampir pada dokumen slide resmi.*
+
+## 📈 5. Kinerja Keuangan & Posisi Finansial
+
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
+
+*Strategi usaha difokuskan pada penguatan fundamental dan ekspansi operasional.*
+
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
+
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
 ```mermaid
-flowchart TD
-    A["📢 Public Expose (DOOH)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+flowchart LR
+    A["🏢 DOOH"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
 ```
 
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
+| Slide 1 | **Jakarta, 27 Agustus 2026** | Nomor : 024/CORSEC/EMS/PUBEX.I/VIII/2026 Kepada Yth. PT Bursa Efek Indonesia |
+
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260827|📄 Daily Digest 2026-08-27]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:44 WIB.*

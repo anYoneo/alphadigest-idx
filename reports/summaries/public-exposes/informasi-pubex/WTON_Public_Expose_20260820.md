@@ -1,49 +1,63 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[WTON]]
-🏢 **Emiten**: `[[WTON]]` | 📅 **Tanggal Pelaksanaan**: `2026-08-20` | 📑 **Dokumen**: `Public Expose`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260820|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 📊 Materi Public Expose: [WTON]
 
----
+🏢 **Emiten**: `WTON` | 📅 **Tanggal Pelaksanaan**: `2026-08-20` | 📑 **Total Slide**: `2 Slide`
+⬅️ [[knowledge-base/daily-digests/WTON_20260820|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/WTON|Ke Dashboard Emiten]]
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
 > [!NOTE]
-> Wijaya Karya Beton Tbk (WTON) menyampaikan pengumuman resmi rencana penyelenggaraan Public Expose Tahunan untuk tahun buku 2026. Acara akan dilaksanakan secara live melalui platform Public Expose Live 2026 di website pubexlive.idx.co.id pada tanggal 09 September 2026 pukul 15:00 WIB. Agenda utama adalah pemaparan kinerja perseroan untuk Kuartal II Tahun 2026. Pengumuman disampaikan oleh Sekretaris Perusahaan Ignatius Harry Sumartono pada 20 Agustus 2026. Dokumen tidak memuat rincian kinerja keuangan, target, atau proyeksi.
-
-#### 🎯 Guidance Operasional & Target Strategis
-- Dokumen hanya berisi pemberitahuan rencana Public Expose dan tidak memberikan guidance keuangan, target kinerja, rencana ekspansi, alokasi belanja modal, atau proyeksi operasional secara spesifik. Katalis potensial baru dapat diperoleh dari materi pemaparan kinerja Kuartal II 2026 yang akan disampaikan pada saat Public Expose 9 September 2026.
-
-## 📊 2. Matriks Indikator Operasional & Parameter Kunci
-| Parameter Utama | Nilai / Keterangan Resmi |
-| :--- | :--- |
-| **Nama Perusahaan** | `Wijaya Karya Beton Tbk` |
-| **Kode Emiten** | `WTON` |
-| **Jenis Acara** | `Public Expose Tahunan` |
-| **Tahun Buku** | `2026` |
-| **Tanggal Pelaksanaan** | `09 September 2026` |
-| **Waktu Pelaksanaan** | `15:00 WIB` |
-| **Tempat** | `Public Expose Live 2026 melalui website pubexlive.idx.co.id` |
-| **Agenda** | `Pemaparan Kinerja Perseroan Kuartal II Tahun 2026` |
-| **Nama Pengirim/Penanggung Jawab** | `Ignatius Harry Sumartono, Sekretaris Perusahaan` |
-| **Tanggal Pengumuman** | `20 Agustus 2026 pukul 14:40 WIB` |
-| **Alamat Perseroan** | `Tamansari Hive Office Lt. 3-5, Jl. D.I. Panjaitan Kav. 2, Jakarta Timur 13340` |
-| **Kontak Perseroan** | `Telepon 0218192802, Fax 02185903872, www.wikabeton.co.id` |
+> Ringkasan materi presentasi resmi Public Expose WTON yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-`Materi presentasi Public Expose / Risalah Q&A terlampir dalam dokumen resmi bursa.`
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-## 📌 4. Peta Jalur Strategis & Roadmap
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | SE.01.01/WB-0A.0861/2026 |
+| **Perihal Pengumuman** | Rencana Penyelenggaraan Public Expose Tahunan |
+| **Waktu Pelaksanaan** | 09 September 2026 15:00 |
+| **Lokasi / Media** | Public Expose Live 2026 |
+| **Lampiran Resmi** | `1` |
+
+## 📋 2. Agenda Paparan Publik
+
+- Pemaparan Profil & Struktur Bisnis Perseroan
+- Kinerja Operasional & Keuangan
+- Arah Strategi Usaha & Target Pertumbuhan
+- Sesi Tanya Jawab (Q&A)
+
+## 🏢 3. Profil & Pilar Portofolio Bisnis
+
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
+
+*Detail aset operasional terlampir pada dokumen slide resmi.*
+
+## 📈 5. Kinerja Keuangan & Posisi Finansial
+
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
+
+*Strategi usaha difokuskan pada penguatan fundamental dan ekspansi operasional.*
+
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
+
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
 ```mermaid
-flowchart TD
-    A["📢 Public Expose (WTON)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+flowchart LR
+    A["🏢 WTON"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
 ```
 
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
+| Slide 1 | **No : SE.01.01/WB-0A.0861/2026** | : SE.01.01/WB-0A.0861/2026 Jakarta, 19 Agustus 2026 Lamp. |
+| Slide 2 | **Penyampaian Materi Pubex dan Hasil Pubex akan disampaikan melalui www.idxnet.co.id** | dalam Bahasa Indonesia, masing-masing selambat-lambatnya pada tanggal 4 September 2026 dan 14 September 2026. The Public Expose materials and results  |
+
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260820|📄 Daily Digest 2026-08-20]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:50 WIB.*

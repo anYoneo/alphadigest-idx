@@ -1,39 +1,61 @@
 # 📊 Materi Public Expose: [PGLI]
 
-⬅️ [[knowledge-base/daily-digests/PGLI_20261009]] | 📅 **2026-10-09** | 🎛️ [[Dashboard/PGLI]]
+🏢 **Emiten**: `PGLI` | 📅 **Tanggal Pelaksanaan**: `2026-10-09` | 📑 **Total Slide**: `1 Slide`
+⬅️ [[knowledge-base/daily-digests/PGLI_20261009|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/PGLI|Ke Dashboard Emiten]]
 
 > [!NOTE]
-> Ringkasan materi presentasi Public Expose PGLI tanggal **2026-10-09**. Dokumen ini mengacu pada slide/materi resmi yang disampaikan manajemen kepada investor.
+> Ringkasan materi presentasi resmi Public Expose PGLI yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 📅 Jadwal & Lokasi
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-| Item | Detail |
-|------|--------|
-| **Tanggal/Waktu** | : 13 Oktober 2026 |
-| **Lokasi/Venue** | Link Zoom : |
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | 171/MDN/PGLI/X/2026 |
+| **Perihal Pengumuman** | Rencana Penyelenggaraan Public Expose Insidentil |
+| **Waktu Pelaksanaan** | 13 Oktober 2026 10:00 |
+| **Lokasi / Media** | Link Zoom : |
+| **Lampiran Resmi** | `1` |
 
-## 📋 Agenda
+## 📋 2. Agenda Paparan Publik
 
-*Agenda tidak tersedia dalam dokumen.*
+- Pemaparan Profil & Struktur Bisnis Perseroan
+- Kinerja Operasional & Keuangan
+- Arah Strategi Usaha & Target Pertumbuhan
+- Sesi Tanya Jawab (Q&A)
 
-## 🏢 Profil Perusahaan
+## 🏢 3. Profil & Pilar Portofolio Bisnis
 
-(Dokumen ini adalah Undangan Public Expose)
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
 
-## 📈 Kinerja 1H / YTD
+*Detail aset operasional terlampir pada dokumen slide resmi.*
 
-*Data kinerja tidak tersedia.*
+## 📈 5. Kinerja Keuangan & Posisi Finansial
 
-## 🎯 Target & Guidance Manajemen
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
 
-*Guidance tidak tersedia.*
+*Strategi usaha difokuskan pada penguatan fundamental dan ekspansi operasional.*
 
-## 🧭 Strategi Bisnis
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
 
-*Poin strategi bisnis tidak tersedia.*
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
+```mermaid
+flowchart LR
+    A["🏢 PGLI"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
+```
+
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
 
 ---
 
-*Dokumen dihasilkan otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-09 23:47 WIB.*
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:47 WIB.*

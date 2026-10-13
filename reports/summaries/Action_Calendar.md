@@ -1,6 +1,6 @@
-# 🗓️ Kalender Terpusat Aksi Korporasi & Dividen BEI (Action Calendar) - 2026-10-09
+# 🗓️ Kalender Terpusat Aksi Korporasi & Dividen BEI (Action Calendar) - 2026-10-12
 
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20261009|Kembali ke Daily Digest]] | 📅 **2026-10-09** | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+⬅️ [[knowledge-base/daily-digests/Daily_Digest_20261012|Kembali ke Daily Digest]] | 📅 **2026-10-12** | 🎛️ [[Dashboard|Ke Dashboard Utama]]
 
 > [!TIP]
 > Kalender ini merangkum tanggal penting **Cum Date Dividen**, **Periode HMETD**, **Program Buyback**, **Penawaran MTO**, dan **Jadwal DPS/RUPSLB** secara aktif. Event yang telah melewati tanggal pelaksanaan otomatis dipindahkan ke bagian Arsip Selesai.
@@ -10,26 +10,25 @@
 ## 💸 1. Kalender Pembagian Dividen Tunai & Interim (Mendatang / Aktif)
 | Emiten | Nominal Dividen | Total Nilai | 📅 Cum Date (Batas Beli) | 💸 Tanggal Pembayaran | Rating Sinyal | Dokumen |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
-| **[[AALI]]** | `IDR 233` | `IDR 24.606.391.109.660` | **2026-10-12** | `2026-10-26` | 🔥 **HIGH YIELD** | [[AALI_Dividen_20261009|📄 Dokumen]] |
-| **[[AIMS]]** | `Terjadwal` | `Dalam Rincian LK` | **18 Oktober 2028** | `18 Oktober 2028` | 🔥 **HIGH YIELD** | [[AIMS_Dividen_20261009|📄 Dokumen]] |
+| **[[AALI]]** | `IDR 233` | `IDR 24.606.391.109.660` | **2026-10-12** | `2026-10-26` | 🔥 **HIGH YIELD** | [[AALI_Dividen_20261012|📄 Dokumen]] |
+| **[[AIMS]]** | `Terjadwal` | `Dalam Rincian LK` | **18 Oktober 2028** | `18 Oktober 2028` | 🔥 **HIGH YIELD** | [[AIMS_Dividen_20261012|📄 Dokumen]] |
 | **[[AMMS]]** | `Dalam Rincian LK` | `TBA` | **Terjadwal 2026** | `Terjadwal` | 🔥 **HIGH YIELD** | [[AMMS_Dividen_20260929|📄 Dokumen]] |
-| **[[AMRT]]** | `Rp14,50 per lembar saham` | `Rp595.831.574.150` | **2026-10-15** | `2026-10-27` | 🔥 **HIGH YIELD** | [[AMRT_Dividen_20261009|📄 Dokumen]] |
-| **[[ASII]]** | `IDR 98` | `IDR 289.844.537.308.431` | **14 Oktober 2026** | `30 Oktober 2026` | 🔥 **HIGH YIELD** | [[ASII_Dividen_20261009|📄 Dokumen]] |
-| **[[AUTO]]** | `Rp72,52` | `IDR 17.195.383.865.881` | **2026-10-15** | `2026-10-26` | 🔥 **HIGH YIELD** | [[AUTO_Dividen_20261009|📄 Dokumen]] |
+| **[[AMRT]]** | `Rp14,50 per lembar saham` | `Rp595.831.574.150` | **2026-10-15** | `2026-10-27` | 🔥 **HIGH YIELD** | [[AMRT_Dividen_20261012|📄 Dokumen]] |
+| **[[ASII]]** | `IDR 98` | `IDR 289.844.537.308.431` | **14 Oktober 2026** | `30 Oktober 2026` | 🔥 **HIGH YIELD** | [[ASII_Dividen_20261012|📄 Dokumen]] |
+| **[[AUTO]]** | `Rp72,52` | `IDR 17.195.383.865.881` | **2026-10-15** | `2026-10-26` | 🔥 **HIGH YIELD** | [[AUTO_Dividen_20261012|📄 Dokumen]] |
 | **[[AVIA]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[AVIA_Dividen_20260820|📄 Dokumen]] |
 | **[[BBCA]]** | `25 IDR` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[BBCA_Dividen_20260819|📄 Dokumen]] |
 | **[[BJBR]]** | `Dalam Rincian LK` | `TBA` | **Terjadwal 2026** | `Terjadwal` | 🔥 **HIGH YIELD** | [[BJBR_Dividen_20261005|📄 Dokumen]] |
 | **[[BQ]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[BQ_Dividen_20260831|📄 Dokumen]] |
 | **[[BRIS]]** | `Dalam Rincian LK` | `TBA` | **Terjadwal 2026** | `Terjadwal` | 🔥 **HIGH YIELD** | [[BRIS_Dividen_20260930|📄 Dokumen]] |
-| **[[BSBK]]** | `Rp 1,- (Satu Rupiah) per saham` | `IDR 25.091.882.375` | **15 Oktober 2026** | `Untuk pemegang saham scripless dibayarkan melalui rekening Perusahaan Efek atau Bank Kustodian; bagi saham yang tidak dimasukkan dalam penitipan kolektif ditransfer ke rekening Pemegang Saham` | 🔥 **HIGH YIELD** | [[BSBK_Dividen_20261009|📄 Dokumen]] |
-| **[[BUAH]]** | `Rp10 per lembar saham` | `Rp20.000.000.000` | **2026-10-20** | `2026-11-06` | 🔥 **HIGH YIELD** | [[BUAH_Dividen_20261009|📄 Dokumen]] |
-| **[[BUVA]]** | `Rp50` | `Rp1.538.565.915.000` | **15 Oktober 2026** | `4 November 2026` | 🔥 **HIGH YIELD** | [[BUVA_Dividen_20261009|📄 Dokumen]] |
+| **[[BSBK]]** | `Rp 1,- (Satu Rupiah) per saham` | `IDR 25.091.882.375` | **15 Oktober 2026** | `Untuk pemegang saham scripless dibayarkan melalui rekening Perusahaan Efek atau Bank Kustodian; bagi saham yang tidak dimasukkan dalam penitipan kolektif ditransfer ke rekening Pemegang Saham` | 🔥 **HIGH YIELD** | [[BSBK_Dividen_20261012|📄 Dokumen]] |
+| **[[BUAH]]** | `Rp10 per lembar saham` | `Rp20.000.000.000` | **2026-10-20** | `2026-11-06` | 🔥 **HIGH YIELD** | [[BUAH_Dividen_20261012|📄 Dokumen]] |
+| **[[BUVA]]** | `Rp50` | `Rp1.538.565.915.000` | **15 Oktober 2026** | `4 November 2026` | 🔥 **HIGH YIELD** | [[BUVA_Dividen_20261012|📄 Dokumen]] |
 | **[[CBUT]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[CBUT_Dividen_20260904|📄 Dokumen]] |
 | **[[CHIP]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[CHIP_Dividen_20260828|📄 Dokumen]] |
 | **[[DEWI]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[DEWI_Dividen_20260831|📄 Dokumen]] |
 | **[[DOOH]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[DOOH_Dividen_20260831|📄 Dokumen]] |
 | **[[DR]]** | `IDR 100` | `IDR 793.468.300.000` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[DR_Dividen_20260828|📄 Dokumen]] |
-| **[[GEMS]]** | `Rp611,93 per saham` | `Rp200.000.000` | **09 Oktober 2026** | `25 September 2026` | 🔥 **HIGH YIELD** | [[GEMS_Dividen_20261009|📄 Dokumen]] |
 | **[[GRIA]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[GRIA_Dividen_20260912|📄 Dokumen]] |
 | **[[HAIS]]** | `Dalam Rincian LK` | `TBA` | **Terjadwal 2026** | `Terjadwal` | 🔥 **HIGH YIELD** | [[HAIS_Dividen_20260928|📄 Dokumen]] |
 | **[[IJEE]]** | `Dalam Rincian LK` | `TBA` | **Terjadwal 2026** | `Terjadwal` | 🔥 **HIGH YIELD** | [[IJEE_Dividen_20260930|📄 Dokumen]] |
@@ -39,15 +38,15 @@
 | **[[MEDC]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[MEDC_Dividen_20260921|📄 Dokumen]] |
 | **[[OBMD]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[OBMD_Dividen_20260918|📄 Dokumen]] |
 | **[[PADA]]** | `Dalam Rincian LK` | `TBA` | **Terjadwal 2026** | `Terjadwal` | 🔥 **HIGH YIELD** | [[PADA_Dividen_20260929|📄 Dokumen]] |
-| **[[PLIN]]** | `IDR 76` | `IDR 11.367.783.676.000` | **2026-10-19** | `2026-10-27` | 🔥 **HIGH YIELD** | [[PLIN_Dividen_20261009|📄 Dokumen]] |
-| **[[PSAB]]** | `Terjadwal` | `Pelepasan salah satu anak perusahaan, pembayaran hutang, pembagian dividen tunai, dan penyesuaian nilai aset tidak lancar` | **Terjadwal** | `Terjadwal` | 🔥 **HIGH YIELD** | [[PSAB_Dividen_20261009|📄 Dokumen]] |
-| **[[SCNP]]** | `Terjadwal` | `Dalam Rincian LK` | **Terjadwal** | `2 Juli 2026` | 🔥 **HIGH YIELD** | [[SCNP_Dividen_20261009|📄 Dokumen]] |
+| **[[PLIN]]** | `IDR 76` | `IDR 11.367.783.676.000` | **2026-10-19** | `2026-10-27` | 🔥 **HIGH YIELD** | [[PLIN_Dividen_20261012|📄 Dokumen]] |
+| **[[PSAB]]** | `Terjadwal` | `Pelepasan salah satu anak perusahaan, pembayaran hutang, pembagian dividen tunai, dan penyesuaian nilai aset tidak lancar` | **Terjadwal** | `Terjadwal` | 🔥 **HIGH YIELD** | [[PSAB_Dividen_20261012|📄 Dokumen]] |
+| **[[SCNP]]** | `Terjadwal` | `Dalam Rincian LK` | **Terjadwal** | `2 Juli 2026` | 🔥 **HIGH YIELD** | [[SCNP_Dividen_20261012|📄 Dokumen]] |
 | **[[SMSM]]** | `Dalam Rincian LK` | `TBA` | **Terjadwal 2026** | `Terjadwal` | 🔥 **HIGH YIELD** | [[SMSM_Dividen_20260930|📄 Dokumen]] |
 | **[[SUNI]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[SUNI_Dividen_20260911|📄 Dokumen]] |
 | **[[SWAT]]** | `Rp 150` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[SWAT_20260916_SWAT_AnnualReport2025-SWAT-att1.pdf|📄 Dokumen]] |
 | **[[TAXI]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[TAXI_Dividen_20260911|📄 Dokumen]] |
-| **[[TEBE]]** | `Terjadwal` | `Pembayaran Dividen Tunai Tahun Buku 2025 sebesar Rp200,5 miliar pada S1 2026` | **Terjadwal** | `Terjadwal` | 🔥 **HIGH YIELD** | [[TEBE_Dividen_20261009|📄 Dokumen]] |
-| **[[TLDN]]** | `IDR 20` | `IDR 3.691.646.963 ribu` | **2026-10-14** | `2026-10-22` | 🔥 **HIGH YIELD** | [[TLDN_Dividen_20261009|📄 Dokumen]] |
+| **[[TEBE]]** | `Terjadwal` | `Pembayaran Dividen Tunai Tahun Buku 2025 sebesar Rp200,5 miliar pada S1 2026` | **Terjadwal** | `Terjadwal` | 🔥 **HIGH YIELD** | [[TEBE_Dividen_20261012|📄 Dokumen]] |
+| **[[TLDN]]** | `IDR 20` | `IDR 3.691.646.963 ribu` | **2026-10-14** | `2026-10-22` | 🔥 **HIGH YIELD** | [[TLDN_Dividen_20261012|📄 Dokumen]] |
 | **[[TOBA]]** | `Dalam Rincian LK` | `TBA` | **Terjadwal 2026** | `Terjadwal` | 🔥 **HIGH YIELD** | [[TOBA_Dividen_20261008|📄 Dokumen]] |
 | **[[TRIS]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[TRIS_Dividen_20260827|📄 Dokumen]] |
 | **[[UNTD]]** | `Dalam Rincian LK` | `Dalam Rincian LK` | **Terjadwal 2026** | `Terjadwal 2026` | 🔥 **HIGH YIELD** | [[UNTD_Dividen_20260831|📄 Dokumen]] |
@@ -81,7 +80,7 @@
 | **[[INPS]]** | `Harga Pelaksanaan" : Harga setiap Saham Baru yang harus dibayar oleh Calon Pe` | `Rp100` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[INPS_20260929_INPS_20260929_INPS_Keterbukaan Informasi terkait Aksi Korporasi_32161628_lamp2.pdf|📄 Dokumen]] |
 | **[[IRSX]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[IRSX_Rights_Issue_20260902|📄 Dokumen]] |
 | **[[ISAT]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[ISAT_Rights_Issue_20260929|📄 Dokumen]] |
-| **[[KOTA]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[KOTA_Rights_Issue_20261005|📄 Dokumen]] |
+| **[[KOTA]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[KOTA_Rights_Issue_20261009|📄 Dokumen]] |
 | **[[LAPD]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[LAPD_Rights_Issue_20260928|📄 Dokumen]] |
 | **[[LMPI]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[LMPI_Rights_Issue_20260928|📄 Dokumen]] |
 | **[[MGLV]]** | `Akan Ditentukan dalam Prospektus HMETD` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[MGLV_Rights_Issue_20260812|📄 Dokumen]] |
@@ -94,6 +93,7 @@
 | **[[ULTJ]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[ULTJ_Rights_Issue_20261005|📄 Dokumen]] |
 | **[[VISI]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[VISI_Rights_Issue_20260928|📄 Dokumen]] |
 | **[[VKTR]]** | `Rp200 per saham` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[VKTR_20261006_VKTR_Peng-Harga Teoretis VKTR 261006-No. Peng-00190BEI.POP10-2026.pdf|📄 Dokumen]] |
+| **[[WIKA]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[WIKA_Rights_Issue_20261009|📄 Dokumen]] |
 | **[[WMUU]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[WMUU_Rights_Issue_20261002|📄 Dokumen]] |
 | **[[WSBP]]** | `TBA` | `Dalam Proses RUPSLB` | **Terjadwal (Pasca RUPSLB)** | Tanggapan Penjelasan BEI / RUPSLB | 🟡 **UPCOMING** | [[WSBP_Rights_Issue_20260930|📄 Dokumen]] |
 
@@ -103,6 +103,7 @@
 | Emiten | Alokasi Dana Buyback | Estimasi Harga / Jumlah Saham | 📅 Periode Pelaksanaan Buyback | Status | Dokumen |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 | **[[AALI]]** | `Dalam Keterbukaan Informasi` | `Harga Pasar Reguler` | **Terjadwal 2026** | 🟢 **AKSI AKTIF** | [[AALI_Buyback_20261005|📄 Dokumen]] |
+| **[[AGRO]]** | `Dalam Keterbukaan Informasi` | `Harga Pasar Reguler` | **Terjadwal 2026** | 🟢 **AKSI AKTIF** | [[AGRO_Buyback_20261009|📄 Dokumen]] |
 | **[[AMOR]]** | `Dalam Keterbukaan Informasi` | `Harga Pasar Reguler` | **Terjadwal 2026** | 🟢 **AKSI AKTIF** | [[AMOR_Buyback_20260928|📄 Dokumen]] |
 | **[[ASII]]** | `Dalam Keterbukaan Informasi` | `Harga Pasar Reguler` | **Terjadwal 2026** | 🟢 **AKSI AKTIF** | [[ASII_Buyback_20261002|📄 Dokumen]] |
 | **[[ASMI]]** | `Dalam Keterbukaan Informasi` | `Harga Pasar Reguler` | **Terjadwal 2026** | 🟢 **AKSI AKTIF** | [[ASMI_Buyback_20260819|📄 Dokumen]] |
@@ -150,6 +151,7 @@
 | **[[RATU]]** | `Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD / Private Placement)` | `Dalam Proses RUPSLB` | 🟡 **PROSES RUPSLB** | [[RATU_Private_Placement_20260915|📄 Dokumen]] |
 | **[[UVCR]]** | `PMTHMETD / Private Placement` | `TBA` | 🟡 **PROSES RUPSLB** | [[UVCR_Private_Placement_20261009|📄 Dokumen]] |
 | **[[VISI]]** | `PMTHMETD / Private Placement` | `TBA` | 🟡 **PROSES RUPSLB** | [[VISI_Private_Placement_20261002|📄 Dokumen]] |
+| **[[VIVA]]** | `PMTHMETD / Private Placement` | `TBA` | 🟡 **PROSES RUPSLB** | [[VIVA_Private_Placement_20261009|📄 Dokumen]] |
 | **[[VKTR]]** | `PMTHMETD / Private Placement` | `TBA` | 🟡 **PROSES RUPSLB** | [[VKTR_Private_Placement_20261008|📄 Dokumen]] |
 | **[[VTNY]]** | `Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD / Private Placement)` | `Dalam Proses RUPSLB` | 🟡 **PROSES RUPSLB** | [[VTNY_Private_Placement_20260916|📄 Dokumen]] |
 | **[[WSBP]]** | `PMTHMETD / Private Placement` | `TBA` | 🟡 **PROSES RUPSLB** | [[WSBP_Private_Placement_20261006|📄 Dokumen]] |
@@ -160,28 +162,28 @@
 | Emiten | Pengendali Baru | Status MTO | Catatan Strategis | Dokumen |
 | :--- | :--- | :--- | :--- | :---: |
 | **[[ASII]]** | `Pengendali Baru` | 🟡 **PROSES PENAWARAN** | Pantau Rilis Harga MTO Resmi | [[ASII_Tender_Offer_20260831|📄 Dokumen]] |
-| **[[AUTO]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material | [[AUTO_MTO_20261009|📄 Dokumen]] |
+| **[[AUTO]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material | [[AUTO_MTO_20261012|📄 Dokumen]] |
 | **[[BAUT]]** | `Pengendali Baru` | 🟡 **PROSES PENAWARAN** | Pantau Rilis Harga MTO Resmi | [[BAUT_Tender_Offer_20260826|📄 Dokumen]] |
-| **[[BINO]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Keterbukaan Informasi Tentang PengambilalihanPenawaran Tender WajibRefloat | [[BINO_MTO_20261009|📄 Dokumen]] |
-| **[[DOOH]]** | `PT Sinergi Internasional Investama` | 🟡 **PROSES PENAWARAN** | Keterbukaan Informasi Tentang PengambilalihanPenawaran Tender WajibRefloat lamp2 | [[DOOH_MTO_20261009|📄 Dokumen]] |
-| **[[DPUM]]** | `PT Rama Indonesia` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp3 | [[DPUM_MTO_20261009|📄 Dokumen]] |
-| **[[EDGE]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp1 | [[EDGE_MTO_20261009|📄 Dokumen]] |
-| **[[IBST]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp1 | [[IBST_MTO_20261009|📄 Dokumen]] |
+| **[[BINO]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Keterbukaan Informasi Tentang PengambilalihanPenawaran Tender WajibRefloat | [[BINO_MTO_20261012|📄 Dokumen]] |
+| **[[DOOH]]** | `PT Sinergi Internasional Investama` | 🟡 **PROSES PENAWARAN** | Keterbukaan Informasi Tentang PengambilalihanPenawaran Tender WajibRefloat lamp2 | [[DOOH_MTO_20261012|📄 Dokumen]] |
+| **[[DPUM]]** | `PT Rama Indonesia` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp3 | [[DPUM_MTO_20261012|📄 Dokumen]] |
+| **[[EDGE]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp1 | [[EDGE_MTO_20261012|📄 Dokumen]] |
+| **[[IBST]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp1 | [[IBST_MTO_20261012|📄 Dokumen]] |
 | **[[IDEA]]** | `Pengendali Baru` | 🟡 **PROSES PENAWARAN** | Pantau Rilis Harga MTO Resmi | [[IDEA_Tender_Offer_20260916|📄 Dokumen]] |
 | **[[ISEA]]** | `Pengendali Baru` | 🟡 **PROSES PENAWARAN** | Pantau Rilis Harga MTO Resmi | [[ISEA_Tender_Offer_20260910|📄 Dokumen]] |
 | **[[JSMR]]** | `Pengendali Baru` | 🟡 **PROSES PENAWARAN** | Pantau Rilis Harga MTO Resmi | [[JSMR_Tender_Offer_20260914|📄 Dokumen]] |
-| **[[KETR]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material | [[KETR_MTO_20261009|📄 Dokumen]] |
-| **[[KOIN]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Keterbukaan Informasi Tentang PengambilalihanPenawaran Tender WajibRefloat | [[KOIN_MTO_20261009|📄 Dokumen]] |
-| **[[MAPI]]** | `Pelaksanaan Penawaran Tender Wajib (MTO) oleh Pengendali Baru (yaitu Pacific Universal Investments Pte. Ltd.)` | 🟡 **PROSES PENAWARAN** | Tanggapan atas Permintaan Penjelasan Bursa | [[MAPI_MTO_20261009|📄 Dokumen]] |
-| **[[NAYZ]]** | `SAIKO CONSULTANCY PTE. LTD.` | 🟡 **PROSES PENAWARAN** | Keterbukaan Informasi Tentang PengambilalihanPenawaran Tender WajibRefloat lamp2 | [[NAYZ_MTO_20261009|📄 Dokumen]] |
-| **[[PNGO]]** | `PT AEP NUSANTARA HOLDINGS (AEPNH)` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material | [[PNGO_MTO_20261009|📄 Dokumen]] |
+| **[[KETR]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material | [[KETR_MTO_20261012|📄 Dokumen]] |
+| **[[KOIN]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Keterbukaan Informasi Tentang PengambilalihanPenawaran Tender WajibRefloat | [[KOIN_MTO_20261012|📄 Dokumen]] |
+| **[[MAPI]]** | `Pelaksanaan Penawaran Tender Wajib (MTO) oleh Pengendali Baru (yaitu Pacific Universal Investments Pte. Ltd.)` | 🟡 **PROSES PENAWARAN** | Tanggapan atas Permintaan Penjelasan Bursa | [[MAPI_MTO_20261012|📄 Dokumen]] |
+| **[[NAYZ]]** | `SAIKO CONSULTANCY PTE. LTD.` | 🟡 **PROSES PENAWARAN** | Keterbukaan Informasi Tentang PengambilalihanPenawaran Tender WajibRefloat lamp2 | [[NAYZ_MTO_20261012|📄 Dokumen]] |
+| **[[PNGO]]** | `PT AEP NUSANTARA HOLDINGS (AEPNH)` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material | [[PNGO_MTO_20261012|📄 Dokumen]] |
 | **[[PRTL]]** | `TBA` | 🟡 **PROSES PENAWARAN** | Pantau Rilis Harga MTO Resmi | [[PRTL_Tender_Offer_20260922|📄 Dokumen]] |
 | **[[SONA]]** | `PT Pratama Citra Karunia` | 🟡 **PROSES PENAWARAN** | Pantau Rilis Harga MTO Resmi | [[SONA_Tender_Offer_20260813|📄 Dokumen]] |
-| **[[SUNI]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp1 | [[SUNI_MTO_20261009|📄 Dokumen]] |
-| **[[SUPR]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp1 | [[SUPR_MTO_20261009|📄 Dokumen]] |
+| **[[SUNI]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp1 | [[SUNI_MTO_20261012|📄 Dokumen]] |
+| **[[SUPR]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp1 | [[SUPR_MTO_20261012|📄 Dokumen]] |
 | **[[TGUK]]** | `TBA` | 🟡 **PROSES PENAWARAN** | Pantau Rilis Harga MTO Resmi | [[TGUK_Tender_Offer_20261005|📄 Dokumen]] |
 | **[[TOWR]]** | `Pengendali Baru` | 🟡 **PROSES PENAWARAN** | Pantau Rilis Harga MTO Resmi | [[TOWR_Tender_Offer_20260902|📄 Dokumen]] |
-| **[[TRUK]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp2 | [[TRUK_MTO_20261009|📄 Dokumen]] |
+| **[[TRUK]]** | `Pacific Universal Investments Pte. Ltd.` | 🟡 **PROSES PENAWARAN** | Laporan Informasi dan Fakta Material lamp2 | [[TRUK_MTO_20261012|📄 Dokumen]] |
 
 ---
 
@@ -219,10 +221,14 @@
 | **[[BSML]]** | RUPSLB / RUPST | **07 Oktober 2026** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[BSML_20261008_BSML_20261008_BSML_Pemanggilan RUPS_32164919.pdf|📄 Dokumen]] |
 | **[[ARMY]]** | RUPSLB / RUPST | **Terjadwal** | **2026-10-30** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[ARMY_20261008_ARMY_20261008_ARMY_Pemanggilan RUPS_32164484_lamp3.pdf|📄 Dokumen]] |
 | **[[BBYB]]** | RUPSLB / RUPST | **2026-10-06** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[BBYB_20261007_BBYB_20261007_BBYB_Pemanggilan RUPS_32164200.pdf|📄 Dokumen]] |
+| **[[AGRO]]** | RUPSLB / RUPST | **14 September 2026** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[AGRO_20261009_AGRO_20261009_AGRO_Ringkasan RisalahRisalah RUPS_32165033_lamp3.pdf|📄 Dokumen]] |
+| **[[MDIA]]** | RUPSLB / RUPST | **Terjadwal** | **2026-11-17** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[MDIA_20261009_MDIA_20261009_MDIA_Pengumuman RUPS_32165217_lamp1.pdf|📄 Dokumen]] |
+| **[[KOTA]]** | RUPSLB / RUPST | **11 September 2026** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[KOTA_20261009_KOTA_20261009_KOTA_Pemanggilan RUPS_32165394.pdf|📄 Dokumen]] |
 | **[[YELO]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[YELO_Pemanggilan_RUPS_20261002|📄 Dokumen]] |
 | **[[WIKA]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[WIKA_Pemanggilan_RUPS_20261006|📄 Dokumen]] |
 | **[[WIFI]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[WIFI_Pemanggilan_RUPS_20260929|📄 Dokumen]] |
 | **[[WGSH]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[WGSH_Pemanggilan_RUPS_20260929|📄 Dokumen]] |
+| **[[VIVA]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[VIVA_Pemanggilan_RUPS_20261009|📄 Dokumen]] |
 | **[[VICI]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[VICI_Pemanggilan_RUPS_20261007|📄 Dokumen]] |
 | **[[UVCR]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[UVCR_Pemanggilan_RUPS_20261009|📄 Dokumen]] |
 | **[[UNTR]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[UNTR_Pemanggilan_RUPS_20261001|📄 Dokumen]] |
@@ -266,6 +272,7 @@
 | **[[GOTO]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[GOTO_Pemanggilan_RUPS_20260922|📄 Dokumen]] |
 | **[[GIAA]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[GIAA_Pemanggilan_RUPS_20260930|📄 Dokumen]] |
 | **[[GEMA]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[GEMA_Pemanggilan_RUPS_20261009|📄 Dokumen]] |
+| **[[FLMC]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[FLMC_Pemanggilan_RUPS_20261012|📄 Dokumen]] |
 | **[[FAST]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | 1. Approval of Change in the Composition of the Board of Directors Explanatio... | [[FAST_Pemanggilan_RUPS_20260922|📄 Dokumen]] |
 | **[[FAPA]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[FAPA_Pemanggilan_RUPS_20261008|📄 Dokumen]] |
 | **[[EXCL]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[EXCL_Pemanggilan_RUPS_20260918|📄 Dokumen]] |
@@ -291,6 +298,7 @@
 | **[[SRTG]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Ringkasan RisalahRisalah RUPS | [[SRTG_Hasil_RUPS_20260824|📄 Dokumen]] |
 | **[[SOFN]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[SOFN_Hasil_RUPS_20261001|📄 Dokumen]] |
 | **[[SOFA]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[SOFA_Hasil_RUPS_20261007|📄 Dokumen]] |
+| **[[SMLE]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[SMLE_Hasil_RUPS_20261009|📄 Dokumen]] |
 | **[[SMKM]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[SMKM_Hasil_RUPS_20261006|📄 Dokumen]] |
 | **[[SMFP]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Persetujuan Aksi Korporasi & Tata Kelola Perseroan | [[SMFP_Hasil_RUPS_20261008|📄 Dokumen]] |
 | **[[SKRN]]** | RUPSLB / RUPST | **Terjadwal** | **Terjadwal** | Ringkasan RisalahRisalah RUPS | [[SKRN_Hasil_RUPS_20260814|📄 Dokumen]] |
@@ -336,32 +344,33 @@
 
 | Emiten | Kategori | Tanggal Pelaksanaan | Status | Dokumen |
 | :--- | :--- | :--- | :---: | :---: |
-| **[[AMAR]]** | Dividen Tunai | `11 Agustus 2026` | ⚪ **SELESAI** | [[AMAR_Dividen_20261009|📄 Dokumen]] |
-| **[[ASGR]]** | Dividen Tunai | `08 Oktober 2026` | ⚪ **SELESAI** | [[ASGR_Dividen_20261009|📄 Dokumen]] |
-| **[[BAJA]]** | Dividen Tunai | `1 Oktober 2026` | ⚪ **SELESAI** | [[BAJA_Dividen_20261009|📄 Dokumen]] |
-| **[[BPII]]** | Dividen Tunai | `26 Agustus 2026` | ⚪ **SELESAI** | [[BPII_Dividen_20261009|📄 Dokumen]] |
-| **[[BSSR]]** | Dividen Tunai | `1 Oktober 2026` | ⚪ **SELESAI** | [[BSSR_Dividen_20261009|📄 Dokumen]] |
-| **[[CDIA]]** | Dividen Tunai | `30 September 2026` | ⚪ **SELESAI** | [[CDIA_Dividen_20261009|📄 Dokumen]] |
-| **[[CMRY]]** | Dividen Tunai | `07 September 2026` | ⚪ **SELESAI** | [[CMRY_Dividen_20261009|📄 Dokumen]] |
-| **[[CRAB]]** | Dividen Tunai | `06 Oktober 2026` | ⚪ **SELESAI** | [[CRAB_Dividen_20261009|📄 Dokumen]] |
-| **[[DADA]]** | Dividen Tunai | `31 Desember 2025` | ⚪ **SELESAI** | [[DADA_Dividen_20261009|📄 Dokumen]] |
-| **[[DKFT]]** | Dividen Tunai | `14 September 2026` | ⚪ **SELESAI** | [[DKFT_Dividen_20261009|📄 Dokumen]] |
-| **[[DMIG]]** | Dividen Tunai | `30 September 2026` | ⚪ **SELESAI** | [[DMIG_Dividen_20261009|📄 Dokumen]] |
-| **[[HEXA]]** | Dividen Tunai | `28 September 2026` | ⚪ **SELESAI** | [[HEXA_Dividen_20261009|📄 Dokumen]] |
-| **[[HUMI]]** | Dividen Tunai | `10 Agustus 2026` | ⚪ **SELESAI** | [[HUMI_Dividen_20261009|📄 Dokumen]] |
+| **[[AMAR]]** | Dividen Tunai | `11 Agustus 2026` | ⚪ **SELESAI** | [[AMAR_Dividen_20261012|📄 Dokumen]] |
+| **[[ASGR]]** | Dividen Tunai | `08 Oktober 2026` | ⚪ **SELESAI** | [[ASGR_Dividen_20261012|📄 Dokumen]] |
+| **[[BAJA]]** | Dividen Tunai | `1 Oktober 2026` | ⚪ **SELESAI** | [[BAJA_Dividen_20261012|📄 Dokumen]] |
+| **[[BPII]]** | Dividen Tunai | `26 Agustus 2026` | ⚪ **SELESAI** | [[BPII_Dividen_20261012|📄 Dokumen]] |
+| **[[BSSR]]** | Dividen Tunai | `1 Oktober 2026` | ⚪ **SELESAI** | [[BSSR_Dividen_20261012|📄 Dokumen]] |
+| **[[CDIA]]** | Dividen Tunai | `30 September 2026` | ⚪ **SELESAI** | [[CDIA_Dividen_20261012|📄 Dokumen]] |
+| **[[CMRY]]** | Dividen Tunai | `07 September 2026` | ⚪ **SELESAI** | [[CMRY_Dividen_20261012|📄 Dokumen]] |
+| **[[CRAB]]** | Dividen Tunai | `06 Oktober 2026` | ⚪ **SELESAI** | [[CRAB_Dividen_20261012|📄 Dokumen]] |
+| **[[DADA]]** | Dividen Tunai | `31 Desember 2025` | ⚪ **SELESAI** | [[DADA_Dividen_20261012|📄 Dokumen]] |
+| **[[DKFT]]** | Dividen Tunai | `14 September 2026` | ⚪ **SELESAI** | [[DKFT_Dividen_20261012|📄 Dokumen]] |
+| **[[DMIG]]** | Dividen Tunai | `30 September 2026` | ⚪ **SELESAI** | [[DMIG_Dividen_20261012|📄 Dokumen]] |
+| **[[GEMS]]** | Dividen Tunai | `09 Oktober 2026` | ⚪ **SELESAI** | [[GEMS_Dividen_20261012|📄 Dokumen]] |
+| **[[HEXA]]** | Dividen Tunai | `28 September 2026` | ⚪ **SELESAI** | [[HEXA_Dividen_20261012|📄 Dokumen]] |
+| **[[HUMI]]** | Dividen Tunai | `10 Agustus 2026` | ⚪ **SELESAI** | [[HUMI_Dividen_20261012|📄 Dokumen]] |
 | **[[ICON]]** | Dividen Tunai | `31 Juli 2026` | ⚪ **SELESAI** | [[ICON_20260804_ICON_20260804_ICON_Ringkasan RisalahRisalah RUPS_32117469.pdf|📄 Dokumen]] |
-| **[[IFII]]** | Dividen Tunai | `29 September 2026` | ⚪ **SELESAI** | [[IFII_Dividen_20261009|📄 Dokumen]] |
-| **[[IKBI]]** | Dividen Tunai | `11 Agustus 2026` | ⚪ **SELESAI** | [[IKBI_Dividen_20261009|📄 Dokumen]] |
-| **[[INPP]]** | Dividen Tunai | `20 Agustus 2026` | ⚪ **SELESAI** | [[INPP_Dividen_20261009|📄 Dokumen]] |
-| **[[KKGI]]** | Dividen Tunai | `23 September 2026` | ⚪ **SELESAI** | [[KKGI_Dividen_20261009|📄 Dokumen]] |
-| **[[MARK]]** | Dividen Tunai | `13 Agustus 2026` | ⚪ **SELESAI** | [[MARK_Dividen_20261009|📄 Dokumen]] |
-| **[[NICL]]** | Dividen Tunai | `05 Oktober 2026` | ⚪ **SELESAI** | [[NICL_Dividen_20261009|📄 Dokumen]] |
+| **[[IFII]]** | Dividen Tunai | `29 September 2026` | ⚪ **SELESAI** | [[IFII_Dividen_20261012|📄 Dokumen]] |
+| **[[IKBI]]** | Dividen Tunai | `11 Agustus 2026` | ⚪ **SELESAI** | [[IKBI_Dividen_20261012|📄 Dokumen]] |
+| **[[INPP]]** | Dividen Tunai | `20 Agustus 2026` | ⚪ **SELESAI** | [[INPP_Dividen_20261012|📄 Dokumen]] |
+| **[[KKGI]]** | Dividen Tunai | `23 September 2026` | ⚪ **SELESAI** | [[KKGI_Dividen_20261012|📄 Dokumen]] |
+| **[[MARK]]** | Dividen Tunai | `13 Agustus 2026` | ⚪ **SELESAI** | [[MARK_Dividen_20261012|📄 Dokumen]] |
+| **[[NICL]]** | Dividen Tunai | `05 Oktober 2026` | ⚪ **SELESAI** | [[NICL_Dividen_20261012|📄 Dokumen]] |
 | **[[NPGF]]** | Dividen Tunai | `31 Desember 2025` | ⚪ **SELESAI** | [[NPGF_20260803_NPGF_20260803_NPGF_Ringkasan RisalahRisalah RUPS_32117248.pdf|📄 Dokumen]] |
-| **[[SMFP]]** | Dividen Tunai | `30 Juni 2026` | ⚪ **SELESAI** | [[SMFP_Dividen_20261009|📄 Dokumen]] |
-| **[[TAPG]]** | Dividen Tunai | `11 Agustus 2026` | ⚪ **SELESAI** | [[TAPG_Dividen_20261009|📄 Dokumen]] |
-| **[[UNTR]]** | Dividen Tunai | `07 Oktober 2026` | ⚪ **SELESAI** | [[UNTR_Dividen_20261009|📄 Dokumen]] |
-| **[[VICO]]** | Dividen Tunai | `29 September 2026` | ⚪ **SELESAI** | [[VICO_Dividen_20261009|📄 Dokumen]] |
-| **[[VKTR]]** | Dividen Tunai | `2026-10-08` | ⚪ **SELESAI** | [[VKTR_Dividen_20261009|📄 Dokumen]] |
+| **[[SMFP]]** | Dividen Tunai | `30 Juni 2026` | ⚪ **SELESAI** | [[SMFP_Dividen_20261012|📄 Dokumen]] |
+| **[[TAPG]]** | Dividen Tunai | `11 Agustus 2026` | ⚪ **SELESAI** | [[TAPG_Dividen_20261012|📄 Dokumen]] |
+| **[[UNTR]]** | Dividen Tunai | `07 Oktober 2026` | ⚪ **SELESAI** | [[UNTR_Dividen_20261012|📄 Dokumen]] |
+| **[[VICO]]** | Dividen Tunai | `29 September 2026` | ⚪ **SELESAI** | [[VICO_Dividen_20261012|📄 Dokumen]] |
+| **[[VKTR]]** | Dividen Tunai | `2026-10-08` | ⚪ **SELESAI** | [[VKTR_Dividen_20261012|📄 Dokumen]] |
 | **[[EMTK]]** | RUPSLB / RUPST | `11 Agustus 2026` | ⚪ **SELESAI** | [[EMTK_20260812_EMTK_20260812_EMTK_Ringkasan RisalahRisalah RUPS_32120134.pdf|📄 Dokumen]] |
 | **[[HRUM]]** | RUPSLB / RUPST | `2026-09-18` | ⚪ **SELESAI** | [[HRUM_20260812_HRUM_20260810_HRUM_Pengumuman RUPS_32119230.pdf|📄 Dokumen]] |
 | **[[OILS]]** | RUPSLB / RUPST | `2026-08-11` | ⚪ **SELESAI** | [[OILS_20260812_OILS_20260812_OILS_Ringkasan RisalahRisalah RUPS_32120085.pdf|📄 Dokumen]] |
@@ -409,7 +418,6 @@
 | **[[UNIC]]** | RUPSLB / RUPST | `10 September 2026` | ⚪ **SELESAI** | [[UNIC_Pemanggilan_RUPS_20260819|📄 Dokumen]] |
 | **[[UANG]]** | RUPSLB / RUPST | `Jumat, 25 September 2026` | ⚪ **SELESAI** | [[UANG_Pemanggilan_RUPS_20260828|📄 Dokumen]] |
 | **[[SCCO]]** | RUPSLB / RUPST | `Selasa, 8 September 2026` | ⚪ **SELESAI** | [[SCCO_Pemanggilan_RUPS_20260814|📄 Dokumen]] |
-| **[[KOTA]]** | RUPSLB / RUPST | `Senin, 14 September 2026` | ⚪ **SELESAI** | [[KOTA_Pemanggilan_RUPS_20260828|📄 Dokumen]] |
 | **[[KBLM]]** | RUPSLB / RUPST | `Senin, 7 September 2026` | ⚪ **SELESAI** | [[KBLM_Pemanggilan_RUPS_20260814|📄 Dokumen]] |
 | **[[ISAT]]** | RUPSLB / RUPST | `31 Agustus 2026` | ⚪ **SELESAI** | [[ISAT_Pemanggilan_RUPS_20260816|📄 Dokumen]] |
 | **[[ENAK]]** | RUPSLB / RUPST | `Rabu, 2 September 2026` | ⚪ **SELESAI** | [[ENAK_Pemanggilan_RUPS_20260813|📄 Dokumen]] |
@@ -418,12 +426,11 @@
 | **[[BIPP]]** | RUPSLB / RUPST | `Jumat, 25 September 2026` | ⚪ **SELESAI** | [[BIPP_Pemanggilan_RUPS_20260819|📄 Dokumen]] |
 | **[[BESS]]** | RUPSLB / RUPST | `2026-07-30` | ⚪ **SELESAI** | [[BESS_Pemanggilan_RUPS_20260813|📄 Dokumen]] |
 | **[[AKPI]]** | RUPSLB / RUPST | `Kamis, 3 September 2026` | ⚪ **SELESAI** | [[AKPI_Pemanggilan_RUPS_20260813|📄 Dokumen]] |
-| **[[AGRO]]** | RUPSLB / RUPST | `Rabu, 2026-10-07` | ⚪ **SELESAI** | [[AGRO_Pemanggilan_RUPS_20260831|📄 Dokumen]] |
 | **[[BMSR]]** | RUPSLB / RUPST | `Selasa, 4 Agustus 2026 (Pukul 10.16 – 10.23 WIB)` | ⚪ **SELESAI** | [[BMSR_Hasil_RUPS_20260806|📄 Dokumen]] |
 
 ---
 
 ## 🔗 Hubungan Note Terkait (Knowledge Graph)
-- [[knowledge-base/trading-signals/Trading_Signals_20261009|🎯 Sinyal Cuan 2026-10-09]]
-- [[knowledge-base/daily-digests/Daily_Digest_20261009|📄 Daily Digest 2026-10-09]]
+- [[knowledge-base/trading-signals/Trading_Signals_20261012|🎯 Sinyal Cuan 2026-10-12]]
+- [[knowledge-base/daily-digests/Daily_Digest_20261012|📄 Daily Digest 2026-10-12]]
 - [[Dashboard|🎛️ Kembali ke Dashboard]]

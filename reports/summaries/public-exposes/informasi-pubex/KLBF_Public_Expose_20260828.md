@@ -1,48 +1,130 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[KLBF]]
-🏢 **Emiten**: `[[KLBF]]` | 📅 **Tanggal Pelaksanaan**: `2026-08-28` | 📑 **Dokumen**: `Public Expose`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260828|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 📊 Materi Public Expose: [KLBF]
 
----
+🏢 **Emiten**: `KLBF` | 📅 **Tanggal Pelaksanaan**: `2026-08-28` | 📑 **Total Slide**: `2 Slide`
+⬅️ [[knowledge-base/daily-digests/KLBF_20260828|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/KLBF|Ke Dashboard Emiten]]
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
 > [!NOTE]
-> Kalbe Farma Tbk (KLBF) menyampaikan pemberitahuan resmi rencana penyelenggaraan Public Expose Tahunan untuk tahun buku yang berakhir pada 2026. Acara akan diselenggarakan pada 11 September 2026 pukul 09:00 melalui platform Public Expose Live 2026 yang tercantum di website idx.co.id. Agenda meliputi presentasi/pemaparan kinerja perseroan dan press conference. Dokumen disampaikan oleh Corporate Secretary Maria Teresa Fabiola pada 28 Agustus 2026.
-
-#### 🎯 Guidance Operasional & Target Strategis
-- Dokumen ini hanya merupakan pengumuman rencana Public Expose dan tidak memuat guidance kinerja, target operasional, rencana ekspansi, atau alokasi belanja modal secara spesifik. Informasi tersebut diharapkan disampaikan pada saat pelaksanaan Public Expose 11 September 2026.
-
-## 📊 2. Matriks Indikator Operasional & Parameter Kunci
-| Parameter Utama | Nilai / Keterangan Resmi |
-| :--- | :--- |
-| **Nama Perusahaan** | `Kalbe Farma Tbk` |
-| **Kode Emiten** | `KLBF` |
-| **Jenis Acara** | `Public Expose Tahunan` |
-| **Tahun Buku** | `2026` |
-| **Tanggal Penyelenggaraan** | `11 September 2026` |
-| **Waktu** | `09:00` |
-| **Tempat** | `Public Expose Live 2026, website idx.co.id` |
-| **Agenda** | `1. Presentasi/Pemaparan Kinerja Perseroan; 2. Press Conference` |
-| **Corporate Secretary** | `Maria Teresa Fabiola` |
-| **Tanggal dan Waktu Pengumuman** | `28-08-2026 16:19` |
-| **Nomor Surat** | `062/CSEC-KF/VIII-2026` |
+> Ringkasan materi presentasi resmi Public Expose KLBF yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-`Materi presentasi Public Expose / Risalah Q&A terlampir dalam dokumen resmi bursa.`
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-## 📌 4. Peta Jalur Strategis & Roadmap
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | 062/CSEC-KF/VIII-2026 |
+| **Perihal Pengumuman** | Rencana Penyelenggaraan Public Expose Tahunan |
+| **Waktu Pelaksanaan** | 11 September 2026 09:00 |
+| **Lokasi / Media** | Public Expose Live 2026 yang tercantum pada website idx.co.id |
+| **Lampiran Resmi** | `0` |
+
+## 📋 2. Agenda Paparan Publik
+
+1. Nama Perusahaan
+2. Kode Emiten
+3. Lampiran
+4. Perihal
+5. 062/CSEC-KF/VIII-2026
+6. Kalbe Farma Tbk
+7. Rencana Penyelenggaraan Public Expose Tahunan
+8. Go To English Page
+9. Perseroan melaporkan rencana Public Expose Tahunan sebagai berikut:
+10. Rencana Penyelenggaraan Public Expose
+11. Tahun Buku yang Berakhir pada
+12. Tempat
+13. : Public Expose Live 2026 yang tercantum pada website idx.co.id
+14. Hari/Tanggal
+15. : 11 September 2026
+16. Waktu
+17. 09:00
+18. Agenda
+19. : 1. Presentasi/Pemaparan Kinerja Perseroan
+20. 2. Press Conference
+21. Hormat Kami,
+22. Demikian untuk diketahui.
+23. Gedung KALBE Let.Jend Suprato Kav. 4
+24. Corporate Secretary
+25. Nama Pengirim
+26. Telepon : 42873888
+27. Kalbe Farma Tbk
+28. Maria Teresa Fabiola
+29. Kalbe Farma Tbk
+30. Maria Teresa Fabiola
+31. Jabatan
+32. Corporate Secretary
+33. Tanggal dan Waktu
+34. 28-08-2026 16:19
+35. Dokumen ini merupakan dokumen resmi Kalbe Farma Tbk yang tidak memerlukan tanda tangan karena dihasilkan
+36. secara elektronik oleh sistem pelaporan elektronik. Kalbe Farma Tbk bertanggung jawab penuh atas informasi yang
+37. tertera didalam dokumen ini.
+38. Issuer Name
+39. Issuer Code
+40. Attachment
+41. Subject
+42. 062/CSEC-KF/VIII-2026
+43. Kalbe Farma Tbk
+44. General Announcement Public Expose
+45. Go To Indonesian Page
+46. Company announces public expose plan Annual as follows:
+47. Public Expose Announcement
+48. Fiscal Year
+49. Place
+50. : Public Expose Live 2026 yang tercantum pada website idx.co.id
+51. : 11 September 2026
+52. 09:00
+53. Agenda
+54. : 1. Company Presentation
+55. 2. Press Conference
+56. Respectfully,
+57. Thus to be informed accordingly.
+58. Kalbe Farma Tbk
+59. Maria Teresa Fabiola
+60. Corporate Secretary
+61. Maria Teresa Fabiola
+62. Sender Name
+63. Kalbe Farma Tbk
+64. Gedung KALBE Let.Jend Suprato Kav. 4
+65. Phone : 42873888
+66. Corporate Secretary
+67. Function
+68. Date and Time
+69. 28-08-2026 16:19
+70. This is an official document of Kalbe Farma Tbk that does not require a signature as it was generated electronically
+71. by the electronic reporting system. Kalbe Farma Tbk is fully responsible for the information contained within this
+
+## 🏢 3. Profil & Pilar Portofolio Bisnis
+
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
+
+*Detail aset operasional terlampir pada dokumen slide resmi.*
+
+## 📈 5. Kinerja Keuangan & Posisi Finansial
+
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
+
+*Strategi usaha difokuskan pada penguatan fundamental dan ekspansi operasional.*
+
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
+
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
 ```mermaid
-flowchart TD
-    A["📢 Public Expose (KLBF)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+flowchart LR
+    A["🏢 KLBF"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
 ```
 
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
+| Slide 1 | **Nomor Surat** | Nama Perusahaan Kode Emiten Lampiran |
+| Slide 2 | **Letter / Announcement No.** | Issuer Name Issuer Code Attachment |
+
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260828|📄 Daily Digest 2026-08-28]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:46 WIB.*

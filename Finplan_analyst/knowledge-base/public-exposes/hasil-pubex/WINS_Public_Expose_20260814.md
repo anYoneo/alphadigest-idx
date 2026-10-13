@@ -1,39 +1,122 @@
-# 💬 Laporan Hasil Pelaksanaan & Risalah Public Expose: [[WINS]]
+# 🎤 Laporan Hasil Public Expose: [WINS]
 
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260814|Kembali ke Daily Digest]] | 📅 **2026-08-14** | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+🏢 **Emiten**: `WINS` | 📅 **Tanggal Pelaksanaan**: `2026-08-14` | ❓ **Total Pertanyaan**: `1 Pertanyaan`
+⬅️ [[knowledge-base/daily-digests/WINS_20260814|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/WINS|Ke Dashboard Emiten]]
 
 > [!IMPORTANT]
-> Dokumen ini merangkum **Hasil Pelaksanaan Public Expose / Investor Meeting**, materi presentasi, serta seluruh risalah **Tanya Jawab (Q&A Pairs)** hasil ekstraksi dari 3 berkas lampiran resmi perseroan **[[WINS]]**.
+> Dokumen ini memuat seluruh risalah hasil pelaksanaan dan sesi tanya jawab (Q&A) Public Expose WINS. Informasi dicatat secara verbatim guna memberikan analisis sentimen dan arah kebijakan manajemen bagi investor.
 
 ---
 
-## 📌 1. Informasi Pelaksanaan & Berkas Terlampir
-- **Emiten**: `[[WINS]]`
-- **Judul Dokumen**: `Public Expose lamp2`
-- **Total Berkas Terproses**: `3 File PDF Lampiran`
-- **Tipe Dokumen**: `Laporan Hasil Pelaksanaan & Risalah Q&A`
+## ℹ️ 1. Informasi Penyelenggaraan & Kehadiran
+
+| Parameter | Detail Pelaksanaan |
+|---|---|
+| **Nomor Surat** | 2129/A.20/VIII/2026/WINS.277 |
+| **Perihal** | Laporan Hasil Public Expose Tahunan |
+| **Waktu Pengumuman** | 14-08-2026 17:28 |
+| **Jumlah Kehadiran Peserta** | Penyampaian Hasil Public Expose |
+| **Lampiran Berkas** | `2` |
 
 ---
 
-## 💬 2. Sesi Tanya Jawab Investor & Manajemen (Q&A Pairs)
-### ❓ Pertanyaan #1
-> **Pertanyaan**: Seberapa besar dampak krisis energi akibat geopolitik di Timur Tengah terhadap kenaikan tarif OSV?
+## 💬 2. Risalah Tanya Jawab Manajemen & Investor (1 Pertanyaan)
 
-💡 **Jawaban Manajemen**:
-Terkait dengan akuisisi FOS dan FOI, Perseroan memandang bahwa saat ini merupakan momentum yang tepat untuk mengambil alih kendali penuh atas FOS & FOI, meskipun entitas tersebut mencatatkan kerugian dalam semester pertama. Yang menjadi pertimbangan utama Manajemen adalah bahwa FOS baru saja mendapatkan 2 kontrak besar untuk pembangunan kapal Crew Transfer Vessel, di mana salah satunya didukung oleh kontrak charter selama 5 tahun. Kepastian pendapatan jangka panjang inilah yang memberikan visibilitas kuat atas pemulihan dan pertumbuhan kinerja FOS ke depan dan akan memperkuat posisi Perseroan di Brunei sebagai pasar utama, serta membuka lini bisnis baru di shipbuilding. Kerugian FOS pada 1H2026 bersifat sementara dan dikarenakan masih fase awal operasional, sehingga Perseroan memperkirakan akuisisi ini akan sedikit menekan laba pada 2026. Namun ke depannya, akan mendorong pertumbuhan yang signifikan pada tahun 2027–2028 seiring pengiriman kapal- kapal baru sesuai kontrak yang telah dimiliki. PT WINTERMAR OFFSHORE MARINE Tbk Jl. Kebayoran Lama No 155 Jakarta 11560 Indonesia Tel : 62 21 530 5201 / 2 Fax : 62 21 530 5203 www.wintermar.com Page | 2 Selain itu, akusisi FOI diposisikan sebagai kendaraan strategis untuk membawa masuk armada aluminium Crew Transfer Vessel (CTV) yang unik milik FOS ke pasar Indonesia dengan memanfaatkan asas cabotage yang mewajibkan kapal berbendera Indonesia untuk didahulukan beroperasi di perairan domestik. Manajemen telah mengamankan kontrak jangka panjang untuk 2 unit kapal FOI hingga tahun 2028, yang memberikan kepastian pendapatan dan menjadi fondasi bagi perbaikan profitabilitas dimasa datang. Harta Wijaya Sugiman Layanto (Direktur Utama) Investor Individu Perseroan Pertanyaan: Seberapa besar dampak krisis energi akibat geopolitik di Timur Tengah terhadap kenaikan tarif OSV? Jawaban: Krisis energi yang diakibatkan oleh konflik di Timur Tengah telah memicu kesadaran terhadap "energy security" di dunia. Hal ini mendorong investasi di pengeboran dan eksplorasi untuk minyak dan gas. Indonesia juga telah mempercepat beberapa proyek eksplorasi untuk mengamankan sumber minyak dan gas di indonesia. Dari sudut pandang macro view, konflik di Timur Tengah memiliki impact positif atas kegiatan pengeboran, sementara untuk prospek OSV dari segi permintaan yang akan meningkat di tahun-tahun ke depan. Dengan keterbatasan persediaan OSV di dunia, Perseroan memperkirakan harga sewa akan meningkat. Samuel Patrick Sugiman Layanto (Direktur Utama) THINK Perseroan Pertanyaan: Apakah Perseroan aktif mengikuti tender dalam proyek migas Indonesia yang akan datang seperti IDD, Marsela, Kasuari? Jawaban: Proyek IDD ini sebelumnya merupakan proyek Chevron. Sebetulnya pada sekitar tahun 2014–2015, Perseroan sudah mulai bekerja di proyek ini. Namun, karena saat itu kondisi pasar jatuh (market crash), operasional sempat terhenti. Saat ini, Blok IDD telah diambil alih dan sedang dikembangkan oleh
-
----
 ### ❓ Pertanyaan #2
-> **Pertanyaan**: Bagaimana target kontribusi pendapatan secara geografis dan vessel tier, serta jadwal docking dalam beberapa tahun ke depan? Bagaimana strategy asset schedule Perseroan terkait penambahan maupun disposal armada ke depannya?
 
-💡 **Jawaban Manajemen**:
-Sebelum akuisisi Fast Offshore, 75% pendapatan Perseroan berasal dari Indonesia, didorong oleh sewa kapal-kapal high tier. Namun setelah akuisisi FOS, pendapatan berasal dari luar Indonesia akan meningkat cukup signifikan dalam beberapa tahun ke depan. Mengenai docking, wajib kami lakukan 2 kali dalam 5 tahun untuk setiap kapal, sebagai kepatuhan atas regulasi internasional untuk Safety of Life at Sea (SOLAS). Saat ini, jumlah kapal Perseroan 52 unit, sehingga setiap tahun terdapat beberapa kapal yang melakukan docking. Sejalan dengan strategi Manajemen, Perseroan akan terus mengakuisisi high tier vessel dengan sistem DP, seiring dengan optimisme Manajemen terhadap tingginya permintaan untuk segmen tersebut. Optimisme ini didorong oleh banyaknya investasi pada kegiatan offshore drilling di wilayah laut dalam (deepwater). Untuk strategi disposal, Perseroan telah mengidentifikasi beberapa kapal yang berusia tua serta kapal dengan teknologi yang sudah tertinggal, untuk dijual. Saat ini, Perseroan tidak lagi memasarkan kapal-kapal dari segmen low tier. Kapasitas operasional untuk segmen tersebut tidak lagi ditawarkan kepada klien, karena fokus utama Perseroan kini telah beralih sepenuhnya ke segmen mid tier dan high tier. Darren Sun Sugiman Layanto (Direktur Utama) BNI Sekuritas Perseroan Pertanyaan: Mohon informasi/pandangan atas prospek industri pelayaran secara umum. Jawaban: Jika melihat slide presentasi sebelumnya, khususnya mengenai demand against supply, terlihat sangat jelas bahwa tingkat persediaan armada saat ini sangat terbatas. Bahkan, jumlah armada yang ada ke depan akan terus berkurang seiring berlanjutnya penuaan kapal. Pertanyaannya, seberapa cepat unit-unit baru (newbuilds) dapat menyeimbangkan jumlah kapal yang akan dipensiunkan (retired)? Ini merupakan satu faktor utama, sedangkan faktor lainnya adalah tingkat permintaan. Di sektor minyak dan gas, ketika perusahaan minyak merealisasikan capital expenditure (capex) untuk program pengeboran, tujuan utamanya adalah memproduksi minyak dan gas untuk dijual dalam jangka waktu 7 hingga 8 tahun ke depan. Minyak dari hasil eksplorasi saat ini baru dapat dipasarkan beberapa tahun mendatang. Karena mereka telah memulai investasi tersebut, mereka meyakini bahwa harga minyak akan tetap terjaga di level yang cukup baik, setidaknya untuk beberapa dekade ke depan. Tentu muncul kekhawatiran mengenai seberapa cepat energi renewables dapat menggantikan energi fosil. Namun, dengan teknologi saat ini, energi terbarukan masih relatif mahal dan membutuhkan subsidi pemerintah. Oleh karena itu, energi renewables masih memerlukan waktu yang lama untuk dapat menyamai peran energi fosil, yang pada akhirnya akan terus menopang permintaan oil and gas setidaknya untuk 10 tahun ke depan. PT WINTERMAR OFFSHORE MARINE Tbk Jl. Kebayoran Lama No 155 Jakarta 11560 Indonesia Tel : 62 21 530 5201 / 2 Fax : 62 21 530 5203 www.wintermar.com Page | 4 Di sisi pasokan, hampir tidak ada pembangunan kapal baru dalam 10 tahun terakhir, sehingga usia armada saat ini mayoritas sudah tua. Di saat yang sama, potensi pasarnya sangat terbuka, sehingga Perseroan sangat optimistis terhadap prospek industri ini. Industri pelayaran merupakan bisnis yang sangat capital intensive. Sebagian besar pelaku industri saat ini masih berjuang menyelesaikan beban utang dari dekade sebelumnya. Sebaliknya, perusahaan yang memiliki rasio utang rendah berada dalam posisi yang sangat menguntungkan untuk mengambil fasilitas pinjaman baru guna memanfaatkan momentum pertumbuhan pasar ini. Daniel Pek Swan (Head of Corporate Planning and Investor Relations) Investor Individu Perseroan Pertanyaan:
+> **Penanya**: *Investor / Analis Publik*
+
+```text
+Pertanyaan:
+2. 
+Mengenai contract coverage sebelum akuisisi Fast Offshore, Perseroan 
+mencatat nilai contracts on hand sebesar US$ 58 juta, di mana sekitar 
+sepertiganya memiliki durasi lebih dari satu tahun. Namun, mayoritas 
+dari high tier vessel dan masih berada dalam kontrak jangka pendek. 
+ 
+          Hal ini terutama disebabkan oleh tahap siklus yang masih berada pada
+fase awal. Sebagian besar pekerjaan yang kita lihat saat ini berasal dari 
+survei seismik serta eksplorasi, yang sifatnya berdurasi pendek, dimana 
+umumnya hanya beberapa bulan. Meskipun demikian, ada beberapa 
+kontrak yang saat ini sedang dalam proses tender dan diperkirakan akan 
+selesai pada akhir tahun ini atau awal tahun depan. Kontrak-kontrak baru 
+ini diproyeksikan berdurasi jangka panjang, yaitu sekitar 3 hingga 5 tahun. 
+ 
+3. 
+Banyak aktivitas yang terjadi disana, secara khusus mengenai kegiatan 
+pengeboran, fase pengeboran saat ini sedang mengalami penurunan 
+aktivitas karena salah satu rig akan menyelesaikan masa kontraknya. Rig 
+pengganti diperkirakan baru akan masuk dan beroperasi menjelang akhir 
+tahun. 
+ 
+Aktivitas diproyeksikan akan kembali meningkat mendekati akhir tahun. 
+Memang 
+terjadi 
+penundaan, 
+namun 
+dalam 
+bisnis 
+upstream 
+keterlambatan seperti ini merupakan hal yang biasa terjadi dan bukan 
+masalah mendasar. 
+ 
+Di sisi lain, penting untuk dicatat bahwa Selat Makassar merupakan 
+wilayah perairan terdalam di Indonesia. Oleh karena itu, kapal dan 
+operasi yang digunakan di wilayah tersebut sangat sensitif terhadap 
+spesifikasi teknis, terutama untuk DP. Meskipun terdapat penundaan, 
+secara realistis terdapat probabilitas yang sangat tinggi bahwa aktivitas 
+operasional akan kembali melonjak menjelang akhir tahun. 
+ 
+4. 
+Mengenai tarif sewa, tarif sewa di Indonesia secara umum lebih rendah 
+jika dibandingkan dengan negara-negara lain. Namun, angkanya secara 
+perlahan mulai membaik. 
+ 
+Di sisi lain, terjadi sedikit penurunan aktivitas di Malaysia. Ketika aktivitas 
+di Malaysia kembali meningkat, Perseroan memperkirakan tarif sewa 
+secara regional akan naik. 
+ 
+Secara umum, kondisi tarif sewa saat ini memang tidak sangat tinggi, 
+namun juga tidak sangat rendah. Meski sempat terdapat lonjakan pada 
+kapal baru, Perseroan melihat masih ada ruang untuk kenaikan tarif sewa 
+seiring dengan peningkatan permintaan dan tingkat penawaran yang 
+terus berkembang. 
+ 
+8 
+Aditya 
+Prayoga
+PT Phintraco 
+Sekuritas
+Pertanyaan: 
+1. 
+Berapa kisaran usia kapal yang akan diakuisisi? 
+2. 
+Apakah pembelian kapal second-hand tersebut akan didanai melalui kas 
+internal, fasilitas pendanaan bank, atau kombinasi keduanya? 
+3. 
+Terkait dengan tarif sewa kapal, apakah boleh di share terkait dengan 
+berapa rata-rata tarif sewa kapal untuk segmen high-tier dan low-tier saat 
+ini? 
+4. 
+Terkait rencana pembangunan kapal baru, apakah Perseroan akan lebih 
+berfokus pada segmen high-tier atau low-tier?
+```
+
+💡 **Jawaban & Klarifikasi Manajemen**:
+
+> *Teks tanggapan manajemen tidak tersedia*
 
 ---
 
+## 📌 3. Peta Jalur Transparansi & Kepercayaan Pasar
+
+```mermaid
+flowchart TD
+    A["📢 Public Expose (WINS)"] --> B["💬 Dialog Manajemen & Publik"]
+    B --> C["🔍 Klarifikasi Isu Strategis & Finansial"]
+    C --> D["📊 Transparansi & Tata Kelola Perusahaan"]
+```
+
 ---
 
-## 🔗 Hubungan Note Terkait (Knowledge Graph)
-- [[knowledge-base/daily-digests/Daily_Digest_20260814|📄 Daily Digest 2026-08-14]]
-- [[knowledge-base/trading-signals/Trading_Signals_20260814|🎯 Sinyal Cuan 2026-08-14]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:50 WIB.*

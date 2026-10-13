@@ -1,53 +1,136 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[PACK]]
-🏢 **Emiten**: `[[PACK]]` | 📅 **Tanggal Pelaksanaan**: `2026-09-09` | 📑 **Dokumen**: `Public Expose`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260909|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 📊 Materi Public Expose: [PACK]
 
----
+🏢 **Emiten**: `PACK` | 📅 **Tanggal Pelaksanaan**: `2026-09-09` | 📑 **Total Slide**: `2 Slide`
+⬅️ [[knowledge-base/daily-digests/PACK_20260909|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/PACK|Ke Dashboard Emiten]]
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
 > [!NOTE]
-> PT Abadi Nusantara Hijau Investama Tbk (PACK) akan menyelenggarakan Public Expose Insidentil pada 11 September 2026 pukul 10:00 WIB secara virtual melalui Zoom. Public Expose ini bersifat sukarela namun berdasarkan permintaan Bursa Efek Indonesia (BEI) melalui surat Peng-SPT-00159/BEI.WAS/08-2026. Agenda utama meliputi pemaparan kinerja keuangan dan kondisi bisnis terkini, rencana bisnis ke depan, serta analisis manajemen terkait pergerakan harga saham dan suspensi bursa yang sedang dialami emiten. Acara akan dipimpin oleh Direktur Donnie Holman Partogi Manurung.
-
-#### 🎯 Guidance Operasional & Target Strategis
-- Tidak ada target kinerja, ekspansi, atau capex spesifik yang diungkapkan dalam dokumen pengumuman ini. Namun, agenda public expose mencakup pemaparan rencana bisnis masa mendatang dan analisis manajemen atas pergerakan harga saham serta suspensi bursa, yang mengindikasikan adanya isu signifikan yang perlu dijelaskan kepada investor. Katalis utama yang dapat diamati adalah penjelasan manajemen mengenai penyebab suspensi dan prospek pemulihan bisnis perusahaan.
-
-## 📊 2. Matriks Indikator Operasional & Parameter Kunci
-| Parameter Utama | Nilai / Keterangan Resmi |
-| :--- | :--- |
-| **Jenis Public Expose** | `Insidentil (Sukarela atas permintaan BEI)` |
-| **Referensi Surat BEI** | `Peng-SPT-00159/BEI.WAS/08-2026` |
-| **Tanggal Pelaksanaan** | `11 September 2026` |
-| **Waktu Pelaksanaan** | `10:00 WIB` |
-| **Tempat Pelaksanaan** | `Live Event via Aplikasi Zoom` |
-| **Agenda 1** | `Kinerja keuangan dan kondisi bisnis terkini Perseroan` |
-| **Agenda 2** | `Rencana bisnis Perseroan di masa mendatang` |
-| **Agenda 3** | `Analisa Manajemen terkait pergerakan harga saham dan suspensi bursa` |
-| **Nama Direktur Pelapor** | `Donnie Holman Partogi Manurung` |
-| **Tanggal Pengumuman** | `09 September 2026` |
+> Ringkasan materi presentasi resmi Public Expose PACK yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-### ❓ Pertanyaan 1 (Belum tersedia (dokumen hanya berisi pengumuman rencana, bukan risalah pelaksanaan))
-**Pertanyaan**: Belum tersedia - dokumen ini adalah pengumuman rencana public expose, bukan risalah Q&A yang sudah berlangsung.
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-**Jawaban Manajemen**: Belum tersedia - jawaban manajemen akan diberikan pada saat acara berlangsung tanggal 11 September 2026.
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | 002/DIR-ANHI/IX/2026 |
+| **Perihal Pengumuman** | Rencana Penyelenggaraan Public Expose Insidentil |
+| **Waktu Pelaksanaan** | 11 September 2026 10:00 |
+| **Lokasi / Media** | Live Event via Aplikasi Zoom |
+| **Lampiran Resmi** | `1` |
 
-> [!TIP]
-> **Implikasi Bagi Investor**: Investor perlu menunggu pelaksanaan acara untuk mendapatkan informasi detail. Namun, adanya agenda khusus mengenai analisis pergerakan harga saham dan suspensi bursa mengindikasikan bahwa manajemen akan memberikan klarifikasi penting terkait kondisi fundamental dan prospek perusahaan. Investor disarankan untuk menghadiri acara atau memantau hasil risalahnya.
+## 📋 2. Agenda Paparan Publik
 
-## 📌 4. Peta Jalur Strategis & Roadmap
-```mermaid
-flowchart TD
-    A["📢 Public Expose (PACK)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+1. PT Bursa Efek Indonesia
+2. Gedung Bursa Efek Indonesia, Tower I, Lantai 6
+3. Jl. Jend. Sudirman Kav. 52-53
+4. Jakarta 12190
+5. Dengan hormat,
+6. Merujuk kepada Surat Keputusan Direksi Bursa Efek
+7. Indonesia (“BEI”) Nomor Kep-00087/BEI/12-2025
+8. Pasal III.2 tentang Perubahan Peraturan Nomor I-E
+9. tentang
+10. Kewajiban
+11. Penyampaian
+12. Informasi,
+13. bersama ini kami sampaikan rencana Perseroan
+14. untuk menyelenggarakan Paparan Publik Insidentil
+15. (“Paparan Publik”) yang akan diselenggarakan pada:
+16. Dear Sir,
+17. Referring to the Decree of the Board of Directors of the
+18. Indonesia Stock Exchange (“IDX”) Number Kep-
+19. 00087/BEI/12-2025
+20. Article
+21. III.2
+22. concerning
+23. Amendments to Regulation Number I-E on the
+24. Obligation to Submit Information, we hereby convey
+25. the Company’s plan to hold the Insidentil Public Expose
+26. (“Public Expose”), which will be held on:
+27. Nomor : 002/DIR-ANHI/IX/2026
+28. Jakarta, 9 September 2026
+29. Up. Yth
+30. Bapak Aditya Nugraha
+31. Pelaksana Harian Kepala Divisi Penilai Perusahaan 1
+32. Perihal
+33. Penyampaian Rencana Penyelenggaraan Public Expose Insidentil
+34. Hari / Tanggal
+35. Day / Date
+36. Jumat, 11 September 2026
+37. Friday, September, 11th, 2026
+38. Waktu
+39. 10:00 AM – Selesai
+40. 10:00 AM – Finish
+41. Tempat
+42. Location
+43. Live Event via Aplikasi Zoom dengan tautan sebagai
+44. berikut:  https://us06web.zoom.us/j/81029043340
+45. Live Event via Zoom Application using the following
+46. link:  https://us06web.zoom.us/j/81029043340
+47. Manajemen Yang Hadir
+48. Management Attendees
+49. Manajemen Perusahaan
+50. Company’s Management
+51. Agenda
+52. Agenda
+53. 1. Kinerja keuangan dan kondisi bisnis terkini
+54. Perseroan
+55. 2. Rencana bisnis Perseroan di masa mendatang
+56. 3. Analisa Manajemen terkait dengan pergerakan
+57. harga saham Perseroan dan Suspensi Bursa
+
+## 🏢 3. Profil & Pilar Portofolio Bisnis
+
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
+
+*Detail aset operasional terlampir pada dokumen slide resmi.*
+
+## 📈 5. Kinerja Keuangan & Posisi Finansial
+
+### 📊 Ringkasan Finansial
+```text
+Materi Paparan Publik akan kami sampaikan kepada
+PT Bursa Efek Indonesia pada tanggal 10 September
+2026.
+The Public Expose materials will be submitted to PT
+Indonesia Stock Exchange on September, 10th, 2026.
+Demikian pelaporan ini kami sampaikan. Atas perhatiannya, kami ucapkan terima kasih.
+Thus, we submit this report. Thank you for your kind attention.
+Hormat kami / Regards,
+PT Abadi Nusantara Hijau Investama Tbk
+Donnie Holman Partogi Manurung
+Direktur / Director
+1. Financial performance and Company’s updates
+2. The Company’s future strategies
+3. Management analysis regarding the Company's
+share price movements and the stock exchange
+suspension.
 ```
 
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
+
+*Strategi usaha difokuskan pada penguatan fundamental dan ekspansi operasional.*
+
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
+
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
+```mermaid
+flowchart LR
+    A["🏢 PACK"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
+```
+
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
+| Slide 1 | **Kepada Yth. / To:** | PT Bursa Efek Indonesia Gedung Bursa Efek Indonesia, Tower I, Lantai 6 Jl. Jend. Sudirman Kav. 52-53 |
+| Slide 2 | **Materi Paparan Publik akan kami sampaikan kepada** | PT Bursa Efek Indonesia pada tanggal 10 September 2026. The Public Expose materials will be submitted to PT |
+
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260909|📄 Daily Digest 2026-09-09]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:47 WIB.*

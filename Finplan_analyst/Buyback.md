@@ -1,6 +1,6 @@
 # 🛒 Panduan & Intelijen Topik: [[Buyback]] (Pembelian Kembali Saham)
 
-⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-09**
+⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-12**
 
 > [!NOTE]
 > Topik ini merangkum seluruh pengumuman **Pembelian Kembali Saham (Share Buyback)** perseroan di BEI sesuai regulasi OJK (POJK No. 30/POJK.04/2017 & POJK No. 29/POJK.04/2023).
@@ -38,5 +38,5 @@
 
 ## 🔗 Hubungan Note Terkait (Knowledge Graph)
 - [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[knowledge-base/trading-signals/Trading_Signals_20261009|🎯 Sinyal Cuan 2026-10-09]]
+- [[knowledge-base/trading-signals/Trading_Signals_20261012|🎯 Sinyal Cuan 2026-10-12]]
 - [[Dashboard|🎛️ Kembali ke Dashboard Utama]]

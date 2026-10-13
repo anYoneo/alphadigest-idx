@@ -1,6 +1,6 @@
 # 🏛️ Panduan & Intelijen Topik: [[RUPS]] (Rapat Umum Pemegang Saham)
 
-⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-09**
+⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-12**
 
 > [!NOTE]
 > Topik ini merangkum seluruh Pemanggilan RUPS, Agenda RUPSLB Mendatang, serta Hasil Risalah RUPS Tahunan (RUPST) & RUPS Luar Biasa (RUPSLB) emiten bursa.

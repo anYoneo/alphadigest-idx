@@ -1,6 +1,6 @@
 # ✂️ Panduan & Intelijen Topik: [[Stock Split]] & Reverse Stock Split
 
-⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-09**
+⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-12**
 
 > [!NOTE]
 > Topik ini merangkum seluruh pengumuman **Pemecahan Nilai Nominal Saham (Stock Split)** dan **Penggabungan Nilai Nominal Saham (Reverse Stock Split)** di Bursa Efek Indonesia.
@@ -22,5 +22,5 @@
 
 ## 🔗 Hubungan Note Terkait (Knowledge Graph)
 - [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[knowledge-base/trading-signals/Trading_Signals_20261009|🎯 Sinyal Cuan 2026-10-09]]
+- [[knowledge-base/trading-signals/Trading_Signals_20261012|🎯 Sinyal Cuan 2026-10-12]]
 - [[Dashboard|🎛️ Kembali ke Dashboard Utama]]

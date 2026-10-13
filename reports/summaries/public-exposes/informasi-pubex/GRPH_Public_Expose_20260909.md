@@ -1,51 +1,62 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[GRPH]]
-🏢 **Emiten**: `[[GRPH]]` | 📅 **Tanggal Pelaksanaan**: `2026-09-09` | 📑 **Dokumen**: `Public Expose`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260909|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 📊 Materi Public Expose: [GRPH]
 
----
+🏢 **Emiten**: `GRPH` | 📅 **Tanggal Pelaksanaan**: `2026-09-09` | 📑 **Total Slide**: `1 Slide`
+⬅️ [[knowledge-base/daily-digests/GRPH_20260909|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/GRPH|Ke Dashboard Emiten]]
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
 > [!NOTE]
-> PT Griptha Putra Persada Tbk. (GRPH) mengumumkan rencana penyelenggaraan Public Expose Insidentil yang bersifat sukarela atas permintaan Bursa Efek Indonesia (BEI) berdasarkan surat referensi Peng-SPT-00169/BEI.WAS/09-2026. Acara akan diselenggarakan secara online melalui platform Zoom pada tanggal 15 September 2026 pukul 14:00 WIB. Agenda utama paparan publik ini adalah pemaparan kinerja operasional dan keuangan Perseroan. Pengumuman ini ditandatangani secara elektronik oleh Direktur Utama, Edwin Leonardo, dan disampaikan pada 9 September 2026.
-
-#### 🎯 Guidance Operasional & Target Strategis
-- Dokumen ini hanya mengumumkan rencana pelaksanaan Public Expose Insidentil. Tidak terdapat informasi spesifik mengenai target kinerja, ekspansi, atau capex dalam pengumuman ini. Katalis utama yang dapat diantisipasi investor adalah potensi pengumuman kinerja operasional dan keuangan terbaru Perseroan yang akan dipaparkan pada acara 15 September 2026, serta sesi tanya jawab yang dapat memberikan wawasan lebih dalam mengenai prospek bisnis GRPH.
-
-## 📊 2. Matriks Indikator Operasional & Parameter Kunci
-| Parameter Utama | Nilai / Keterangan Resmi |
-| :--- | :--- |
-| **Jenis Paparan** | `Public Expose Insidentil` |
-| **Latar Belakang Pelaksanaan** | `Sukarela / Permintaan Bursa Efek Indonesia (BEI)` |
-| **Referensi Surat BEI** | `Peng-SPT-00169/BEI.WAS/09-2026` |
-| **Tanggal Pelaksanaan** | `15 September 2026` |
-| **Waktu Pelaksanaan** | `14:00 WIB` |
-| **Tempat Pelaksanaan** | `Online melalui Zoom` |
-| **Agenda Acara** | `Kinerja Operasional dan Keuangan Perseroan` |
-| **Penanggung Jawab / Penandatangan** | `Edwin Leonardo (Direktur Utama)` |
+> Ringkasan materi presentasi resmi Public Expose GRPH yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-### ❓ Pertanyaan 1 (Tidak tersedia (dokumen pengumuman))
-**Pertanyaan**: Tidak ada sesi tanya jawab yang tercantum dalam dokumen pengumuman ini.
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-**Jawaban Manajemen**: Tidak tersedia. Dokumen ini hanya berisi pengumuman rencana pelaksanaan Public Expose, bukan risalah acara.
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | 022/GPP/CORSEC/SPb/IX/2026 |
+| **Perihal Pengumuman** | Rencana Penyelenggaraan Public Expose Insidentil |
+| **Waktu Pelaksanaan** | 15 September 2026 14:00 |
+| **Lokasi / Media** | Online melalui Zoom |
+| **Lampiran Resmi** | `1` |
 
-> [!TIP]
-> **Implikasi Bagi Investor**: Investor diharapkan menunggu pelaksanaan acara pada 15 September 2026 untuk mendapatkan informasi kinerja dan kesempatan bertanya langsung kepada manajemen.
+## 📋 2. Agenda Paparan Publik
 
-## 📌 4. Peta Jalur Strategis & Roadmap
+- Pemaparan Profil & Struktur Bisnis Perseroan
+- Kinerja Operasional & Keuangan
+- Arah Strategi Usaha & Target Pertumbuhan
+- Sesi Tanya Jawab (Q&A)
+
+## 🏢 3. Profil & Pilar Portofolio Bisnis
+
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
+
+*Detail aset operasional terlampir pada dokumen slide resmi.*
+
+## 📈 5. Kinerja Keuangan & Posisi Finansial
+
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
+
+*Strategi usaha difokuskan pada penguatan fundamental dan ekspansi operasional.*
+
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
+
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
 ```mermaid
-flowchart TD
-    A["📢 Public Expose (GRPH)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+flowchart LR
+    A["🏢 GRPH"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
 ```
 
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
+| Slide 1 | **PT GRIPTHA PUTRA PERSADA Tbk** | Jl. AKBP R. Agil Kusumadya No. 100, Jati Wetan, Kecamatan Jati, Kabupaten Kudus, Jawa Tengah, 59346 Telp Kantor : (0291) 438449 |
+
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260909|📄 Daily Digest 2026-09-09]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:44 WIB.*

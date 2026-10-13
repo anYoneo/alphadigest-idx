@@ -1,28 +1,38 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[RICY]]
-🏢 **Emiten**: `[[RICY]]` | 📅 **Tanggal Pelaksanaan**: `2026-09-04` | 📑 **Dokumen**: `Public Expose lamp1`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260904|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 🎤 Laporan Hasil Public Expose: [RICY]
+
+🏢 **Emiten**: `RICY` | 📅 **Tanggal Pelaksanaan**: `2026-09-04` | ❓ **Total Pertanyaan**: `0 Pertanyaan`
+⬅️ [[knowledge-base/daily-digests/RICY_20260904|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/RICY|Ke Dashboard Emiten]]
+
+> [!IMPORTANT]
+> Dokumen ini memuat seluruh risalah hasil pelaksanaan dan sesi tanya jawab (Q&A) Public Expose RICY. Informasi dicatat secara verbatim guna memberikan analisis sentimen dan arah kebijakan manajemen bagi investor.
 
 ---
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
-> [!NOTE]
-> Manajemen [[RICY]] menyelenggarakan Paparan Publik (Public Expose) untuk menyampaikan laporan kinerja operasional, posisi keuangan, dan arah strategi pertumbuhan perusahaan kepada publik.
+## ℹ️ 1. Informasi Penyelenggaraan & Kehadiran
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-`Materi presentasi Public Expose / Risalah Q&A terlampir dalam dokumen resmi bursa.`
+| Parameter | Detail Pelaksanaan |
+|---|---|
+| **Nomor Surat** | 0049/RPG/CDR/IX/2026 |
+| **Perihal** | Laporan Hasil Public Expose Tahunan |
+| **Waktu Pengumuman** | 04-09-2026 15:31 |
+| **Jumlah Kehadiran Peserta** | Penyampaian Hasil Public Expose |
+| **Lampiran Berkas** | `1` |
 
-## 📌 4. Peta Jalur Strategis & Roadmap
+---
+
+## 💬 2. Risalah Tanya Jawab Manajemen & Investor (0 Pertanyaan)
+
+*Sesi tanya jawab tidak memuat pertanyaan tertulis atau materi dipaparkan secara langsung.*
+
+## 📌 3. Peta Jalur Transparansi & Kepercayaan Pasar
+
 ```mermaid
 flowchart TD
-    A["📢 Public Expose (RICY)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+    A["📢 Public Expose (RICY)"] --> B["💬 Dialog Manajemen & Publik"]
+    B --> C["🔍 Klarifikasi Isu Strategis & Finansial"]
+    C --> D["📊 Transparansi & Tata Kelola Perusahaan"]
 ```
 
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260904|📄 Daily Digest 2026-09-04]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:48 WIB.*

@@ -6,6 +6,7 @@ Selamat datang di pusat intelijen pasar & pemantauan keuangan Anda. Halaman ini 
 
 ## 🎯 Sinyal Cuan & Katalis Trading (Alpha Signals)
 Dokumen sinyal peluang investasi, dividend yield capture, dan arbitrase aksi korporasi yang disusun oleh AI Swarm:
+*   [[knowledge-base/trading-signals/2026-10/Trading_Signals_20261012|🎯 Sinyal Cuan & Katalis Trading Harian - 2026-10-12]]
 *   [[knowledge-base/trading-signals/2026-10/Trading_Signals_20261009|🎯 Sinyal Cuan & Katalis Trading Harian - 2026-10-09]]
 *   [[knowledge-base/trading-signals/2026-10/Trading_Signals_20261008|🎯 Sinyal Cuan & Katalis Trading Harian - 2026-10-08]]
 *   [[knowledge-base/trading-signals/2026-10/Trading_Signals_20261007|🎯 Sinyal Cuan & Katalis Trading Harian - 2026-10-07]]
@@ -99,6 +100,7 @@ Laporan analisis mendalam per aksi korporasi strategis yang disusun oleh **Corpo
 *   [[knowledge-base/corporate-actions/private-placement/WSBP_Private_Placement_20260930|⚡ WSBP Private Placement 20260930]]
 *   [[knowledge-base/corporate-actions/rups/hasil-rups/WSBP_Hasil_RUPS_20261006|⚡ WSBP Hasil RUPS 20261006]]
 *   [[knowledge-base/corporate-actions/rights-issue/WMUU_Rights_Issue_20261002|⚡ WMUU Rights Issue 20261002]]
+*   [[knowledge-base/corporate-actions/rights-issue/WIKA_Rights_Issue_20261009|⚡ WIKA Rights Issue 20261009]]
 *   [[knowledge-base/corporate-actions/rups/pemanggilan/WIKA_Pemanggilan_RUPS_20261006|⚡ WIKA Pemanggilan RUPS 20261006]]
 *   [[knowledge-base/corporate-actions/rups/hasil-rups/WIKA_Hasil_RUPS_20261006|⚡ WIKA Hasil RUPS 20261006]]
 *   [[knowledge-base/corporate-actions/rups/hasil-rups/WIKA_Hasil_RUPS_20260928|⚡ WIKA Hasil RUPS 20260928]]
@@ -106,7 +108,6 @@ Laporan analisis mendalam per aksi korporasi strategis yang disusun oleh **Corpo
 *   [[knowledge-base/corporate-actions/rups/hasil-rups/WIKA_Hasil_RUPS_20260901|⚡ WIKA Hasil RUPS 20260901]]
 *   [[knowledge-base/corporate-actions/rups/hasil-rups/WIKA_Hasil_RUPS_20260826|⚡ WIKA Hasil RUPS 20260826]]
 *   [[knowledge-base/corporate-actions/general-disclosures/WIKA_Aksi_Korporasi_20260819|⚡ WIKA Aksi Korporasi 20260819]]
-*   [[knowledge-base/corporate-actions/rups/pemanggilan/WIFI_Pemanggilan_RUPS_20260929|⚡ WIFI Pemanggilan RUPS 20260929]]
 
 ---
 
@@ -114,24 +115,25 @@ Laporan analisis mendalam per aksi korporasi strategis yang disusun oleh **Corpo
 Rangkuman lengkap Q&A (Pertanyaan & Jawaban) antara investor, media, dan manajemen perseroan:
 *   [[knowledge-base/public-exposes/informasi-pubex/YPAS_Public_Expose_20260831|💬 YPAS Public Expose 20260831]]
 *   [[knowledge-base/public-exposes/hasil-pubex/YPAS_Public_Expose_20260831|💬 YPAS Public Expose 20260831]]
+*   [[knowledge-base/public-exposes/informasi-pubex/YPAS_Public_Expose_20260827|💬 YPAS Public Expose 20260827]]
+*   [[knowledge-base/public-exposes/informasi-pubex/YPAS_Public_Expose_20260826|💬 YPAS Public Expose 20260826]]
 *   [[knowledge-base/public-exposes/informasi-pubex/WTON_Public_Expose_20260911|💬 WTON Public Expose 20260911]]
 *   [[knowledge-base/public-exposes/hasil-pubex/WTON_Public_Expose_20260911|💬 WTON Public Expose 20260911]]
 *   [[knowledge-base/public-exposes/informasi-pubex/WTON_Public_Expose_20260820|💬 WTON Public Expose 20260820]]
 *   [[knowledge-base/public-exposes/hasil-pubex/WTON_Public_Expose_20260820|💬 WTON Public Expose 20260820]]
 *   [[knowledge-base/public-exposes/hasil-pubex/WOMF_Public_Expose_20260812|💬 WOMF Public Expose 20260812]]
+*   [[knowledge-base/public-exposes/informasi-pubex/WOMF_Public_Expose_20260804|💬 WOMF Public Expose 20260804]]
 *   [[knowledge-base/public-exposes/hasil-pubex/WINS_Public_Expose_20260814|💬 WINS Public Expose 20260814]]
-*   [[knowledge-base/public-exposes/WIKA_Public_Expose_20261006|💬 WIKA Public Expose 20261006]]
-*   [[knowledge-base/public-exposes/WIKA_Public_Expose_20260929|💬 WIKA Public Expose 20260929]]
-*   [[knowledge-base/public-exposes/informasi-pubex/WIKA_Public_Expose_20260917|💬 WIKA Public Expose 20260917]]
-*   [[knowledge-base/public-exposes/hasil-pubex/WIKA_Public_Expose_20260917|💬 WIKA Public Expose 20260917]]
-*   [[knowledge-base/public-exposes/informasi-pubex/WIFI_Public_Expose_20260902|💬 WIFI Public Expose 20260902]]
-*   [[knowledge-base/public-exposes/hasil-pubex/WIFI_Public_Expose_20260902|💬 WIFI Public Expose 20260902]]
-*   [[knowledge-base/public-exposes/hasil-pubex/VTNY_Public_Expose_20260916|💬 VTNY Public Expose 20260916]]
+*   [[knowledge-base/public-exposes/informasi-pubex/WIKA_Public_Expose_20261006|💬 WIKA Public Expose 20261006]]
+*   [[knowledge-base/public-exposes/hasil-pubex/WIKA_Public_Expose_20261006|💬 WIKA Public Expose 20261006]]
+*   [[knowledge-base/public-exposes/informasi-pubex/WIKA_Public_Expose_20260929|💬 WIKA Public Expose 20260929]]
+*   [[knowledge-base/public-exposes/informasi-pubex/WIKA_Public_Expose_20260928|💬 WIKA Public Expose 20260928]]
 
 ---
 
 ## 📅 Rangkuman Harian Terbaru (Daily Digests)
 Berikut adalah catatan aktivitas harian pasar yang dipindai secara otomatis dari bursa efek:
+*   [[knowledge-base/daily-digests/2026-10/Weekend_Digest_20261012|Rangkuman Akhir Pekan - 2026-10-12]]
 *   [[knowledge-base/daily-digests/2026-10/Weekend_Digest_20261005|Rangkuman Akhir Pekan - 2026-10-05]]
 *   [[knowledge-base/daily-digests/2026-09/Weekend_Digest_20260928|Rangkuman Akhir Pekan - 2026-09-28]]
 *   [[knowledge-base/daily-digests/2026-09/Weekend_Digest_20260921|Rangkuman Akhir Pekan - 2026-09-21]]
@@ -139,6 +141,7 @@ Berikut adalah catatan aktivitas harian pasar yang dipindai secara otomatis dari
 *   [[knowledge-base/daily-digests/2026-09/Weekend_Digest_20260907|Rangkuman Akhir Pekan - 2026-09-07]]
 *   [[knowledge-base/daily-digests/2026-08/Weekend_Digest_20260831|Rangkuman Akhir Pekan - 2026-08-31]]
 *   [[knowledge-base/daily-digests/2026-08/Weekend_Digest_20260818|Rangkuman Akhir Pekan - 2026-08-18]]
+*   [[knowledge-base/daily-digests/2026-10/Daily_Digest_20261012|Rangkuman Harian - 2026-10-12]]
 *   [[knowledge-base/daily-digests/2026-10/Daily_Digest_20261009|Rangkuman Harian - 2026-10-09]]
 *   [[knowledge-base/daily-digests/2026-10/Daily_Digest_20261008|Rangkuman Harian - 2026-10-08]]
 *   [[knowledge-base/daily-digests/2026-10/Daily_Digest_20261007|Rangkuman Harian - 2026-10-07]]

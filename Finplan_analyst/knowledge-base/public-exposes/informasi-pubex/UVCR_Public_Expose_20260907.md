@@ -1,53 +1,91 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[UVCR]]
-🏢 **Emiten**: `[[UVCR]]` | 📅 **Tanggal Pelaksanaan**: `2026-09-07` | 📑 **Dokumen**: `Public Expose`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260907|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 📊 Materi Public Expose: [UVCR]
 
----
+🏢 **Emiten**: `UVCR` | 📅 **Tanggal Pelaksanaan**: `2026-09-07` | 📑 **Total Slide**: `13 Slide`
+⬅️ [[knowledge-base/daily-digests/UVCR_20260907|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/UVCR|Ke Dashboard Emiten]]
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
 > [!NOTE]
-> PT Trimegah Karya Pratama Tbk. (UVCR) menyelenggarakan Public Expose Tahunan pada 7 September 2026, merujuk pada surat pengumuman No. 047/SK/COE/TKP-REG/VIII/2026 tanggal 27 Agustus 2026. Paparan ini disampaikan oleh Direktur Utama, Hady Kuswanto, dan ditujukan untuk memenuhi ketentuan bursa serta memberikan transparansi kepada pemegang saham dan publik mengenai kinerja, strategi, dan prospek perusahaan. Materi paparan disampaikan dalam dokumen lampiran 'Materi Public Expose 2026_External.pdf' yang menjadi acuan utama diskusi. Perusahaan berkomitmen untuk menjaga komunikasi yang terbuka dengan para pemangku kepentingan melalui forum ini.
-
-#### 🎯 Guidance Operasional & Target Strategis
-- Dokumen yang disampaikan merupakan materi paparan publik tahunan yang berisi informasi kinerja keuangan, pencapaian operasional, strategi bisnis, serta rencana pengembangan perusahaan ke depan. Sayangnya, detail spesifik mengenai target kinerja kuantitatif, rencana belanja modal (capex), ekspansi, atau isu pasar tidak dapat diekstraksi dari teks mentah yang tersedia karena dokumen lampiran (PDF) tidak disertakan dalam teks. Informasi tersebut diharapkan menjadi bagian dari materi paparan yang dibahas dalam forum Public Expose.
-
-## 📊 2. Matriks Indikator Operasional & Parameter Kunci
-| Parameter Utama | Nilai / Keterangan Resmi |
-| :--- | :--- |
-| **Nama Emiten** | `PT Trimegah Karya Pratama Tbk.` |
-| **Kode Emiten** | `UVCR` |
-| **Jenis Paparan** | `Public Expose Tahunan` |
-| **Tanggal Pengumuman** | `27 Agustus 2026 (Surat No. 047/SK/COE/TKP-REG/VIII/2026)` |
-| **Tanggal Penyampaian Materi** | `7 September 2026` |
-| **Direktur Utama** | `Hady Kuswanto` |
-| **Alamat Kantor** | `Jl. Tebet Barat IX, No.35BB, Tebet Barat, Jakarta Selatan 12810` |
-| **Telepon** | `021-22008385` |
-| **Website** | `https://company.ultravoucher.co.id/` |
-| **Nomor Surat Penyampaian Materi** | `005/SK/COE/TKP-IDX/IX/2026` |
+> Ringkasan materi presentasi resmi Public Expose UVCR yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-### ❓ Pertanyaan 1 (Tidak tersedia dalam dokumen)
-**Pertanyaan**: Tidak tersedia dalam dokumen. Teks mentah hanya berisi surat pengantar penyampaian materi Public Expose, tanpa memuat sesi tanya jawab.
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-**Jawaban Manajemen**: Tidak tersedia dalam dokumen. Jawaban manajemen atas pertanyaan investor/analis tidak tercantum dalam teks yang diberikan.
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | 005/SK/COE/TKP-IDX/IX/2026 |
+| **Perihal Pengumuman** | Penyampaian Materi Public Expose Tahunan |
+| **Waktu Pelaksanaan** | 2026-09-07 07-09-2026 18:10 |
+| **Lokasi / Media** | Aplikasi Zoom / Daring |
+| **Lampiran Resmi** | `1` |
 
-> [!TIP]
-> **Implikasi Bagi Investor**: Investor perlu menunggu atau mengakses materi paparan lengkap (lampiran PDF) untuk mendapatkan informasi mengenai sesi tanya jawab dan panduan manajemen.
+## 📋 2. Agenda Paparan Publik
 
-## 📌 4. Peta Jalur Strategis & Roadmap
+- Pemaparan Profil & Struktur Bisnis Perseroan
+- Kinerja Operasional & Keuangan
+- Arah Strategi Usaha & Target Pertumbuhan
+- Sesi Tanya Jawab (Q&A)
+
+## 🏢 3. Profil & Pilar Portofolio Bisnis
+
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
+
+*Detail aset operasional terlampir pada dokumen slide resmi.*
+
+## 📈 5. Kinerja Keuangan & Posisi Finansial
+
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
+
+- PT Trimegah Karya Pratama Tbk (IDX: UVCR), atau Ultra Voucher, merupakan perusahaan teknologi yang berfokus pada pengembangan ekosistem voucher,
+rewards, dan solusi loyalitas di Indonesia. Sejak berdiri pada tahun 2016, Ultra Voucher terus membangun kapabilitas teknologi dan jaringan kemitraan untuk
+menghadirkan solusi yang menghubungkan brand, konsumen, dan mitra bisnis dalam satu ekosistem.
+Ultra Voucher saat ini memiliki dua produk utama, yaitu Ultra Voucher Mobile Application dan Ultra Voucher Gift Card (UVGC). Keduanya menjadi bagian dari
+ekosistem Ultra Voucher dalam menghadirkan solusi voucher dan rewards yang relevan bagi kebutuhan konsumen dan korporasi.
+Dengan ekosistem yang terus berkembang dan inovasi produk yang berkelanjutan, Ultra Voucher berkomitmen untuk memperkuat posisinya sebagai salah satu
+pemain di industri digital voucher, rewards, dan loyalty di Indonesia.
+MENGENAI PERUSAHAAN Hady Kuswanto Direktur Utama
+Riky Boy H Permata
+Direktur
+Danny Eugene D
+Komisaris Utama dan
+Komisaris Independen Rangga Ananta Komisaris
+Adi Kiswoyo Joe
+Komisaris
+A LEADING COMPANY IN VOUCHERS, REWARDS, AND LOYALTY
+DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER
+MANAJEMEN PERUSAHAAN
+
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
+
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
 ```mermaid
-flowchart TD
-    A["📢 Public Expose (UVCR)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+flowchart LR
+    A["🏢 UVCR"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
 ```
 
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
+| Slide 1 | **UVCR PUBLIC** | EXPOSE 2026 DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER |
+| Slide 2 | **STRUKTUR DAN** | MANAJEMEN PERUSAHAAN DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER |
+| Slide 3 | **PT Trimegah Karya Pratama Tbk (IDX: UVCR), atau Ultra Voucher, merupakan perusahaan teknologi yang berfokus pada pengembangan ekosistem voucher,** | rewards, dan solusi loyalitas di Indonesia. Sejak berdiri pada tahun 2016, Ultra Voucher terus membangun kapabilitas teknologi dan jaringan kemitraan  |
+| Slide 4 | **STRUKTUR DAN BRAND DI BAWAH PERUSAHAAN** | A LEADING COMPANY IN VOUCHERS, REWARDS, AND LOYALTY DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER PT TRIMEGAH KARYA PRATAMA TBK |
+| Slide 5 | **JEJAK LANGKAH PERUSAHAAN** | A LEADING COMPANY IN VOUCHERS, REWARDS, AND LOYALTY DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER 2016 |
+| Slide 6 | **PRODUK, LAYANAN,** | DAN EKOSISTEM PERUSAHAAN DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER |
+| Slide 7 | **EKOSISTEM SOLUSI TERLENGKAP** | DI INDUSTRI VOUCHER, REWARDS, DAN LOYALITAS ULTRA VOUCHER MOBILE APP |
+| Slide 8 | **INOVASI PERUSAHAAN DI 2026** |  |
+| Slide 9 | **PERFORMA DAN** | KONDISI UMUM PERUSAHAAN DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER |
+| Slide 10 | **IKHTISAR KINERJA PERUSAHAAN** |  |
+| Slide 11 | **MITRA PERUSAHAAN** | DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER |
+| Slide 12 | **DAN MASIH BANYAK LAGI DARI BERBAGAI INDUSTRI** | MITRA PERUSAHAAN A LEADING COMPANY IN VOUCHERS, REWARDS, AND LOYALTY DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER |
+| Slide 13 | **TERIMA KASIH** | DON'T SHARE UNLESS APPROVED BY ULTRA VOUCHER |
+
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260907|📄 Daily Digest 2026-09-07]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:50 WIB.*

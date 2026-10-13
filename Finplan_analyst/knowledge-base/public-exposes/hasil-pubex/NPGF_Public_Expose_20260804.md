@@ -1,53 +1,103 @@
-# 🎤 Laporan Hasil Public Expose & Iklan RUPS: [[NPGF]] (PT Nusa Palapa Gemilang Tbk)
+# 🎤 Laporan Hasil Public Expose: [NPGF]
 
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260804|Kembali ke Daily Digest]] | 📅 **2026-08-04** | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+🏢 **Emiten**: `NPGF` | 📅 **Tanggal Pelaksanaan**: `2026-08-04` | ❓ **Total Pertanyaan**: `2 Pertanyaan`
+⬅️ [[knowledge-base/daily-digests/NPGF_20260804|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/NPGF|Ke Dashboard Emiten]]
 
-> [!NOTE]
-> Laporan ini merangkum **Laporan Hasil Pelaksanaan Public Expose** dan **Bukti Publikasi Iklan Risalah RUPST/RUPSLB** PT Nusa Palapa Gemilang Tbk (Surat No. `0437/CSC-NPG/VIII/2026` & `0438/CSC-NPG/VIII/2026`).
-
----
-
-## 📌 1. Detail Pelaksanaan Public Expose E-Meeting
-
-- **Kode & Nama Emiten**: `[[NPGF]]` (PT Nusa Palapa Gemilang Tbk - Manufaktur Pupuk NPK)
-- **Hari, Tanggal Pelaksanaan**: **Kamis, 30 Juli 2026** (Pukul 16.20 – 16.50 WIB)
-- **Media Pelaksanaan**: Electronic Live Event via Zoom Meeting & Youtube Live
-- **Peserta Rapat**: Manajemen Perseroan, Investor Individual (Himawan Hartono, Deffandi Nasrul, dkk.)
+> [!IMPORTANT]
+> Dokumen ini memuat seluruh risalah hasil pelaksanaan dan sesi tanya jawab (Q&A) Public Expose NPGF. Informasi dicatat secara verbatim guna memberikan analisis sentimen dan arah kebijakan manajemen bagi investor.
 
 ---
 
-## 🏬 2. Poin-Poin Utama Paparan Direksi Perseroan
+## ℹ️ 1. Informasi Penyelenggaraan & Kehadiran
 
-### 🏬 1. Sambutan & Pembukaan Direktur Utama
-- Pembukaan acara dan gambaran umum komitmen perseroan dalam menjaga stabilitas pasokan pupuk NPK untuk sektor pertanian & perkebunan nasional.
-
-### 📈 2. Analisis Pasar Pupuk NPK oleh Direktur Pemasaran
-- **Dinamika Industri**: Menganalisis kondisi dan tantangan pasar pupuk nasional selama tahun berjalan.
-- **Strategi Penetrasi**: Memperkuat jalur distribusi pupuk ke wilayah sentra perkebunan dan ritel pertanian.
-
-### ⚙️ 3. Operasional Pabrik & Kinerja Keuangan oleh Direktur Operasional
-- **Efisiensi Produksi**: Rincian kinerja operasional pabrik Gresik dan efisiensi *working capital*.
-- **Rencana Strategis**: Pelaksanaan inisiatif efisiensi biaya produksi (*Cost Reduction Plan*) dan pengembangan portofolio pupuk majemuk NPK.
+| Parameter | Detail Pelaksanaan |
+|---|---|
+| **Nomor Surat** | 0437/CSC-NPG/VIII/2026 |
+| **Perihal** | Laporan Hasil Public Expose Tahunan |
+| **Waktu Pengumuman** | 04-08-2026 15:28 |
+| **Jumlah Kehadiran Peserta** | Penyampaian Hasil Public Expose |
+| **Lampiran Berkas** | `1` |
 
 ---
 
-## 💬 3. Hasil Sesi Tanya Jawab (Q&A Resume)
+## 💬 2. Risalah Tanya Jawab Manajemen & Investor (2 Pertanyaan)
 
-- **Status Pertanyaan**: `Nihil / Tidak Terdapat Pertanyaan Langsung`
-- **Saluran Komunikasi Lanjutan**: Perseroan membuka kesempatan bagi investor yang ingin mengajukan pertanyaan tertulis melalui email resmi: `corporatesecretary@ptnpg.com`.
+### ❓ Pertanyaan #2
+
+> **Penanya**: *Investor / Analis Publik*
+
+```text
+Pertanyaan:
+2. Peserta 
+Peserta public expose perseroan adalah pemegang saham dan manajemen Perseroan (daftar hadir dan 
+dokumentasi pelaksanaan public expose terlampir). 
+ 
+3. Sesi Tanya Jawab 
+Pada sesi tanya jawab public expose, tidak terdapat pertanyaan yang diajukan oleh peserta kepada Perseroan. 
+Selanjutnya, telah disampaikan kepada peserta bahwa terhadap pertanyaan yang belum sempat diajukan dalam sesi 
+tanya jawab dapat diajukan secara tertulis melalui email yang ditujukan kepada corporatesecretary@ptnpg.com. 
+Namun, sampai dengan laporan ini disampaikan, tidak terdapat pertanyaan yang diajukan oleh peserta public 
+expose kepada Perseroan.
+Demikian surat pemberitahuan informasi ini disampaikan, atas perhatiannya diucapkan terima kasih.
+Hormat Kami,  
+PT Nusa Palapa Gemilang Tbk
+Muchammad Atho’ur Rohman 
+Sekretaris Perusahaan
+Tembusan Yth.:
+```
+
+💡 **Jawaban & Klarifikasi Manajemen**:
+
+> *Teks tanggapan manajemen tidak tersedia*
 
 ---
 
-## 📢 4. Publikasi Iklan Risalah RUPST & RUPSLB
+### ❓ Pertanyaan #1
 
-Perseroan telah memenuhi kewajiban publikasi iklan Pengumuman Ringkasan Risalah RUPST & RUPSLB pada media resmi:
-1. **Situs Website PT Bursa Efek Indonesia (BEI)**: Diterbitkan 3 Agustus 2026.
-2. **Situs Website PT Kustodian Sentral Efek Indonesia (KSEI)**: Diterbitkan 30 Juli 2026.
-3. **Situs Resmi Perseroan (`www.ptnpg.com`)**: Diterbitkan 3 Agustus 2026.
+> **Penanya**: *Investor / Analis Publik*
+
+```text
+Pertanyaan:
+1. PT Kustodian Sentral Efek Indonesia 
+2. PT Bima Registra
+DOKUMENTASI PUBLIC EXPOSE 
+PT NUSA PALAPA GEMILANG TBK
+30 JULI 2026
+Media : - Zoom Meeting
+- Youtube Live (https://www.youtube.com/live/T9SxKbM3LMM?si=eIWnnPAeR8HxVkrf)
+DAFTAR HADIR  
+PUBLIC EXPOSE 
+PT NUSA PALAPA GEMILANG TBK
+30 JULI 2026
+No
+Nama Lengkap
+Keterangan
+Nama Institusi
+1
+Himawan Hartono
+Individual
+-
+2
+Deffandi Nasrul
+Individual
+-
+```
+
+💡 **Jawaban & Klarifikasi Manajemen**:
+
+> *Teks tanggapan manajemen tidak tersedia*
 
 ---
 
-## 🔗 Hubungan Note Terkait (Knowledge Graph)
-- [[knowledge-base/entities/NPGF|🏬 Profil Emiten [[NPGF]]]]
-- [[knowledge-base/daily-digests/Daily_Digest_20260804|📄 Daily Digest 2026-08-04]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+## 📌 3. Peta Jalur Transparansi & Kepercayaan Pasar
+
+```mermaid
+flowchart TD
+    A["📢 Public Expose (NPGF)"] --> B["💬 Dialog Manajemen & Publik"]
+    B --> C["🔍 Klarifikasi Isu Strategis & Finansial"]
+    C --> D["📊 Transparansi & Tata Kelola Perusahaan"]
+```
+
+---
+
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:47 WIB.*

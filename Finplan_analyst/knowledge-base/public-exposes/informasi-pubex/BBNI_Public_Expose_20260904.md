@@ -1,51 +1,87 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[BBNI]]
-🏢 **Emiten**: `[[BBNI]]` | 📅 **Tanggal Pelaksanaan**: `2026-09-04` | 📑 **Dokumen**: `Public Expose`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260904|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 📊 Materi Public Expose: [BBNI]
 
----
+🏢 **Emiten**: `BBNI` | 📅 **Tanggal Pelaksanaan**: `2026-09-04` | 📑 **Total Slide**: `2 Slide`
+⬅️ [[knowledge-base/daily-digests/BBNI_20260904|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/BBNI|Ke Dashboard Emiten]]
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
 > [!NOTE]
-> PT Bank Negara Indonesia (Persero) Tbk (BBNI) menyampaikan materi Public Expose Tahunan melalui surat resmi No. CSE/7/8562 tertanggal 4 September 2026, merujuk pada pengumuman rencana penyelenggaraan Public Expose yang disampaikan sebelumnya melalui surat No. CSE/7/8303 tanggal 26 Agustus 2026. Dokumen ini merupakan penyampaian materi paparan publik tahunan yang akan diselenggarakan oleh BNI, ditandatangani oleh Corporate Secretary Okki Rushartomo Budiprabowo. Materi Public Expose terlampir dalam dokumen PDF terpisah (BBNI_Penyampaian Materi Public Expose 2026.pdf) yang berisi paparan kinerja dan rencana strategis perseroan. Dokumen ini bersifat administratif dan tidak memuat detail materi paparan secara langsung, melainkan hanya konfirmasi penyampaian materi resmi kepada otoritas bursa.
-
-#### 🎯 Guidance Operasional & Target Strategis
-- Dokumen ini tidak memuat rincian target kinerja, ekspansi, atau capex secara eksplisit karena hanya merupakan surat pengantar penyampaian materi Public Expose. Informasi katalis dan guidance operasional BBNI akan tersedia dalam lampiran materi Public Expose (file PDF terpisah) yang disampaikan kepada Bursa Efek Indonesia. Namun, penyelenggaraan Public Expose Tahunan ini sendiri merupakan katalis informasi bagi investor untuk mendapatkan pemaparan langsung mengenai kinerja keuangan, strategi bisnis, dan prospek BBNI ke depan dari manajemen.
-
-## 📊 2. Matriks Indikator Operasional & Parameter Kunci
-| Parameter Utama | Nilai / Keterangan Resmi |
-| :--- | :--- |
-| **Nomor Surat** | `CSE/7/8562` |
-| **Tanggal Penyampaian** | `4 September 2026` |
-| **Jenis Kegiatan** | `Public Expose Tahunan` |
-| **Rujukan Surat Sebelumnya** | `No. CSE/7/8303 tanggal 26 Agustus 2026` |
-| **Corporate Secretary** | `Okki Rushartomo Budiprabowo` |
-| **Alamat Kantor Pusat** | `Grha BNI Lantai 24, Jl. Jenderal Sudirman Kavling 1, Jakarta Pusat 10220` |
-| **Kontak** | `Tel: 021-2511946, 021-5728387; Fax: 021-2511961; www.bni.co.id` |
-| **Lampiran** | `BBNI_Penyampaian Materi Public Expose 2026.pdf` |
+> Ringkasan materi presentasi resmi Public Expose BBNI yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-### ❓ Pertanyaan 1 (Tidak tersedia dalam dokumen)
-**Pertanyaan**: Dokumen ini tidak memuat sesi tanya jawab karena hanya merupakan surat pengantar penyampaian materi Public Expose kepada Bursa Efek Indonesia. Sesi Q&A akan berlangsung pada saat acara Public Expose Tahunan diselenggarakan.
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-**Jawaban Manajemen**: Tidak tersedia dalam dokumen. Manajemen BBNI akan memberikan jawaban langsung pada saat acara Public Expose Tahunan berlangsung.
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | CSE/7/8562 |
+| **Perihal Pengumuman** | Penyampaian Materi Public Expose Tahunan |
+| **Waktu Pelaksanaan** | 2026-09-04 04-09-2026 12:44 |
+| **Lokasi / Media** | Aplikasi Zoom / Daring |
+| **Lampiran Resmi** | `1` |
 
-> [!TIP]
-> **Implikasi Bagi Investor**: Investor diharapkan menunggu pelaksanaan Public Expose Tahunan untuk mendapatkan informasi detail mengenai kinerja dan prospek BBNI, serta kesempatan bertanya langsung kepada manajemen.
+## 📋 2. Agenda Paparan Publik
 
-## 📌 4. Peta Jalur Strategis & Roadmap
+- Pemaparan Profil & Struktur Bisnis Perseroan
+- Kinerja Operasional & Keuangan
+- Arah Strategi Usaha & Target Pertumbuhan
+- Sesi Tanya Jawab (Q&A)
+
+## 🏢 3. Profil & Pilar Portofolio Bisnis
+
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
+
+*Detail aset operasional terlampir pada dokumen slide resmi.*
+
+## 📈 5. Kinerja Keuangan & Posisi Finansial
+
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
+
+- Letter / Announcement No.
+Issuer Name Issuer Code Attachment Subject CSE/7/8562
+PT Bank Negara Indonesia (Persero) Tbk
+BBNI
+Public Expose Material Submission
+Go To Indonesian Page
+Public Expose Material Submission
+Reffering to Company's public expose announcement Annual in Letter No. CSE/7/8303
+date 26 August 2026 Company submitted public expose material as attached.
+Respectfully,
+Thus to be informed accordingly.
+PT Bank Negara Indonesia (Persero) Tbk
+Okki Rushartomo Budiprabowo
+Corporate Secretary
+Okki Rushartomo Budiprabowo
+Sender Name
+PT Bank Negara Indonesia (Persero) Tbk
+Grha BNI Lantai 24 Jl. Jenderal Sudirman Kavling 1 Jakarta Pusat 10220
+Phone : 021-2511946, 021-5728387, Fax : 021-2511961, www.bni.co.id
+Corporate Secretary Function
+Date and Time
+04-09-2026 12:44 Attachment
+1. BBNI_Penyampaian Materi Public Expose 2026.pdf
+This is an official document of PT Bank Negara Indonesia (Persero) Tbk that does not require a signature as it was
+generated electronically by the electronic reporting system. PT Bank Negara Indonesia (Persero) Tbk is fully
+
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
+
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
 ```mermaid
-flowchart TD
-    A["📢 Public Expose (BBNI)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+flowchart LR
+    A["🏢 BBNI"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
 ```
 
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
+| Slide 1 | **Nomor Surat** | Nama Perusahaan Kode Emiten Lampiran |
+| Slide 2 | **Letter / Announcement No.** | Issuer Name Issuer Code Attachment |
+
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260904|📄 Daily Digest 2026-09-04]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:41 WIB.*

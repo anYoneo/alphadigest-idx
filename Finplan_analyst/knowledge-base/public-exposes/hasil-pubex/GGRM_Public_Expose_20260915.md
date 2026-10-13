@@ -1,47 +1,38 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[GGRM]]
-🏢 **Emiten**: `[[GGRM]]` | 📅 **Tanggal Pelaksanaan**: `2026-09-15` | 📑 **Dokumen**: `Public Expose lamp1`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260915|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 🎤 Laporan Hasil Public Expose: [GGRM]
+
+🏢 **Emiten**: `GGRM` | 📅 **Tanggal Pelaksanaan**: `2026-09-15` | ❓ **Total Pertanyaan**: `0 Pertanyaan`
+⬅️ [[knowledge-base/daily-digests/GGRM_20260915|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/GGRM|Ke Dashboard Emiten]]
+
+> [!IMPORTANT]
+> Dokumen ini memuat seluruh risalah hasil pelaksanaan dan sesi tanya jawab (Q&A) Public Expose GGRM. Informasi dicatat secara verbatim guna memberikan analisis sentimen dan arah kebijakan manajemen bagi investor.
 
 ---
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
-> [!NOTE]
-> Public Expose GGRM (PT Gudang Garam Tbk) dihadiri oleh 129 peserta yang terdiri dari analis, investor ritel, dan perwakilan media. Paparan publik ini merupakan forum komunikasi antara manajemen emiten dengan pemangku kepentingan untuk membahas kinerja perusahaan, strategi bisnis, serta menjawab pertanyaan seputar operasional dan prospek ke depan. Daftar hadir menunjukkan partisipasi dari berbagai institusi dan individu, termasuk notetaker dari platform otomatis seperti Fireflies.ai dan Otter.ai, mengindikasikan adanya pencatatan resmi jalannya acara.
+## ℹ️ 1. Informasi Penyelenggaraan & Kehadiran
 
-#### 🎯 Guidance Operasional & Target Strategis
-- Berdasarkan dokumen yang tersedia, tidak terdapat rincian spesifik mengenai target kinerja, ekspansi, atau capex karena dokumen hanya berisi daftar peserta (attendance list) tanpa transkrip materi presentasi atau sesi tanya jawab. Informasi lebih lanjut mengenai guidance operasional dan katalis perusahaan tidak dapat diekstraksi dari data yang diberikan.
-
-## 📊 2. Matriks Indikator Operasional & Parameter Kunci
-| Parameter Utama | Nilai / Keterangan Resmi |
-| :--- | :--- |
-| **Jumlah Peserta** | `129 orang` |
-| **Tanggal Acara** | `Tidak tercantum dalam dokumen` |
-| **Kategori Peserta** | `Analis, investor ritel, media (investor.id), dan notetaker otomatis` |
-| **Perwakilan Manajemen** | `Tidak tercantum secara eksplisit dalam dokumen` |
+| Parameter | Detail Pelaksanaan |
+|---|---|
+| **Nomor Surat** | E0026/GG-17/IX-26 |
+| **Perihal** | Laporan Hasil Public Expose Tahunan |
+| **Waktu Pengumuman** | 15-09-2026 15:21 |
+| **Jumlah Kehadiran Peserta** | Penyampaian Hasil Public Expose |
+| **Lampiran Berkas** | `2` |
 
 ---
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-### ❓ Pertanyaan 1 (Tidak tercantum)
-**Pertanyaan**: Tidak ada pertanyaan yang terdokumentasi dalam file yang diberikan
+## 💬 2. Risalah Tanya Jawab Manajemen & Investor (0 Pertanyaan)
 
-**Jawaban Manajemen**: Tidak ada jawaban yang terdokumentasi dalam file yang diberikan
+*Sesi tanya jawab tidak memuat pertanyaan tertulis atau materi dipaparkan secara langsung.*
 
-> [!TIP]
-> **Implikasi Bagi Investor**: Tidak dapat ditentukan karena tidak ada sesi tanya jawab yang terekam dalam dokumen
+## 📌 3. Peta Jalur Transparansi & Kepercayaan Pasar
 
-## 📌 4. Peta Jalur Strategis & Roadmap
 ```mermaid
 flowchart TD
-    A["📢 Public Expose (GGRM)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+    A["📢 Public Expose (GGRM)"] --> B["💬 Dialog Manajemen & Publik"]
+    B --> C["🔍 Klarifikasi Isu Strategis & Finansial"]
+    C --> D["📊 Transparansi & Tata Kelola Perusahaan"]
 ```
 
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260915|📄 Daily Digest 2026-09-15]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:44 WIB.*

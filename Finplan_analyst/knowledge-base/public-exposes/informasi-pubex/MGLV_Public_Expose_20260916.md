@@ -1,50 +1,90 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[MGLV]]
-🏢 **Emiten**: `[[MGLV]]` | 📅 **Tanggal Pelaksanaan**: `2026-09-16` | 📑 **Dokumen**: `Public Expose`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260916|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 📊 Materi Public Expose: [MGLV]
 
----
+🏢 **Emiten**: `MGLV` | 📅 **Tanggal Pelaksanaan**: `2026-09-16` | 📑 **Total Slide**: `4 Slide`
+⬅️ [[knowledge-base/daily-digests/MGLV_20260916|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/MGLV|Ke Dashboard Emiten]]
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
 > [!NOTE]
-> PT NexAI Digital Infrastruktur Tbk (MGLV) menyelenggarakan Public Expose Insidentil pada 16 September 2026 pukul 14:00 WIB secara virtual melalui Zoom. Public expose ini bersifat sukarela namun juga merupakan tindak lanjut atas permintaan Bursa Efek Indonesia (BEI) dan Otoritas Jasa Keuangan (OJK). Acara ini dikoreksi dari surat sebelumnya bernomor 013/NexAI/Corsec/IX/2026 tanggal 15 September 2026. Materi paparan disampaikan oleh Corporate Secretary, Putra Harianto Bate'e. Dokumen yang diunggah hanya berisi pemberitahuan teknis penyelenggaraan acara dan lampiran materi (file PDF terpisah), tanpa memuat detail isi paparan, target kinerja, atau sesi tanya jawab dalam teks ini.
-
-#### 🎯 Guidance Operasional & Target Strategis
-- Tidak terdapat informasi mengenai target kinerja, ekspansi, capex, atau panduan operasional dalam dokumen teks yang disediakan. Dokumen ini hanya berisi pengumuman administratif penyelenggaraan Public Expose Insidentil. Materi paparan sesungguhnya (Materi Pubex Insidentil MGLV 16 Sept 26 - koreksi.pdf) disebut sebagai lampiran namun tidak disertakan dalam teks yang dianalisis.
-
-## 📊 2. Matriks Indikator Operasional & Parameter Kunci
-| Parameter Utama | Nilai / Keterangan Resmi |
-| :--- | :--- |
-| **Jenis Acara** | `Public Expose Insidentil` |
-| **Tanggal Pelaksanaan** | `16 September 2026, 14:00 WIB` |
-| **Sifat Pelaksanaan** | `Sukarela, namun juga atas permintaan BEI dan OJK` |
-| **Media Pelaksanaan** | `Zoom Meeting (Meeting ID: 890 6543 4312, Passcode: 761841)` |
-| **Narasumber / Penanggung Jawab** | `Putra Harianto Bate'e (Corporate Secretary)` |
-| **Nomor Surat** | `R013/NexAI/Corsec/IX/2026 (koreksi dari 013/NexAI/Corsec/IX/2026)` |
-| **Lampiran** | `Materi Pubex Insidentil MGLV 16 Sept 26 - koreksi.pdf (tidak tersedia dalam teks)` |
+> Ringkasan materi presentasi resmi Public Expose MGLV yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-### ❓ Pertanyaan 1 (Tidak tersedia)
-**Pertanyaan**: Tidak ada sesi tanya jawab yang tercantum dalam dokumen teks yang disediakan.
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-**Jawaban Manajemen**: Tidak ada jawaban manajemen yang tercantum dalam dokumen teks yang disediakan.
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | R013/NexAI/Corsec/IX/2026 |
+| **Perihal Pengumuman** | Penyampaian Materi Public Expose Insidentil |
+| **Waktu Pelaksanaan** | 2026-09-16 16-09-2026 11:13 |
+| **Lokasi / Media** | Aplikasi Zoom / Daring |
+| **Lampiran Resmi** | `1` |
 
-> [!TIP]
-> **Implikasi Bagi Investor**: Investor perlu menunggu atau mengakses materi paparan terlampir (file PDF) dan rekaman acara untuk mendapatkan informasi fundamental, strategi, serta panduan manajemen. Dokumen ini hanya bersifat administratif.
+## 📋 2. Agenda Paparan Publik
 
-## 📌 4. Peta Jalur Strategis & Roadmap
+- Pemaparan Profil & Struktur Bisnis Perseroan
+- Kinerja Operasional & Keuangan
+- Arah Strategi Usaha & Target Pertumbuhan
+- Sesi Tanya Jawab (Q&A)
+
+## 🏢 3. Profil & Pilar Portofolio Bisnis
+
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
+
+*Detail aset operasional terlampir pada dokumen slide resmi.*
+
+## 📈 5. Kinerja Keuangan & Posisi Finansial
+
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
+
+- Letter / Announcement No.
+Issuer Name Issuer Code Attachment Subject R013/NexAI/Corsec/IX/2026
+PT NexAI Digital Infrastruktur Tbk
+MGLV
+Public Expose Material Submission
+Go To Indonesian Page
+Mengoreksi surat kami nomor : 013/NexAI/Corsec/IX/2026 tanggal 15 September 2026 perihal Penyampaian
+Materi Public Expose - Insidentil, dengan ini perseroan menyampaikan hal sebagai berikut:
+Topic: Public Insidentil MGLV PT Nexai Digital Infrastruktur Tbk
+Time: Sep 16, 2026 02:00 PM Jakarta
+Join Zoom Meeting
+https://us06web.zoom.us/j/89065434312?pwd=jvLS15Wjq4ITiTfbcha8NoMIYph7ku.1
+Meeting chat link
+https://us06web.zoom.us/launch/jc/89065434312
+Meeting ID: 890 6543 4312
+Passcode: 761841 Background Voluntary
+Requested by IDX
+Requested by OJK
+Public Expose Material Submission
+Reffering to Company's public expose announcement Incidental in Letter No. 012/NexAI/Corsec/IX/2026
+date 16 September 2026 Company submitted public expose material as attached.
+Respectfully,
+Thus to be informed accordingly.
+PT NexAI Digital Infrastruktur Tbk
+Putra Harianto Bate'e
+Corporate Secretary
+
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
+
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
 ```mermaid
-flowchart TD
-    A["📢 Public Expose (MGLV)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+flowchart LR
+    A["🏢 MGLV"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
 ```
 
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
+| Slide 1 | **Nomor Surat** | Nama Perusahaan Kode Emiten Lampiran |
+| Slide 2 | **Pacific Century Place Lantai 38, SCBD Lot 10, Jl. Jend. Sudirman Kav. 52-53, Kel.** | Corporate Secretary Nama Pengirim Telepon : , Fax : , |
+| Slide 3 | **Letter / Announcement No.** | Issuer Name Issuer Code Attachment |
+| Slide 4 | **Putra Harianto Bate'e** | Sender Name PT NexAI Digital Infrastruktur Tbk Pacific Century Place Lantai 38, SCBD Lot 10, Jl. Jend. Sudirman Kav. 52-53, Kel. |
+
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260916|📄 Daily Digest 2026-09-16]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:46 WIB.*

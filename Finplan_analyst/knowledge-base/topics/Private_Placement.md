@@ -1,6 +1,6 @@
 # 🤝 Panduan & Intelijen Topik: [[Private Placement]] (PMTHMETD)
 
-⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-09**
+⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-12**
 
 > [!NOTE]
 > Topik ini merangkum seluruh aksi korporasi **Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD / Private Placement)** sesuai regulasi POJK No. 14/POJK.04/2019.
@@ -14,6 +14,7 @@
 | **[[WSBP]]** | 2026-10-07 | - **Kode & Nama Emiten**:  | [[knowledge-base/corporate-actions/private-placement/WSBP_Private_Placement_20261006|⚡ Laporan Khusus WSBP]] |
 | **[[VTNY]]** | 2026-09-16 | Laporan hasil Public Expose PT Venteny Fortuna International Tbk (VTNY) yang membahas strategi pertumbuhan perusahaan, kinerja ... | [[knowledge-base/corporate-actions/private-placement/VTNY_Private_Placement_20260916|⚡ Laporan Khusus VTNY]] |
 | **[[VKTR]]** | 2026-10-09 | - **Kode & Nama Emiten**:  | [[knowledge-base/corporate-actions/private-placement/VKTR_Private_Placement_20261008|⚡ Laporan Khusus VKTR]] |
+| **[[VIVA]]** | 2026-10-12 | - **Kode & Nama Emiten**:  | [[knowledge-base/corporate-actions/private-placement/VIVA_Private_Placement_20261009|⚡ Laporan Khusus VIVA]] |
 | **[[VISI]]** | 2026-10-05 | - **Kode & Nama Emiten**:  | [[knowledge-base/corporate-actions/private-placement/VISI_Private_Placement_20261002|⚡ Laporan Khusus VISI]] |
 | **[[UVCR]]** | 2026-10-09 | - **Kode & Nama Emiten**:  | [[knowledge-base/corporate-actions/private-placement/UVCR_Private_Placement_20261009|⚡ Laporan Khusus UVCR]] |
 | **[[RATU]]** | 2026-09-15 | Laporan Paparan Publik PT Raharja Energi Cepu Tbk (RATU) yang diselenggarakan secara virtual pada 10 September 2026. Manajemen ... | [[knowledge-base/corporate-actions/private-placement/RATU_Private_Placement_20260915|⚡ Laporan Khusus RATU]] |
@@ -25,7 +26,6 @@
 | **[[GSMF]]** | 2026-09-23 | - **Kode & Nama Emiten**:  | [[knowledge-base/corporate-actions/private-placement/GSMF_Private_Placement_20260922|⚡ Laporan Khusus GSMF]] |
 | **[[BRNA]]** | 2026-10-02 | - **Kode & Nama Emiten**:  | [[knowledge-base/corporate-actions/private-placement/BRNA_Private_Placement_20261001|⚡ Laporan Khusus BRNA]] |
 | **[[BIPP]]** | 2026-10-09 | - **Kode & Nama Emiten**:  | [[knowledge-base/corporate-actions/private-placement/BIPP_Private_Placement_20261008|⚡ Laporan Khusus BIPP]] |
-| **[[APEX]]** | 2026-10-09 | - **Kode & Nama Emiten**:  | [[knowledge-base/corporate-actions/private-placement/APEX_Private_Placement_20261009|⚡ Laporan Khusus APEX]] |
 
 ---
 
@@ -40,5 +40,5 @@
 
 ## 🔗 Hubungan Note Terkait (Knowledge Graph)
 - [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[knowledge-base/trading-signals/Trading_Signals_20261009|🎯 Sinyal Cuan 2026-10-09]]
+- [[knowledge-base/trading-signals/Trading_Signals_20261012|🎯 Sinyal Cuan 2026-10-12]]
 - [[Dashboard|🎛️ Kembali ke Dashboard Utama]]

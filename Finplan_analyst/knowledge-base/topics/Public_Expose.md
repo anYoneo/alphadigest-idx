@@ -1,6 +1,6 @@
 # 💬 Panduan & Intelijen Topik: [[Public Expose]] (Paparan Publik & Risalah Q&A)
 
-⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-09**
+⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-12**
 
 > [!NOTE]
 > Topik ini merangkum seluruh hasil **Paparan Publik Tahunan / Insidentil (Public Expose)**, materi presentasi manajemen, dan risalah sesi Tanya Jawab (Q&A) dengan analis serta investor.
@@ -11,21 +11,21 @@
 
 | Emiten | Tanggal Pelaksanaan | Materi Utama / Agenda Paparan Publik | Dokumen Laporan |
 | :--- | :--- | :--- | :--- |
-| **[[DGWG]]** | 2026-09-24 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/DGWG_Public_Expose_20260924|💬 Laporan DGWG]] |
-| **[[BIKE]]** | 2026-09-25 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/BIKE_Public_Expose_20260925|💬 Laporan BIKE]] |
-| **[[HYGN]]** | 2026-09-25 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/HYGN_Public_Expose_20260925|💬 Laporan HYGN]] |
-| **[[CASH]]** | 2026-09-25 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/CASH_Public_Expose_20260925|💬 Laporan CASH]] |
-| **[[MERK]]** | 2026-09-25 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/MERK_Public_Expose_20260925|💬 Laporan MERK]] |
-| **[[UNTD]]** | 2026-09-25 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/UNTD_Public_Expose_20260925|💬 Laporan UNTD]] |
-| **[[BCIC]]** | 2026-09-28 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/BCIC_Public_Expose_20260928|💬 Laporan BCIC]] |
-| **[[POLI]]** | 2026-09-28 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/POLI_Public_Expose_20260928|💬 Laporan POLI]] |
-| **[[TEBE]]** | 2026-09-28 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/TEBE_Public_Expose_20260928|💬 Laporan TEBE]] |
-| **[[POLU]]** | 2026-09-28 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/POLU_Public_Expose_20260928|💬 Laporan POLU]] |
-| **[[WIKA]]** | 2026-09-29 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/WIKA_Public_Expose_20260929|💬 Laporan WIKA]] |
-| **[[ASPI]]** | 2026-09-29 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/ASPI_Public_Expose_20260929|💬 Laporan ASPI]] |
-| **[[CRAB]]** | 2026-09-29 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/CRAB_Public_Expose_20260929|💬 Laporan CRAB]] |
-| **[[SMLE]]** | 2026-09-30 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/SMLE_Public_Expose_20260930|💬 Laporan SMLE]] |
-| **[[BELI]]** | 2026-10-01 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/BELI_Public_Expose_20261001|💬 Laporan BELI]] |
+| **[[IKBI]]** | 2026-08-06 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/informasi-pubex/IKBI_Public_Expose_20260806|💬 Laporan IKBI]] |
+| **[[TRUK]]** | 2026-08-19 | > [!NOTE] | [[reports/summaries/public-exposes/informasi-pubex/TRUK_Public_Expose_20260819|💬 Laporan TRUK]] |
+| **[[MREI]]** | 2026-08-20 | > [!NOTE] | [[reports/summaries/public-exposes/informasi-pubex/MREI_Public_Expose_20260820|💬 Laporan MREI]] |
+| **[[WTON]]** | 2026-08-20 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/informasi-pubex/WTON_Public_Expose_20260820|💬 Laporan WTON]] |
+| **[[BEEF]]** | 2026-08-20 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/informasi-pubex/BEEF_Public_Expose_20260820|💬 Laporan BEEF]] |
+| **[[HAIS]]** | 2026-08-26 | > [!NOTE] | [[reports/summaries/public-exposes/informasi-pubex/HAIS_Public_Expose_20260826|💬 Laporan HAIS]] |
+| **[[BJTM]]** | 2026-08-26 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/informasi-pubex/BJTM_Public_Expose_20260826|💬 Laporan BJTM]] |
+| **[[BBNI]]** | 2026-08-26 | > [!NOTE] | [[reports/summaries/public-exposes/informasi-pubex/BBNI_Public_Expose_20260826|💬 Laporan BBNI]] |
+| **[[BBCA]]** | 2026-08-26 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/informasi-pubex/BBCA_Public_Expose_20260826|💬 Laporan BBCA]] |
+| **[[ADHI]]** | 2026-08-26 | > [!NOTE] | [[reports/summaries/public-exposes/informasi-pubex/ADHI_Public_Expose_20260826|💬 Laporan ADHI]] |
+| **[[ASII]]** | 2026-08-27 | > [!NOTE] | [[reports/summaries/public-exposes/informasi-pubex/ASII_Public_Expose_20260827|💬 Laporan ASII]] |
+| **[[ANTM]]** | 2026-08-27 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/informasi-pubex/ANTM_Public_Expose_20260827|💬 Laporan ANTM]] |
+| **[[UVCR]]** | 2026-08-27 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/informasi-pubex/UVCR_Public_Expose_20260827|💬 Laporan UVCR]] |
+| **[[MDLA]]** | 2026-08-27 | Laporan Keterbukaan Informasi | [[reports/summaries/public-exposes/informasi-pubex/MDLA_Public_Expose_20260827|💬 Laporan MDLA]] |
+| **[[PYFA]]** | 2026-08-27 | > [!NOTE] | [[reports/summaries/public-exposes/informasi-pubex/PYFA_Public_Expose_20260827|💬 Laporan PYFA]] |
 
 ---
 

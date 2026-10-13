@@ -1,28 +1,38 @@
-# 📢 Laporan Intelijen Paparan Publik (Public Expose) - [[MDLA]]
-🏢 **Emiten**: `[[MDLA]]` | 📅 **Tanggal Pelaksanaan**: `2026-09-14` | 📑 **Dokumen**: `Public Expose lamp2`
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20260914|Kembali ke Daily Digest]] | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+# 🎤 Laporan Hasil Public Expose: [MDLA]
+
+🏢 **Emiten**: `MDLA` | 📅 **Tanggal Pelaksanaan**: `2026-09-14` | ❓ **Total Pertanyaan**: `0 Pertanyaan`
+⬅️ [[knowledge-base/daily-digests/MDLA_20260914|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/MDLA|Ke Dashboard Emiten]]
+
+> [!IMPORTANT]
+> Dokumen ini memuat seluruh risalah hasil pelaksanaan dan sesi tanya jawab (Q&A) Public Expose MDLA. Informasi dicatat secara verbatim guna memberikan analisis sentimen dan arah kebijakan manajemen bagi investor.
 
 ---
 
-## 📌 1. Ringkasan Eksekutif & Paparan Direksi
-> [!NOTE]
-> Manajemen [[MDLA]] menyelenggarakan Paparan Publik (Public Expose) untuk menyampaikan laporan kinerja operasional, posisi keuangan, dan arah strategi pertumbuhan perusahaan kepada publik.
+## ℹ️ 1. Informasi Penyelenggaraan & Kehadiran
 
-## 💬 3. Risalah Tanya Jawab (Q&A Session)
-`Materi presentasi Public Expose / Risalah Q&A terlampir dalam dokumen resmi bursa.`
+| Parameter | Detail Pelaksanaan |
+|---|---|
+| **Nomor Surat** | 050a/IX/DIR/MP/2026-E |
+| **Perihal** | Laporan Hasil Public Expose Tahunan |
+| **Waktu Pengumuman** | 14-09-2026 09:39 |
+| **Jumlah Kehadiran Peserta** | Penyampaian Hasil Public Expose |
+| **Lampiran Berkas** | `2` |
 
-## 📌 4. Peta Jalur Strategis & Roadmap
+---
+
+## 💬 2. Risalah Tanya Jawab Manajemen & Investor (0 Pertanyaan)
+
+*Sesi tanya jawab tidak memuat pertanyaan tertulis atau materi dipaparkan secara langsung.*
+
+## 📌 3. Peta Jalur Transparansi & Kepercayaan Pasar
+
 ```mermaid
 flowchart TD
-    A["📢 Public Expose (MDLA)"] --> B["📈 Kinerja & Target Operasional"]
-    A --> C["💬 Risalah Q&A Investor & Analis"]
-    B --> D["🎯 Eksekusi Strategi & Capex"]
-    C --> E["📊 Kepercayaan Pasar & Transparansi"]
+    A["📢 Public Expose (MDLA)"] --> B["💬 Dialog Manajemen & Publik"]
+    B --> C["🔍 Klarifikasi Isu Strategis & Finansial"]
+    C --> D["📊 Transparansi & Tata Kelola Perusahaan"]
 ```
 
 ---
 
-## 🔗 Knowledge Graph
-- [[knowledge-base/daily-digests/Daily_Digest_20260914|📄 Daily Digest 2026-09-14]]
-- [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Aksi Korporasi]]
-- [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:46 WIB.*

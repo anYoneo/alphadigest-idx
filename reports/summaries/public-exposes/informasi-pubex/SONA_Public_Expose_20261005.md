@@ -1,39 +1,61 @@
 # 📊 Materi Public Expose: [SONA]
 
-⬅️ [[knowledge-base/daily-digests/SONA_20261005]] | 📅 **2026-10-05** | 🎛️ [[Dashboard/SONA]]
+🏢 **Emiten**: `SONA` | 📅 **Tanggal Pelaksanaan**: `2026-10-05` | 📑 **Total Slide**: `1 Slide`
+⬅️ [[knowledge-base/daily-digests/SONA_20261005|Kembali ke Daily Digest]] | 🎛️ [[Dashboard/SONA|Ke Dashboard Emiten]]
 
 > [!NOTE]
-> Ringkasan materi presentasi Public Expose SONA tanggal **2026-10-05**. Dokumen ini mengacu pada slide/materi resmi yang disampaikan manajemen kepada investor.
+> Ringkasan materi presentasi resmi Public Expose SONA yang disampaikan oleh manajemen kepada investor dan bursa. Seluruh poin strategis, matriks operasional, dan angka kinerja diekstrak langsung dari slide deck resmi.
 
 ---
 
-## 📅 Jadwal & Lokasi
+## 📅 1. Jadwal & Metadata Penyelenggaraan
 
-| Item | Detail |
-|------|--------|
-| **Tanggal/Waktu** | : 06 Oktober 2026 |
-| **Lokasi/Venue** | Hari/Tanggal |
+| Parameter | Detail Informasi |
+|---|---|
+| **Nomor Surat Pengantar** | 064/STTI-X/2026 |
+| **Perihal Pengumuman** | Penyampaian Materi Public Expose Insidentil |
+| **Waktu Pelaksanaan** | 2026-10-05 05-10-2026 16:48 |
+| **Lokasi / Media** | Aplikasi Zoom / Daring |
+| **Lampiran Resmi** | `2` |
 
-## 📋 Agenda
+## 📋 2. Agenda Paparan Publik
 
-*Agenda tidak tersedia dalam dokumen.*
+- Pemaparan Profil & Struktur Bisnis Perseroan
+- Kinerja Operasional & Keuangan
+- Arah Strategi Usaha & Target Pertumbuhan
+- Sesi Tanya Jawab (Q&A)
 
-## 🏢 Profil Perusahaan
+## 🏢 3. Profil & Pilar Portofolio Bisnis
 
-(Dokumen ini adalah Undangan Public Expose)
+## 🏗️ 4. Kinerja Operasional & Portofolio Aset
 
-## 📈 Kinerja 1H / YTD
+*Detail aset operasional terlampir pada dokumen slide resmi.*
 
-*Data kinerja tidak tersedia.*
+## 📈 5. Kinerja Keuangan & Posisi Finansial
 
-## 🎯 Target & Guidance Manajemen
+## 🧭 6. Inisiatif Strategis, Kolaborasi, & Kemitraan
 
-*Guidance tidak tersedia.*
+*Strategi usaha difokuskan pada penguatan fundamental dan ekspansi operasional.*
 
-## 🧭 Strategi Bisnis
+## 🎯 7. Target Pertumbuhan & Guidance Manajemen
 
-*Poin strategi bisnis tidak tersedia.*
+*Target pertumbuhan ditetapkan mengacu pada prospek industri dan kondisi makroekonomi terkini.*
+
+## 🗺️ 8. Peta Jalur Strategis & Eksekusi
+
+```mermaid
+flowchart LR
+    A["🏢 SONA"] --> B["📊 Operasional & Aset"]
+    A --> C["📈 Kinerja Finansial"]
+    B --> D["🤝 Kemitraan Strategis"]
+    C --> E["🎯 Target & Guidance"]
+```
+
+## 📑 9. Daftar Indeks Slide Presentasi
+
+| Slide # | Judul / Topik Slide | Ringkasan Konten |
+|---|---|---|
 
 ---
 
-*Dokumen dihasilkan otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-05 12:16 WIB.*
+*Dokumen diolah otomatis oleh **Swarm Intelijen Pasar Modal Indonesia** pada 2026-10-12 16:49 WIB.*

@@ -1,9 +1,9 @@
 # 📢 Pemanggilan RUPS / RUPSLB — [[SMMA]]
 
-⬅️ [[knowledge-base/daily-digests/Daily_Digest_20261009|Kembali ke Daily Digest]] | 📅 **2026-10-09** | 🎛️ [[Dashboard|Ke Dashboard Utama]]
+⬅️ [[knowledge-base/daily-digests/Daily_Digest_20261012|Kembali ke Daily Digest]] | 📅 **2026-10-12** | 🎛️ [[Dashboard|Ke Dashboard Utama]]
 
 > [!IMPORTANT]
-> Laporan ini disusun secara otomatis oleh **Corporate Action Intelligence Agent** pada **2026-10-09**.
+> Laporan ini disusun secara otomatis oleh **Corporate Action Intelligence Agent** pada **2026-10-12**.
 > Sumber dokumen: `20261009_SMMA_20261009_SMMA_Pengumuman RUPS_32165029_lamp3.pdf`
 
 ---
@@ -13,7 +13,7 @@
 - **Kode & Nama Emiten**: `[[SMMA]]`
 - **Kategori Aksi Korporasi**: `Pemanggilan_RUPS`
 - **Dokumen Sumber**: `20261009_SMMA_20261009_SMMA_Pengumuman RUPS_32165029_lamp3.pdf`
-- **Tanggal Laporan**: `2026-10-09`
+- **Tanggal Laporan**: `2026-10-12`
 
 [Analisis LLM tidak tersedia — isi manual]
 
@@ -64,11 +64,11 @@ graph TD
 
 ## 🔗 8. Hubungan Note Terkait (Knowledge Graph)
 
-- [[knowledge-base/daily-digests/Daily_Digest_20261009|📄 Daily Digest 2026-10-09]]
-- [[knowledge-base/trading-signals/Trading_Signals_20261009|🎯 Sinyal Cuan 2026-10-09]]
+- [[knowledge-base/daily-digests/Daily_Digest_20261012|📄 Daily Digest 2026-10-12]]
+- [[knowledge-base/trading-signals/Trading_Signals_20261012|🎯 Sinyal Cuan 2026-10-12]]
 - [[SMMA|🏬 Halaman Emiten SMMA]]
 - [[Dashboard|🎛️ Kembali ke Dashboard Utama]]
 
 ---
 
-*Laporan dibuat otomatis oleh Corporate Action Intelligence Agent · 2026-10-09*
+*Laporan dibuat otomatis oleh Corporate Action Intelligence Agent · 2026-10-12*

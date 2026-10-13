@@ -1159,6 +1159,92 @@ def _process_single_announcement_extraction(ann, db_cache):
     return res
 
 
+def build_dynamic_next_steps(
+    dividen_emitens: set[str],
+    mto_emitens: set[str],
+    ca_emitens: set[str],
+    financial_reports: list[dict],
+    pubex_emitens: set[str],
+    bearish_items: list[tuple[str, str]],
+    bullish_items: list[tuple[str, str]],
+    date_str: str,
+) -> str:
+    """Susun rekomendasi langkah analisis (Section 5) secara dinamis berbasis temuan harian nyata."""
+    steps = []
+
+    # 1. Dividen Action
+    if dividen_emitens:
+        em_list = ", ".join([f"`[[{e}]]`" for e in sorted(dividen_emitens)])
+        steps.append(
+            f"1. **Dividen Action**: Pantau *Cum Date*, *Recording Date*, dan *Payment Date* untuk emiten pembagi dividen: {em_list}. "
+            "Evaluasi *Dividend Yield* terhadap harga pasar serta periksa kecukupan arus kas operasional (*Cash Flow from Operations*) untuk menghindari *dividend trap*."
+        )
+    else:
+        steps.append(
+            "1. **Dividen Action**: Nihil pengumuman dividen baru hari ini. Pantau jadwal pembayaran dividen berjalan pada [[Action_Calendar|Action Calendar]]."
+        )
+
+    # 2. Corporate Action & Restrukturisasi
+    special_ca = sorted(mto_emitens | ca_emitens)
+    if special_ca:
+        ca_list = ", ".join([f"`[[{e}]]`" for e in special_ca])
+        steps.append(
+            f"2. **Corporate Action Tracking**: Pantau tindak lanjut aksi korporasi strategis untuk {ca_list}. "
+            "Verifikasi jadwal penawaran tender wajib (MTO), penetapan rasio penebusan rights issue, komitmen pembeli siaga, dan potensi dilusi saham publik."
+        )
+    else:
+        steps.append(
+            "2. **Corporate Action Tracking**: Tidak terdeteksi aksi tender offer (MTO), rights issue, atau restrukturisasi agresif baru hari ini."
+        )
+
+    # 3. Financial Statement Deep-Dive
+    if financial_reports:
+        fin_em = sorted({r.get("emiten", "") for r in financial_reports if r.get("emiten")})
+        fin_list = ", ".join([f"`[[{e}]]`" for e in fin_em])
+        steps.append(
+            f"3. **Financial Statement Deep-Dive**: Terdeteksi rilis laporan keuangan baru untuk {fin_list}. "
+            "Instruksikan tim `financial-summarizer` untuk mengekstrak 3-layer data mentah (Neraca, Laba Rugi, Arus Kas) serta memperbarui valuasi wajar (Fair Value)."
+        )
+    else:
+        steps.append(
+            "3. **Financial Statement Deep-Dive**: Nihil publikasi laporan keuangan kuartalan baru hari ini. Model valuasi tetap mengacu pada basis interim terakhir."
+        )
+
+    # 4. Public Expose & Manajemen Guidance
+    if pubex_emitens:
+        px_list = ", ".join([f"`[[{e}]]`" for e in sorted(pubex_emitens)])
+        steps.append(
+            f"4. **Public Expose Intelligence**: Bedah materi slide presentasi dan risalah tanya jawab (Q&A) untuk {px_list}. "
+            "Validasi proyeksi pertumbuhan dan *guidance* manajemen melalui laporan intelijen di `knowledge-base/public-exposes/`."
+        )
+    else:
+        steps.append(
+            "4. **Public Expose Intelligence**: Tidak ada pengumuman paparan publik baru yang dilaporkan hari ini."
+        )
+
+    # 5. Risk & Compliance Alert
+    if bearish_items:
+        br_em = sorted({e for e, _ in bearish_items})
+        br_list = ", ".join([f"`[[{e}]]`" for e in br_em])
+        steps.append(
+            f"5. **Risk & Compliance Alert**: Perhatian khusus untuk {br_list} terkait sinyal bearish atau potensi risiko bursa. "
+            "Instruksikan tim `risk-compliance` untuk mengaudit keterbukaan sengketa hukum, volatilitas transaksi, atau potensi suspensi."
+        )
+    else:
+        steps.append(
+            "5. **Risk & Compliance Alert**: Nihil sentimen bearish kritis atau sengketa hukum material pada pengumuman bursa hari ini."
+        )
+
+    # 6. Alpha Signal & Execution
+    date_compact = date_str.replace("-", "")
+    steps.append(
+        f"6. **Alpha Signal & Portfolio Execution**: Sinkronisasikan seluruh temuan di atas ke [[Trading_Signals_{date_compact}|Trading Signals ({date_str})]] "
+        f"dan [[Action_Calendar|Action Calendar]] untuk perumusan eksekusi modal dan rekomendasi portofolio."
+    )
+
+    return "\n\n".join([f"> {s}" for s in steps])
+
+
 def generate_digest_report(new_announcements, target_date_prefix=None, is_weekend=False):
     """Generate a clean markdown report inside reports/summaries/."""
     date_prefix = target_date_prefix or datetime.now().strftime("%Y%m%d")
@@ -1291,6 +1377,13 @@ def generate_digest_report(new_announcements, target_date_prefix=None, is_weeken
         warrant_watchlist = []
         insider_watchlist = []
 
+        dividen_emitens = set()
+        mto_emitens = set()
+        ca_emitens = set()
+        pubex_emitens = set()
+        bearish_items = []
+        bullish_items = []
+
         bullish_cnt = 0
         bearish_cnt = 0
         neutral_cnt = 0
@@ -1352,10 +1445,23 @@ def generate_digest_report(new_announcements, target_date_prefix=None, is_weeken
                 sentiment = classify_sentiment(cat, b_title, jdict)
                 if "BULLISH" in sentiment:
                     bullish_cnt += 1
+                    bullish_items.append((emiten, b_title))
                 elif "BEARISH" in sentiment:
                     bearish_cnt += 1
+                    bearish_items.append((emiten, b_title))
                 else:
                     neutral_cnt += 1
+
+                cat_l = cat.lower()
+                b_title_l = b_title.lower()
+                if "dividen" in cat_l or "dividen" in b_title_l:
+                    dividen_emitens.add(emiten)
+                if "tender offer" in cat_l or "mto" in b_title_l or "tender" in b_title_l:
+                    mto_emitens.add(emiten)
+                if any(k in cat_l or k in b_title_l for k in ["rights issue", "pmhmetd", "buyback", "rups", "stock split"]):
+                    ca_emitens.add(emiten)
+                if "public expose" in cat_l or "pubex" in b_title_l or "public expose" in b_title_l:
+                    pubex_emitens.add(emiten)
 
                 if main_url:
                     main_link = f"[{main_title}]({main_url})"
@@ -1413,7 +1519,15 @@ def generate_digest_report(new_announcements, target_date_prefix=None, is_weeken
 
                 # Append Mermaid diagram for MTO or Dividend events
                 if "tender offer" in cat.lower() or "mto" in b_title.lower() or "tender" in b_title.lower():
-                    ctrl = "Pacific Universal Investments Pte. Ltd."
+                    ctrl = "Calon Pengendali Baru"
+                    if facts_list:
+                        for f in facts_list:
+                            if isinstance(f, dict):
+                                p_l, v_val = f.get("parameter", "").lower(), str(f.get("nilai_parameter", "")).strip()
+                                if any(k in p_l for k in ["pengendali", "pembeli", "pihak"]):
+                                    if v_val and v_val.lower() not in ["null", "none", "tidak ada / nihil"]:
+                                        ctrl = v_val
+                                        break
                     b_text += f"\n\n```mermaid\ngraph TD\n    Controller[\"🏢 {ctrl}\"] -->|Mandatory Tender Offer| Emiten[\"🏬 {emiten}\"]\n    Emiten -->|Transisi Kepemilikan| Public[\"👥 Pemegang Saham Publik\"]\n```"
                 elif "dividen" in cat.lower():
                     nom_val, cum_val, pay_val = "Dividen Interim", "Terjadwal", "Terjadwal"
@@ -1481,6 +1595,18 @@ def generate_digest_report(new_announcements, target_date_prefix=None, is_weeken
             fin_section = f"""> [!NOTE]
 > Tidak dideteksi adanya publikasi laporan keuangan baru hari ini. Rangkuman per emiten secara terperinci tidak diperlukan."""
 
+        # Build dynamic next steps recommendations
+        next_steps_content = build_dynamic_next_steps(
+            dividen_emitens=dividen_emitens,
+            mto_emitens=mto_emitens,
+            ca_emitens=ca_emitens,
+            financial_reports=financial_reports,
+            pubex_emitens=pubex_emitens,
+            bearish_items=bearish_items,
+            bullish_items=bullish_items,
+            date_str=today_str,
+        )
+
         title_header = f"# Ikhtisar Akhir Pekan (Weekend Digest) - {today_str}" if is_weekend else f"# Ikhtisar Pasar Harian (Daily Digest) - {today_str}"
         dash_header = "## 1. Radar Pasar & Sentimen Akhir Pekan (Executive Weekend Dashboard)" if is_weekend else "## 1. Radar Pasar & Sentimen Harian (Executive Dashboard)"
         nav_tag = "Weekend Digest" if is_weekend else "Daily Digest"
@@ -1524,9 +1650,7 @@ def generate_digest_report(new_announcements, target_date_prefix=None, is_weeken
 ## 5. Rekomendasi & Langkah Analisis Selanjutnya (Next Steps)
 > [!TIP]
 > **Instruksi Otomatis Swarm Agent**:
-> 1. **Dividen Action**: Pantau *Recording Date & Payment Date* untuk emiten pembagi [[Dividen Interim]] (`[[TAPG]]`, `[[AMAR]]`).
-> 2. **Tender Offer Action**: Pantau keterbukaan informasi lanjutan untuk `[[MAPI]]` terkait harga [[Mandatory Tender Offer]] oleh `[[Pacific Universal Investments Pte. Ltd.]]`.
-> 3. **Financial Statement Deep-Dive**: Jika ada [[Laporan Keuangan]] baru di Section 1, jalankan agen `financial-summarizer-agent` untuk menghitung margin dan rasio valuasi.
+{next_steps_content}
 """
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(content)

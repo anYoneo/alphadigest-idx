@@ -1,6 +1,6 @@
 # 💸 Panduan & Intelijen Topik: [[Dividen Interim]] & Dividen Tunai
 
-⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-09**
+⬅️ [[Dashboard|Ke Dashboard Utama]] | 📅 **Terakhir Diperbarui: 2026-10-12**
 
 > [!NOTE]
 > Topik ini merangkum seluruh pengumuman **Dividen Interim** dan **Dividen Tunai** yang dipindai dari Bursa Efek Indonesia (BEI) oleh AI Swarm.
@@ -37,5 +37,5 @@
 
 ## 🔗 Hubungan Note Terkait (Knowledge Graph)
 - [[knowledge-base/calendars/Action_Calendar|🗓️ Kalender Terpusat Dividen & Aksi Korporasi]]
-- [[knowledge-base/trading-signals/Trading_Signals_20261009|🎯 Sinyal Cuan 2026-10-09]]
+- [[knowledge-base/trading-signals/Trading_Signals_20261012|🎯 Sinyal Cuan 2026-10-12]]
 - [[Dashboard|🎛️ Kembali ke Dashboard Utama]]

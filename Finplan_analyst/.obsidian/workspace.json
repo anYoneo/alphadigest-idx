@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge-base/public-exposes/POLI_Public_Expose_20261009.md",
+                "file": "knowledge-base/daily-digests/2026-10/Daily_Digest_20261009.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POLI_Public_Expose_20261009"
+              "title": "Daily_Digest_20261009"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge-base/public-exposes/POLI_Public_Expose_20261009.md",
+                "file": "knowledge-base/daily-digests/2026-10/Daily_Digest_20261009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge-base/public-exposes/POLI_Public_Expose_20261009.md",
+                "file": "knowledge-base/daily-digests/2026-10/Daily_Digest_20261009.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,46 +185,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "878048cd608fac2d",
+  "active": "55b9da558fe04607",
   "lastOpenFiles": [
-    "knowledge-base/public-exposes/POLI_Public_Expose_20261006.md",
-    "knowledge-base/public-exposes/POLI_Public_Expose_20260928.md",
-    "knowledge-base/public-exposes/informasi-pubex/MDLA_Public_Expose_20260914.md",
-    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261006.md",
-    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261009.md",
-    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261008.md",
-    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261007.md",
-    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261005.md",
-    "knowledge-base/daily-digests/2026-10/Weekend_Digest_20261005.md",
-    "knowledge-base/corporate-actions/rups/pemanggilan/MKPI_Pemanggilan_RUPS_20261005.md",
-    "knowledge-base/daily-digests/2026-09/Weekend_Digest_20260907.md",
-    "knowledge-base/daily-digests/2026-09/Daily_Digest_20260924.md",
-    "knowledge-base/trading-signals/2026-09/Trading_Signals_20260925.md",
-    "knowledge-base/daily-digests/2026-09/Daily_Digest_20260925.md",
-    "knowledge-base/corporate-actions/dividen/NICL_Dividen_20260924.md",
-    "knowledge-base/public-exposes/UNTD_Public_Expose_20260925.md",
-    "knowledge-base/corporate-actions/rups/pemanggilan/IBOS_Pemanggilan_RUPS_20260924.md",
-    "knowledge-base/corporate-actions/rups/hasil-rups/POOL_Hasil_RUPS_20260924.md",
-    "knowledge-base/public-exposes/MERK_Public_Expose_20260925.md",
-    "knowledge-base/corporate-actions/rups/pemanggilan/WIFI_Pemanggilan_RUPS_20260924.md",
-    "knowledge-base/corporate-actions/rups/pemanggilan/BIKE_Pemanggilan_RUPS_20260924.md",
-    "knowledge-base/financial-summaries/APII_2026_Q2_Summary.md",
-    "knowledge-base/corporate-actions/rups/hasil-rups/MGLV_Hasil_RUPS_20260924.md",
-    "knowledge-base/corporate-actions/rights-issue/HRTA_Rights_Issue_20260924.md",
-    "knowledge-base/corporate-actions/rups/hasil-rups/OILS_Hasil_RUPS_20260924.md",
-    "knowledge-base/public-exposes/CASH_Public_Expose_20260925.md",
+    "knowledge-base/daily-digests/2026-10/Daily_Digest_20261012.md",
+    "knowledge-base/trading-signals/2026-10/Trading_Signals_20261012.md",
+    "knowledge-base/public-exposes/informasi-pubex/WIFI_Public_Expose_20260902.md",
+    "knowledge-base/public-exposes/WIKA_Public_Expose_20261006.md",
+    "knowledge-base/corporate-actions/tender-offer/AUTO_Tender_Offer_20261012.md",
+    "knowledge-base/corporate-actions/rups/pemanggilan/FLMC_Pemanggilan_RUPS_20261012.md",
+    "knowledge-base/public-exposes/informasi-pubex/BLTZ_Public_Expose_20261012.md",
+    "knowledge-base/public-exposes/informasi-pubex/YPAS_Public_Expose_20260827.md",
+    "knowledge-base/public-exposes/informasi-pubex/YPAS_Public_Expose_20260826.md",
+    "knowledge-base/public-exposes/informasi-pubex/WOMF_Public_Expose_20260804.md",
+    "knowledge-base/public-exposes/hasil-pubex/WIKA_Public_Expose_20261006.md",
+    "knowledge-base/public-exposes/informasi-pubex/WIKA_Public_Expose_20260928.md",
+    "knowledge-base/public-exposes/informasi-pubex/WIFI_Public_Expose_20260821.md",
+    "knowledge-base/public-exposes/informasi-pubex/VTNY_Public_Expose_20260916.md",
+    "knowledge-base/public-exposes/hasil-pubex/VTNY_Public_Expose_20260824.md",
+    "knowledge-base/public-exposes/hasil-pubex/VICI_Public_Expose_20260916.md",
+    "knowledge-base/public-exposes/informasi-pubex/UNTR_Public_Expose_20260821.md",
+    "knowledge-base/public-exposes/informasi-pubex/UNTD_Public_Expose_20260924.md",
+    "knowledge-base/public-exposes/informasi-pubex/TRUK_Public_Expose_20260814.md",
+    "knowledge-base/public-exposes/hasil-pubex/TOWR_Public_Expose_20260824.md",
+    "knowledge-base/public-exposes/informasi-pubex/TMPO_Public_Expose_20260831.md",
+    "knowledge-base/public-exposes/informasi-pubex/TLKM_Public_Expose_20260821.md",
+    "knowledge-base/public-exposes/hasil-pubex/TINS_Public_Expose_20260827.md",
+    "knowledge-base/public-exposes/hasil-pubex/TEBE_Public_Expose_20261006.md",
+    "knowledge-base/public-exposes/informasi-pubex/TEBE_Public_Expose_20260929.md",
+    "knowledge-base/public-exposes/informasi-pubex/TEBE_Public_Expose_20260928.md",
+    "cv/CV_Muhammad_Riszky_Wibowo_Executive_2026.pdf",
+    "cv/msoBCF0.tmp",
+    "cv/msoB648.tmp",
+    "cv/~$_Muhammad_Riszky_Wibowo_Executive_2026.docx",
+    "cv/CV_Muhammad_Riszky_Wibowo_Executive_2026.docx",
+    "cv/~WRD0000.tmp",
+    "cv/mso310E.tmp",
+    "cv/mso2778.tmp",
+    "cv/CV_Muhammad_riszky_wibowo_Update.docx",
+    "cv",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "knowledge-base/trading-signals/2026-09",
-    "knowledge-base/trading-signals/2026-08",
-    "knowledge-base/daily-digests/2026-09",
-    "knowledge-base/daily-digests/2026-08",
-    "knowledge-base/daily-digests/2026-07",
-    "knowledge-base/corporate-actions/general-disclosures",
-    "knowledge-base/public-exposes/informasi-pubex",
-    "knowledge-base/public-exposes/hasil-pubex",
-    "knowledge-base/corporate-actions/rups/hasil-rups",
-    "knowledge-base/corporate-actions/rups/pemanggilan"
+    "Untitled.canvas"
   ]
 }
